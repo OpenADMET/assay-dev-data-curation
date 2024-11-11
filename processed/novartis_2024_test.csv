@@ -1,4 +1,4 @@
-SMILES,kobs,Non-proprietary name,log_kobs,CANONICAL_SMILES,INCHIKEY,split,data_type,activity_class
+SMILES,kobs,common_name,log_kobs,CANONICAL_SMILES,INCHIKEY,split,data_type,activity_class
 CCN(CC)CCNC(=O)c1ccc(cc1)NC(C)=O,0.005,Acecainide,-2.3010299956639813,CCN(CC)CCNC(=O)c1ccc(NC(C)=O)cc1,KEECCEWTUVWFCV-UHFFFAOYSA-N,test,assay,negative
 COc1ccc2c(c1)C(CC(=O)OCC(O)=O)=C(C)N2C(=O)c3ccc(Cl)cc3,0.011,Acemetacin,-1.958607314841775,COc1ccc2c(c1)c(CC(=O)OCC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1,FSQKKOOTNAMONP-UHFFFAOYSA-N,test,assay,weak_positive
 CCCSc2ccc1NC(NC(=O)OC)=Nc1c2,0.008,Albendazole,-2.0969100130080562,CCCSc1ccc2[nH]c(NC(=O)OC)nc2c1,HXHWSAZORRCQMX-UHFFFAOYSA-N,test,assay,negative
