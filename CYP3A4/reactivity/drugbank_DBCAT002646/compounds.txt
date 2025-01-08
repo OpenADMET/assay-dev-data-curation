@@ -1,0 +1,863 @@
+Indinavir	A protease inhibitor used to treat HIV infection.
+Lovastatin	An HMG-CoA reductase inhibitor used to lower LDL cholesterol and reduce the risk of cardiovascular disease and associated conditions, including myocardial infarction and stroke.
+Nevirapine	A non-nucleoside reverse transcriptase inhibitor used as part of a management regimen for HIV-1 virus infection.
+Diltiazem	A calcium channel blocker used to treat hypertension and to manage chronic stable angina.
+Amlodipine	A calcium channel blocker used to treat hypertension and angina.
+Nisoldipine	A calcium channel blocker used as monotherapy or combined with other drugs for the treatment of hypertension.
+Alprazolam	A triazolobenzodiazepine with intermediate onset commonly used to treat panic disorders and generalized anxiety in addition to anxiety associated with depression.
+Quinine	An alkaloid used to treat uncomplicated Plasmodium falciparum malaria.
+Buspirone	An anxiolytic agent used for short-term treatment of generalized anxiety and second-line treatment of depression.
+Vincristine	A vinca alkaloid used to treat acute leukemia, malignant lymphoma, Hodgkin's disease, acute erythraemia, and acute panmyelosis.
+Cisapride	A medication used to treat heartburn associated with GERD.
+Imatinib	A tyrosine kinase inhibitor used to treat a number of leukemias, myelodysplastic/myeloproliferative disease, systemic mastocytosis, hypereosinophilic syndrome, dermatofibrosarcoma protuberans, and gastrointestinal stromal tumors.
+Astemizole	A second generation antihistamine used to treat allergy symptoms.
+Simvastatin	An HMG-CoA reductase inhibitor used to lower lipid levels and reduce the risk of cardiovascular events including myocardial infarction and stroke.
+Tamoxifen	A selective estrogen receptor modulator used to treat estrogen receptor positive breast cancer, reduce the risk of invasive breast cancer following surgery, or reduce the risk of breast cancer in high risk women.
+Midazolam	A short-acting benzodiazepine with rapid onset that is commonly used in seizures, anesthesia and anxiety disorders.
+Alfentanil	An opioid agonist used to induce and maintain anesthesia, as well as an analgesic.
+Tadalafil	A phosphodiesterase 5 inhibitor used to treat erectile dysfunction, benign prostatic hyperplasia, and pulmonary arterial hypertension.
+Diazepam	A long-acting benzodiazepine with rapid onset commonly used to treat panic disorders, severe anxiety, alcohol withdrawal, and seizures.
+Vardenafil	A phosphodiesterase 5 inhibitor used to treat erectile dysfunction.
+Tacrolimus	A calcineurin inhibitor used to prevent organ transplant rejection and to treat moderate to severe atopic dermatitis.
+Sirolimus	An mTOR inhibitor immunosuppressant used to prevent organ transplant rejections, treat lymphangioleiomyomatosis, and treat adults with perivascular epithelioid cell tumors.
+Triazolam	A benzodiazepine used for short term treatment of insomnia.
+Telithromycin	An ketolide used to treat community acquired pneumonia of mild to moderate severity.
+Felodipine	A calcium channel blocker used to treat hypertension.
+Nitrendipine	A dihydropyridine calcium channel blocker indicated in the treatment of arterial hypertension.
+Atorvastatin	An HMG-CoA reductase inhibitor used to lower lipid levels and reduce the risk of cardiovascular disease including myocardial infarction and stroke.
+Pimozide	An antipsychotic used to manage debilitating motor and phonic tics in patients with Tourette's Disorder.
+Chlorpheniramine	A histamine-H1 receptor antagonist indicated for the management of symptoms associated with upper respiratory allergies.
+Nifedipine	A dihydropyridine calcium channel blocker indicated for the management of several subtypes of angina pectoris, and hypertension.
+Clarithromycin	A macrolide antibiotic used for the treatment of a wide variety of bacterial infections such as acute otitis, pharyngitis, tonsillitis, respiratory tract infections, uncomplicated skin infections, and helicobacter pylori infection.
+Saquinavir	An HIV protease inhibitor used in combination with other antiretroviral agents for the treatment of HIV-1 with advanced immunodeficiency.
+Aripiprazole	An atypical antipsychotic used in the treatment of a wide variety of mood and psychotic disorders, such as schizophrenia, bipolar I, major depressive disorder, irritability associated with autism, and Tourette's syndrome.
+Erythromycin	A macrolide antibiotic used to treat and prevent a variety of bacterial infections.
+Carbamazepine	An anticonvulsant used to treat various types of seizures and pain resulting from trigeminal neuralgia.
+Sildenafil	A phosphodiesterase inhibitor used for the treatment of erectile dysfunction.
+Quinidine	A medication used to restore normal sinus rhythm, treat atrial fibrillation and flutter, and treat ventricular arrhythmias.
+Trazodone	A serotonin uptake inhibitor used to treat major depressive disorder.
+Cyclosporine	A steroid-sparing immunosuppressant used in organ and bone marrow transplants as well as inflammatory conditions such as ulcerative colitis, rheumatoid arthritis, and atopic dermatitis.
+Verapamil	A non-dihydropyridine calcium channel blocker used in the treatment of angina, arrhythmia, and hypertension.
+Haloperidol	An antipsychotic agent used to treat schizophrenia and other psychoses, as well as symptoms of agitation, irritability, and delirium.
+Azithromycin	A macrolide antibiotic used to treat a variety of bacterial infections.
+Rosuvastatin	An HMG-CoA reductase inhibitor used to lower lipid levels and reduce the risk of cardiovascular disease including myocardial infarction and stroke.
+Telaprevir	An NS3/4A viral protease inhibitor used in combination with other antivirals for the curative treatment of chronic Hepatitis C Virus infections.
+Boceprevir	A hepatitis C virus NS3/4A protease inhibitor used in combination with other medications to treat chronic hepatitis C genotype 1 infection. Boceprevir is not indicated as monotherapy.
+Ritonavir	An HIV protease inhibitor used in combination with other antivirals in the treatment of HIV infection.
+Amiodarone	A class III antiarrhythmic indicated for the treatment of recurrent hemodynamically unstable ventricular tachycardia and recurrent ventricular fibrillation.
+Isavuconazole	Indicated for patients 18 years of age and older for the treatment of invasive aspergillosis [FDA Label]. Indicated for patients 18 years of age and older for the treatment of...
+Atazanavir	An antiviral protease inhibitor used in combination with other antiretrovirals for the treatment of HIV.
+Etravirine	A non-nucleoside reverse transcriptase inhibitor (NNRTI) used in the treatment of HIV-1 infections in combination with other antiretroviral agents.
+Amprenavir	A protease inhibitor used to treat HIV infection.
+Nelfinavir	A viral protease inhibitor used in the treatment of HIV infection.
+Nefazodone	An antidepressant used in the treatment of depression.
+Riociguat	A stimulator of soluble guanylate cyclase indicated for the management of persistent or recurrent chronic thromboembolic pulmonary hypertension and pulmonary arterial hypertension.
+Simeprevir	A direct-acting antiviral agent that inhibits HCV NS3/4A protease to treat chronic hepatitis C virus (HCV) infection in adults with HCV genotype 1 or 4.
+Temsirolimus	A antineoplastic agent used in the treatment of renal cell carcinoma (RCC) that works by inhibiting mTOR.
+Asunaprevir	An NS3 protease inhibitor used to treat hepatitis C genotype 1b.
+Amitriptyline	A tricyclic antidepressant indicated in the treatment of depressive illness, either endogenous or psychotic, and to relieve depression associated anxiety.
+Clomipramine	A tricyclic antidepressant used in the treatment of obsessive-compulsive disorder and disorders with an obsessive-compulsive component, such as depression, schizophrenia, and Tourette’s disorder.
+Cyclobenzaprine	A skeletal muscle relaxant that works on the brainstem to treat muscle spasms of local origin.
+Doxepin	A psychotropic agent used for the treatment of depression, anxiety, manic-depressive disorder, and insomnia.
+Imipramine	A tricyclic antidepressant indicated for the treatment of depression and to reduce childhood enuresis.
+Nortriptyline	A tricyclic antidepressant used in the treatment of depression.
+Tianeptine	An atypical tricyclic antidepressant with antidepressant and anxiolytic effects primarily used to treat major depressive disorder.
+Estradiol	An estrogenic steroid used to treat vasomotor symptoms of vulvar and vaginal atrophy in menopause, hypoestrogenism, prevention of postmenopausal osteoporosis, treatment of breast cancer, and advanced androgen-dependent carcinoma of the prostate.
+Estradiol cypionate	An estradiol prodrug used to treat vasomotor symptoms and hypoestrogenisms from hypogonadism.
+Estradiol valerate	An estradiol prodrug used to treat some effects of menopause, hypoestrogenism, androgen dependant carcinoma of the prostate, and in combination products for endometriosis and contraception.
+Ethinylestradiol	An estradiol used as a contraceptive.
+Mestranol	A synthetic estradiol found in oral contraceptive pills for contraception and the treatment of other conditions in the female reproductive system, such as dysmenorrhea and dysfunctional uterine bleeding.
+Aminophylline	A bronchodilator consisting of theophylline that is used for the treatment of bronchospasm due to asthma, emphysema and chronic bronchitis.
+Theophylline	A xanthine used to manage the symptoms of asthma, COPD, and other lung conditions caused by reversible airflow obstruction.
+Bromocriptine	A dopamine D2 receptor agonist used for the treatment of galactorrhea due to hyperprolactinemia and other prolactin-related conditions, as well as in early Parkinsonian Syndrome.
+Cabergoline	A dopamine receptor agonist used for the treatment of hyperprolactinemic conditions due to various causes.
+Dihydroergotamine	An ergot alkaloid used in the acute treatment of migraine headache and cluster headache.
+Ergoloid mesylate	A nootropic with an unknown mechanism of action indicated in individuals over sixty who manifest signs and symptoms of an idiopathic decline in mental capacity.
+Ergometrine	An ergot alkaloid used for the treatment of postpartum haemorrhage and post abortion hemorrhage in patients with uterine atony.
+Ergotamine	An alpha-1 selective adrenergic agonist vasoconstrictor used to treat migraines with or without aura and cluster headaches.
+Lisuride	For the management of Parkinson's Disease
+Lysergic acid diethylamide	Debate continues over the nature and causes of chronic flashbacks. Explanations in terms of LSD physically remaining in the body for months or years after consumption have been discounted by...
+Methylergometrine	An ergot alkaloid used to prevent and control uterine atony and hemorrhage before and after delivery.
+Terguride	Not Annotated
+Triamcinolone	A glucocorticoid used to treat a wide variety of inflammatory conditions of organ systems and tissues.
+Voriconazole	A triazole compound used to treat fungal infections.
+Esomeprazole	A proton pump inhibitor used to treat GERD, reduce the risk of NSAID associated gastric ulcers, eradicate H. pylori, and to treat conditions causing gastric acid hypersecretion.
+Omeprazole	A proton pump inhibitor used to treat GERD associated conditions such as heartburn and gastric acid hypersecretion, and to promote healing of tissue damage and ulcers caused by gastric acid and H. pylori infection.
+Propafenone	A Class 1C antiarrhythmic agent used in the management of paroxysmal atrial fibrillation/flutter and ventricular arrhythmias.
+(R)-warfarin	Warfarin consists of a racemic mixture of two active enantiomers—R- and S- forms—each of which is cleared by different pathways. S-warfarin is 2-5 times more potent than the R-isomer in...
+Phenprocoumon	An anticoagulant drug used for the prevention of thrombosis.
+Teniposide	A cytotoxic drug used as an adjunct for chemotherapy induction in the treatment of refractory childhood acute lymphoblastic leukemia.
+Tipranavir	A protease inhibitor used to treat HIV-1 resistant to more than 1 protease inhibitor.
+Ulipristal	A selective progesterone receptor modulator used for emergency contraception after unprotected intercourse or in a situation where a planned method of contraception has failed.
+Disopyramide	A class 1A antiarrhythmic agent used to treat life-threatening ventricular arrhythmias.
+Methadone	An opioid analgesic indicated for management of severe pain that is not responsive to alternative treatments. Also used to aid in detoxification and maintenance treatment of opioid addiction.
+Alfuzosin	An alpha-1 adrenergic antagonist used in the symptomatic management of benign prostatic hypertrophy (BPH).
+Buprenorphine	A partial opioid agonist used for management of severe pain that is not responsive to alternative treatments. Also used for maintenance treatment of opioid addiction.
+Avanafil	A phosphodiesterase-5 (PDE5) inhibitor used to treat erectile dysfunction.
+Fostamatinib	A spleen tyrosine kinase inhibitor used to treat chronic immune thrombocytopenia after attempting one other treatment.
+Udenafil	A PDE5 inhibitor used to treat erectile dysfunction.
+Pantoprazole	A proton pump inhibitor used to treat erosive esophagitis, gastric acid hypersecretion, and to promote healing of tissue damage caused by gastric acid.
+Lansoprazole	A proton pump inhibitor used to help gastrointestinal ulcers heal, to treat symptoms of gastroesophageal reflux disease (GERD), to eradicate Helicobacter pylori, and to treat hypersecretory conditions such as Zollinger-Ellison Syndrome.
+Dexlansoprazole	A proton pump inhibitor used to treat erosive esophagitis, heartburn, and gastroesophageal reflux disease (GERD).
+Rabeprazole	A proton pump inhibitor used to help gastrointestinal ulcers heal, to treat symptoms of gastroesophageal reflux disease (GERD), to eradicate Helicobacter pylori, and to treat hypersecretory conditions such as Zollinger-Ellison Syndrome.
+Aprepitant	A substance P/neurokinin 1 receptor antagonist used to treat nausea and vomiting caused by chemotherapy and surgery.
+Lacidipine	A lipophilic dihydropyridine calcium channel blocker with a slow onset of action used to treat hypertension.
+Ivosidenib	An isocitrate dehydrogenase-1 inhibitor used to treat acute myeloid leukemia and cholangiocarcinoma in adults with a susceptible IDH1 mutation.
+3,5-diiodothyropropionic acid	DITPA has been investigated in Congestive Heart Failure.
+5-androstenedione	5-androstenedione is a prohormone of testosterone. In the United States, the Controlled Substance Act is inclusive to anabolic steroids and their precursors. Thus 5-androstenedione is a controlled substance, and its...
+Alclometasone	A topical corticosteroid used to relieve the symptoms of corticosteroid-responsive dermatoses.
+Aldosterone	A hormone secreted by the adrenal cortex that regulates electrolyte and water balance by increasing the renal retention of sodium and the excretion of potassium.
+Allylestrenol	A steroid used to prevent premature labour in pregnant women.
+Amcinonide	A topical corticosteroid used in the treatment of inflammation and pruritus due to a variety of dermatoses.
+Androstenedione	A delta-4 C19 steroid that is produced not only in the testis, but also in the ovary and the adrenal cortex. Depending on the tissue type, androstenedione can serve as...
+Beclomethasone dipropionate	An inhaled corticosteroid used as maintenance treatment in the prophylaxis of asthma attacks.
+Betamethasone	A systemic corticosteroid used to relieve inflammation in various conditions, including but not limited to allergic states, dermatologic disorders, gastrointestinal diseases, and hematological disorders.
+Budesonide	A corticosteroid used to treat Crohn's disease, asthma, COPD, hay fever and allergies, and ulcerative colitis.
+Ciclesonide	A glucocorticoid used in the symptomatic relief of nasal symptoms associated with seasonal and perennial allergic rhinitis in adults and adolescents.
+Clobetasol	Clobetasol is under investigation for the treatment of Scleroderma. Clobetasol has been investigated for the prevention of Psoriasis and Cutaneous Atrophy Due to Corticosteroids.
+Clobetasol propionate	A corticosteroid used to treat corticosteroid-responsive dermatoses and plaque psoriasis.
+Clobetasone	A corticosteroid used to treat dry eyes, eczema, and dermatitis.
+Corticosterone	An adrenocortical steroid that has modest but significant activities as a mineralocorticoid and a glucocorticoid. (From Goodman and Gilman's The Pharmacological Basis of Therapeutics, 8th ed, p1437)
+Corticotropin	A diagnostic agent used in the screening of patients presumed to have adrenocortical insufficiency.
+Cortisone acetate	A steroid hormone used for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses and endocrine disorders associated with inadequate production of steroid hormones.
+Cyproterone acetate	A steroid used in combination with ethinyl estradiol to treat women with severe acne and symptoms of androgenization. Also used alone at much higher doses for palliative treatment of patients with prostate cancer
+Deflazacort	A corticosteroid used to treat Duchenne muscular dystrophy.
+Dienogest	An oral progestin used for the treatment of endometriosis as monotherapy or contraception in combination with ethinylestradiol.
+Nomegestrol	Nomegestrol is an ingredient in the EMA-authorised product Zoely.
+Nomegestrol acetate	Nomegestrol acetate, also known as NOMAC, is a progestin used in oral contraceptives, menopausal hormone therapy, and for the treatment of gynecological disorders.
+Desogestrel	A synthetic progestin used in contraception, often in combination with ethinyl estradiol.
+Desonide	A topical corticosteroid used for the symptomatic treatment of inflammatory and pruritic manifestations of corticosteroid responsive dermatoses.
+Desoxycorticosterone acetate	Not Annotated
+Desoxycorticosterone pivalate	Examined for treatment of adrenocortical insufficiency especially in multiple sclerosis, congenital cerebral palsy, polyarteritis nodosa, and rheumatoid arthritis. Currently only approved in treating cats and dogs for the treatment of...
+Dexamethasone	A glucocorticoid available in various modes of administration that is used for the treatment of various inflammatory conditions, including bronchial asthma, as well as endocrine and rheumatic disorders.
+Dexamethasone isonicotinate	Dexamethasone isonicotinate is an anti-inflammatory, anti-allergic glucocorticoid that can be administered orally, by inhalation, topically, and parenterally. Its unintended mineralocorticoid action may cause salt and water retention.
+Difluocortolone	A topical corticosteroid used for the symptomatic treatment of inflammatory skin disorders like eczema, seborrheic eczema, lichen planus and psoriasis.
+Difluprednate	A topical corticosteroid used for the symptomatic treatment of inflammation and pain associated with ocular surgery.
+Drospirenone	A progestin used in oral contraceptive pills for the prevention of pregnancy and other conditions.
+Dydrogesterone	A synthetic progesterone for menstrual cycle regulation, infertility treatment, prevention of miscarriage, and other conditions.
+Equilenin	Equilenin is an estrogenic steroid produced by horses. It has a total of five double bonds in the A- and B-ring. High concentration of equilenin is found in the urine...
+Equilin	For the treatment of moderate to severe vasomotor symptoms associated with the menopause, atrophic vaginitis, osteoporosis, hypoestrogenism due to hypogonadism, castration, primary ovarian failure, breast cancer (for palliation only), and...
+Estrone	An estrogen used to treat perimenopausal and postmenopausal symptoms.
+Estrone sulfate	An estrogen used as monotherapy or in several combination hormone replacement products for managing menopause symptoms and hormone disorders.
+Etynodiol	Etynodiol (INN), or ethynodiol (BAN) is a steroidal progestin related to norethisterone which was never marketed. While etynodiol is sometimes used as a synonym for etynodiol diacetate, it usually refers...
+Ethynodiol diacetate	An oral contraceptive used to prevent pregnancy.
+Etonogestrel	A long-acting synthetic derived progestin contraceptive used in various devices such as contraceptive rings and intradermal implants.
+Fludrocortisone	A mineralocorticoid used to treat adrenocortical insufficiency and salt-losing adrenogenital syndrome.
+Flumethasone	A corticosteroid used to treat contact dermatitis, atopic dermatitis, eczema, psoriasis, diaper rash, and other skin conditions.
+Flunisolide	An inhaled corticosteroid used as a prophylactic therapy in the maintenance treatment of asthma.
+Fluocinolone acetonide	A corticosteroid used to treat skin conditions, eczematous otitis externa, diabetic macular edema, and non-infectious uveitis of the posterior segment of the eye.
+Fluocinonide	A high potency corticosteroid commonly used topically for a number of inflammatory skin conditions.
+Fluocortolone	A glucocorticoid used topically for localized skin reactions and also orally for systemic use.
+Fluorometholone	An ophthalmic corticosteroid used for the relief of inflammation located in both the palpebral and bulbar conjunctiva, the cornea, and the anterior segment of the globe of the eye.
+Fluprednidene	Fluprednidene is a corticosteroid.
+Fluprednisolone	A synthetic glucocorticoid with anti-inflammatory properties.
+Flurandrenolide	A corticosteroid used to treat corticosteroid-responsive dermatoses.
+Fluticasone	A corticosteroid indicated in the treatment of corticosteroid responsive dermatoses, asthma, and COPD.
+Fluticasone furoate	An inhaled corticosteroid that can be used as maintenance treatment of asthma and/or chronic obstructive pulmonary disease (COPD) depending on the product. Also available as a nasal spray to manage symptoms of allergic rhinitis.
+Fluticasone propionate	A glucocorticoid used to treat asthma, inflammatory pruritic dermatoses, and nonallergic rhinitis.
+Gestodene	Gestodene is a progestogen hormonal contraceptive. Products containing gestoden include Meliane, which contains 20 mcg of ethinylestradiol and 75 mcg of gestodene; and Gynera, which contains 30 mcg of ethinylestradiol...
+Halcinonide	A corticosteroid used for the management and symptomatic relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.
+HE3286	For the treatment of rheumatoid arthritis and type 2 diabetes.
+Hydrocortisone	A glucocorticoid used to treat corticosteroid-responsive dermatoses, endocrine disorders, immune conditions, and allergic disorders.
+Hydrocortisone aceponate	For the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses. Also used to treat endocrine (hormonal) disorders (adrenal insufficiency, Addisons disease). It is also used to treat many...
+Hydrocortisone acetate	A corticosteroid used to treat inflammatory and pruritic corticosteroid-responsive dermatoses and ulcerative colitis.
+Hydrocortisone butyrate	A corticosteroid used to treat inflammatory and pruritic corticosteroid-responsive dermatoses.
+Hydrocortisone cypionate	For the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses. Also used to treat endocrine (hormonal) disorders (adrenal insufficiency, Addisons disease). It is also used to treat many...
+Hydrocortisone phosphate	A corticosteroid used to treat congenital adrenal hyperplasia, for emergency asthma treatment, hypersensitivity, and inflammation.
+Hydrocortisone probutate	A corticosteroid used to treat inflammatory and pruritic corticosteroid-responsive dermatoses.
+Hydrocortisone succinate	A corticosteroid used to treat severe allergic reactions, dermatologic diseases, endocrine disorders, gastrointestinal diseases, hematological disorders, neoplastic diseases, nervous system conditions, ophthalmic diseases, renal diseases, respiratory diseases, and rheumatic disorders.
+Hydrocortisone valerate	A corticosteroid used to treat inflammatory and pruritic corticosteroid-responsive dermatoses.
+Hydroxyprogesterone	Not Annotated
+Hydroxyprogesterone caproate	A synthetic progestin used for the prevention of spontaneous preterm births in singleton pregnancies in women who have previously had a spontaneous preterm birth.
+Levonorgestrel	A progestin found in oral and IUD contraceptives and at higher doses in emergency contraceptives.
+Liotrix	May be used to treat primary, secondary or tertiary hypothyroidism. May also be used to suppress thyroid stimulating hormone (TSH) secretion in patients with simple (nontoxic) goiter, subacute or chronic...
+Loteprednol etabonate	A corticosteroid used to treat allergic conjunctivitis as well as inflammation and pain after ocular surgery.
+Lynestrenol	A progestin used for contraception and in the treatment of menstrual disorders.
+Medrogestone	A progestin used as an adjunct to control secondary amenorrhea and dysfunctional bleeding in adolescent and adult females, and treat endometrial shedding in menopausal women.
+Medroxyprogesterone acetate	A progestin used as a contraceptive and in the treatment of secondary amenorrhea, abnormal uterine bleeding, pain from endometriosis, endometrial and renal carcinomas, paraphilia in males, and GnRH-dependent precocious puberty.
+Medrysone	A topical glucocorticoid applied ophthalmically for the treatment of various ocular inflammatory or allergic conditions.
+Megestrol acetate	A progestin that is administered orally to treat anorexia and cachexia or serious unexplained weight loss and is also used as an antineoplastic agent to treat certain types of malignancy.
+Melengestrol	Melengestrol is a steroidal progestin and antineoplastic agent which was never marketed. An acylated derivative, melengestrol acetate, is used as a growth promoter in animals.
+Meprednisone	Not Annotated
+Methylprednisolone	A corticosteroid used to treat inflammation or immune reactions across a variety of organ systems, endocrine conditions, and neoplastic diseases.
+Mometasone	A corticosteroid with no indications.
+Mometasone furoate	A corticosteroid used to treat asthma, allergic rhinitis, nasal congestion, nasal polyps, dermatitis, and pruritus.
+Norelgestromin	A progestin used for the prevention of pregnancy in women who elect to use a transdermal patch as a method of contraception.
+Norethisterone	A synthetic second-generation progestin used for contraception, prevention of endometrial hyperplasia in hormone replacement therapy, and in the treatment of other hormone-mediated illnesses such as endometriosis.
+Norethynodrel	A synthetic progestational hormone with actions and uses similar to those of PROGESTERONE. It has been used in the treatment of functional uterine bleeding and endometriosis. As a contraceptive, it...
+Norgestimate	A progesterone used as a contraceptive and to treat acne vulgaris.
+Norgestrel	A progestin used in combination with ethinyl estradiol for oral contraception and prevention of pregnancy in women.
+Paramethasone	For the treatment of all conditions in which corticosteroid therapy is indicated except adrenal-deficiency states for which its lack of sodium-retaining properties makes it less suitable than hydrocortisone with supplementary...
+Prasterone	A steroid formulated as a vaginal insert indicated for the treatment of moderate to severe dyspareunia associated with menopausal vulvar and vaginal atrophy.
+Prednicarbate	A medium potency topical corticosteroid used to manage pruritus and inflammation associated with responsive skin conditions.
+Prednisolone	A glucocorticoid used to treat adrenocortical insufficiency, inflammatory conditions, and some cancers.
+Prednisone	A corticosteroid used to treat inflammation or immune-mediated reactions and to treat endocrine or neoplastic diseases.
+Prednylidene	Prednylidene is an experimental systemic glucocorticoid.
+Pregnenolone	A 21-carbon steroid, derived from cholesterol and found in steroid hormone-producing tissues. Pregnenolone is the precursor to gonadal steroid hormones and the adrenal corticosteroids.
+Progesterone	A hormone used for a variety of functions, including contraception, control of abnormal uterine bleeding, maintenance of pregnancy, and prevention of endometrial hyperplasia.
+Promegestone	Not Annotated
+Rimexolone	A glucocorticoid used to treat inflammation of the eye.
+Atovaquone	An antimicrobial indicated for the prevention and treatment of Pneumocystis jirovecii pneumonia (PCP) and for the prevention and treatment of Plasmodium falciparum malaria.
+Ramelteon	A melatonin receptor agonist used to treat insomnia.
+Zolpidem	A sedative hypnotic used for the short-term treatment of insomnia to improve sleep latency.
+Zidovudine	A dideoxynucleoside used in the treatment of HIV infection.
+Diethylstilbestrol	Used in the treatment of prostate cancer. Previously used in the prevention of miscarriage or premature delivery in pregnant women prone to miscarriage or premature delivery.
+Gestrinone	Endometriosis with or without accompanying sterility. Treatment is limited to a single course of 6 months duration per lifetime [L1699, L1700].
+Chlormadinone	A progestin indicated in combination with an estrogen for oral combined hormonal contraceptive therapy.
+Quingestanol	Not Annotated
+Demegestone	Demegestone is a progesterone receptor agonist that was previously used to treat luteal insufficiency. It was previously marketed in France as Lutionex, but has since been discontinued.
+Dapsone	A sulfone drug used to treat acne vulgaris, Hansen's disease, and dermatitis herpetiformis.
+Morphine	An opioid agonist used for the relief of moderate to severe acute and chronic pain.
+(S)-Warfarin	Warfarin consists of a racemic mixture of two active enantiomers—R- and S- forms—each of which is cleared by different pathways. S-warfarin is 2-5 times more potent than the R-isomer in...
+Acenocoumarol	An anticoagulant drug used in the prevention of thromboembolic diseases in infarction and transient ischemic attacks, as well as management of deep vein thrombosis and myocardial infarction.
+Diphenadione	Not Annotated
+Ethyl biscoumacetate	Ethyl biscoumacetate is a courmarin that is used as an anticoagulant. It has actions similar to those of Warfarin. (From Martindale, The Extra Pharmacopoeia, 30th ed, p226)
+Warfarin	A vitamin K antagonist used to treat venous thromboembolism, pulmonary embolism, thromboembolism with atrial fibrillation, thromboembolism with cardiac valve replacement, and thromboembolic events post myocardial infarction.
+Thiamylal	Used for the production of complete anaesthesia of short duration, for the induction of general anaesthesia, and for inducing a hypnotic state.
+Azelnidipine	For the treatment of hypertension.
+Barnidipine	A calcium channel blocker used to treat various forms of hypertension.
+Bencyclane	A vasodilator agent found to be effective in a variety of peripheral circulation disorders. It has various other potentially useful pharmacological effects. Its mechanism may involve block of calcium channels.
+Benidipine	A synthetic dihydropyridine calcium channel blocker used to treat hypertension and angina pectoris.
+Bepridil	For the treatment of hypertension, and chronic stable angina (classic effort-associated angina).
+Bioallethrin	Bioallethrin was used for lice and scabies infestation. Other pyrethroids are now used in place of bioallethrin.
+Agmatine	Agmatine is being studied experimentally for several indications such as cardioprotection, diabetes, decreased kidney function, neuroprotection (stroke, severe CNS injuries, epilepsy, glaucoma, and neuropathic pain), and psychiatric conditions (depression, anxiety,...
+Carboxyamidotriazole	Carboxyamidotriazole has been used in trials studying the treatment of Lymphoma, Lung Cancer, Breast Cancer, Kidney Cancer, and Ovarian Cancer, among others.
+Caroverine	A calcium channel blocker indicated in the treatment of smooth muscle spasms, alcohol and drug withdrawal, and tinnitus.
+Cilnidipine	A dihydropyridine calcium channel blocker with action on both N- and L-type calcium channels used to treat hypertension.
+Cinnarizine	A drug used for the management of labyrinthine disorder symptoms, including vertigo, tinnitus, nystagmus, nausea, and vomiting.
+Clevidipine	A dihydropyridine L-type calcium channel blocker used to lower blood pressure when oral antihypertensive therapy is not feasible or not desirable.
+Cyclandelate	A vasodilator used for the treatment of various blood vessel diseases, such as claudication and arteriosclerosis.
+Darodipine	Darodipine is a calcium channel blocker.
+Dexniguldipine	Not Annotated
+Dexverapamil	Not Annotated
+Dotarizine	A calcium antagonist used to treat and prevent migraines.
+Efonidipine	For the treatment of hypertension.
+Emopamil	Prevents renal injury after warm & cold ischemia.
+Eperisone	An antispasmodic that functions through voltage-gated channel blockade, notably with little to no sedation, effective in relaxing skeletal muscles and vascular smooth muscles.
+Ethosuximide	An anticonvulsant used to treat petit mal seizures.
+Fendiline	Fendiline is a coronary vasodilator which inhibits calcium function in muscle cells in excitation-contraction coupling. It has been proposed as an antiarrhythmic and antianginal agent. Fendiline is non-selective.
+Fish oil	A source of essential fatty acids used as a source of calories in parenteral nutrition and as a dietary supplement.
+Flunarizine	A selective calcium-entry blocker used as migraine prophylaxis in patients with severe and frequent episodes who have not responded adequately to more common treatments.
+Fluspirilene	An antipsychotic agent used in the treatment of schizophrenia.
+Gallopamil	Gallopamil has been used in trials studying the treatment of Asthma.
+Isradipine	A dihydropyridine calcium channel blocker used for the treatment of hypertension.
+Lercanidipine	A calcium channel blocker for the management of hypertension.
+Lidoflazine	Not Annotated
+Lomerizine	Lomerizine is a diphenylmethylpiperazine calcium channel blocker[A245378, A245383] with relatively selective central nervous system (CNS) effects. This drug is used to prophylactically treat migraines[A245368, A245373] and is also being investigated...
+Loperamide	A long acting antidiarrheal used to control nonspecific diarrhea and chronic diarrhea caused by inflammatory bowel disease, or gastroenteritis.
+Manidipine	A dihydropyridine calcium channel blocker used to treat hypertension.
+Levomenthol	An organic compound used to treat mild to moderate muscle and joint pain.
+Mibefradil	For the treatment of angina and high blood pressure.
+Naftopidil	Naftopidil has been investigated for the treatment of Disorder of Urinary Stent.
+Nicardipine	A calcium channel blocker used for the short-term treatment of hypertension and chronic stable angina.
+Niludipine	Niludipine is a calcium channel blocker.
+Nilvadipine	A calcium channel blocker used to manage arterial hypertension.
+Nimesulide	A cyclooxygenase 2 inhibitor used to treat acute pain and primary dysmenorrhea.
+Nimodipine	A calcium channel blocker used to improve neurological outcomes in patients with subarachnoid hemorrhage due to a ruptured intracranial aneurysm.
+Nylidrin	A vasodilator used to treat patients with peripheral vascular disorders, and elderly patients with symptoms associated with organic mental disorders.
+Niguldipine	Niguldipine is a calcium channel blocker drug (CCB) with a1-adrenergic antagonist properties.
+Otilonium	A spasmolytic medication used to treat irritable bowel syndrome (IBS).
+Penfluridol	Not Annotated
+Perhexiline	For the management of severe angina pectoris.
+Pinaverium	A spasmolytic agent used for the symptomatic treatment of irritable bowel syndrome (IBS) and functional disorders of the biliary tract.
+Prenylamine	Prenylamine was withdrawn from the Canadian, US, and UK markets in 1988 due to concerns regarding cardiac arrhythmias.
+Terodiline	Not Annotated
+Tetrahydropalmatine	Tetrahydropalmatine is under investigation in clinical trial NCT02118610 (Treatment of Schizophrenia With L-tetrahydropalmatine (l-THP): a Novel Dopamine Antagonist With Anti-inflammatory and Antiprotozoal Activity).
+Tetrandrine	Not Annotated
+Tolfenamic acid	In the information for tolfenamic acid, it is stated that this drug, being an NSAID, is effective in treating the pain associated with the acute attack of migraines in adults.
+Tranilast	For the treatment of bronchial asthma, keloid and hypertrophic scar, and allergic disorders such as asthma, allergic rhinitis and atopic dermatitis.
+Trimebutine	A spasmolytic agent used for the symptomatic treatment of irritable bowel syndrome (IBS) and treatment of postoperative paralytic ileus following abdominal surgery.
+Trimethadione	An anticonvulsant agent indicated for the control of treatment-refractory petit mal seizures.
+Seletracetam	Investigated for use/treatment in epilepsy.
+Vinpocetine	A synthetic derivative of a vinca alkaloid used to treat neurological symptoms of cerebrovascular disease.
+WIN 55212-2	WIN 55,212-2 is a chemical described as an aminoalkylindole derivative, which produces effects similar to those of cannabinoids such as tetrahydrocannabinol (THC) but has an entirely different chemical structure. It...
+Zonisamide	A sulfonamide anticonvulsant used to treat partial seizures.
+Ivermectin	An anti parasite medication used to treat head lice, onchocerciasis, strongyloidiasis, ascariasis, trichuriasis, and enterobiasis.
+Ixabepilone	A microtubule inhibitor administered in combination with capecitabine or alone in the treatment of metastatic or locally advanced breast cancer that has shown inadequate response to taxanes and anthracyclines.
+Rifabutin	An antibiotic used to treat mycobacterium avium complex disease in patients with HIV.
+Rifapentine	An antibiotic agent used in the treatment of pulmonary tuberculosis.
+Rifaximin	A rifamycin-based non-systemic antibiotic used for the treatment of gastrointestinal bacterial infections, such as traveler's diarrhea and irritable bowel syndrome, and reduction of overt hepatic encephalopathy recurrence in adults.
+Regorafenib	A kinase inhibitor used to treat patients with metastatic colorectal cancer, unresectable, locally advanced, or metastatic gastrointestinal stromal tumors, and hepatocellular carcinoma.
+Gemfibrozil	A lipid regulator that is used in the reduction of serum triglyceride levels in high-risk patients with hyperlipidemia.
+Ivabradine	A HCN channel blocker used to reduce the risk of hospitalization for worsening heart failure in adult patients and for treatment of stable symptomatic heart failure as a result of dilated cardiomyopathy in pediatric patients.
+Vemurafenib	A kinase inhibitor used to treat patients with Erdheim-Chester Disease who have the BRAF V600 mutation, and melanoma in patients who have the BRAF V600E mutation.
+Vortioxetine	A serotonin modulating antidepressant indicated for the treatment of major depressive disorder (MDD).
+Pazopanib	An antineoplastic agent used in the treatment of advanced renal cell cancer and advanced soft tissue sarcoma in patients with prior chemotherapy.
+Perampanel	A non-competitive AMPA glutamate receptor antagonist used to treat partial-onset seizures with or without secondarily generalized seizures, and as adjunctive treatment of primary generalized tonic-clonic seizures in patients with epilepsy.
+Crizotinib	A receptor tyrosine kinase inhibitor used to treat metastatic non-small cell lung cancer (NSCLC) where the tumors have been confirmed to be anaplastic lymphoma kinase (ALK), or ROS1-positive.
+Cabozantinib	A tyrosine kinase inhibitor used to treat advanced renal cell carcinoma, hepatocellular carcinoma, and medullary thyroid cancer.
+Lurasidone	An atypical antipsychotic used to treat schizophrenia and depressive episodes associated with bipolar I disorder.
+Isavuconazonium	A triazole antifungal used for the treatment of invasive aspergillosis and mucormycosis.
+Axitinib	An oral VEGFR and kinase inhibitor used for the treatment of advanced renal cell carcinoma after failure of one prior systemic therapy.
+Codeine	An opioid analgesic used to treat moderate to severe pain when the use of an opioid is indicated.
+Apixaban	An anticoagulant used for the prophylaxis of stroke and systemic embolism in nonvalvular atrial fibrillation, and deep vein thrombosis(DVT) leading to pulmonary embolism(PE), including in patients after a hip or knee replacement surgery.
+Balaglitazone	Balaglitazone has been used in trials studying the treatment of Diabetes Mellitus, Type 2.
+Ciglitazone	Developed by Takeda Pharmaceuticals in the early 1980s, it is considered the prototypical compound for the thiazolidinedione class. Ciglitazone was never used as a medication, but it sparked interest in...
+Lobeglitazone	Lobeglitazone was approved by the Ministry of Food and Drug Safety (South Korea) in 2013, and is being monitored by postmarketing surveillance until 2019. Lobeglitazone is not approved for use...
+Netoglitazone	Netoglitazone (MCC-555) is a hypoglycemic agent.
+Pioglitazone	A thiazolidinedione used adjunctively with diet and exercise to normalize glycemic levels in adults with type 2 diabetes mellitus.
+Rivoglitazone	Rivoglitazone (INN) is a thiazolidinedione undergoing research for use in the treatment of type 2 diabetes. It is being developed by Daiichi Sankyo Co.
+Rosiglitazone	A thiazolidinedione indicated as an adjunct to diet and exercise to maintain glycemic control in type 2 diabetes.
+Paliperidone	An atypical antipsychotic used in the treatment of schizophrenia and other schizoaffective or delusional disorders.
+Lapatinib	An antineoplastic agent and tyrosine kinase inhibitor used for the treatment of advanced or metastatic HER-positive breast cancer in patients who received prior chemotherapeutic treatments.
+Icotinib	Icotinib hydrochloride is a novel epidermal growth factor receptor (EGFR)–tyrosine kinase inhibitor, exhibits encouraging efficacy and tolerability in patients with advanced non-small-cell lung cancer (NSCLC) who failed previous chemotherapy.
+Cevimeline	A muscarinic agonist with parasympathomimetic activities that is used for the symptomatic treatment of dry mouth in patients with Sjögren's Syndrome.
+Bortezomib	A proteasome inhibitor used to treat multiple myeloma in patients who have not been successfully treated with at least two previous therapies.
+Dofetilide	A class III antiarrhythmic drug used for the maintenance of normal sinus rhythm and cardioversion in cases of atrial fibrillation and atrial flutter.
+Eletriptan	A triptan used for the treatment of migraines.
+Reboxetine	A drug used for the acute treatment of major depression and for maintenance therapy of depression.
+Ranolazine	An anti-anginal drug used for the treatment of chronic angina.
+Ziprasidone	An atypical antipsychotic used to manage schizophrenia, bipolar mania, and agitation in patients with schizophrenia.
+Conjugated estrogens	A mixture of estrogens used in estrogen replacement therapy for menopause and hypoestrogenism, used in the treatment of various malignancies, and used in the treatment of postmenopausal osteoporosis.
+Bupivacaine	A local anesthetic used in a wide variety of superficial and invasive procedures.
+Bexarotene	A retinoid drug used for cutaneous manifestations of T-cell lymphoma in patients who have not responded well to previous systemic therapy.
+Vindesine	A vinca alkaloid derived from vinblastine used for various types of malignancies, but mainly acute lymphocytic leukemia (ALL).
+Gefitinib	A tyrosine kinase inhibitor used as first-line therapy to treat non-small cell lung carcinoma (NSCLC) that meets certain genetic mutation criteria.
+Terfenadine	An antihistamine for the treatment of allergy symptoms.
+Vinorelbine	A vinca alkaloid used in the treatment of metastatic non-small cell lung carcinoma (NSLC) and in conjunction with other drugs in locally advanced NSCLC.
+Grepafloxacin	A fluoroquinolone antibiotic used to treat various gram positive and gram negative bacterial infections.
+Mirtazapine	A tetracyclic antidepressant used in the treatment of major depression and is used off-label as a drug for insomnia and to increase appetite.
+Sorafenib	A kinase inhibitor used to treat unresectable liver carcinoma, advanced renal carcinoma, and differentiated thyroid carcinoma.
+Eszopiclone	A sedative-hypnotic used in the treatment of insomnia, improving both the latency phase and the maintenance phase of sleep.
+Prochlorperazine	A phenothiazine derivative used in the treatment of schizophrenia and anxiety and to relieve severe nausea and vomiting.
+Loratadine	A second generation antihistamine used to manage the symptoms of allergic rhinitis.
+Dronabinol	A synthetic delta-9-THC used in the treatment of anorexia and weight loss in HIV patients as well as nausea and vomiting in cancer chemotherapy.
+Montelukast	A leukotriene receptor antagonist used as part of an asthma therapy regimen, to prevent exercise induced bronchoconstriction, and to treat seasonal allergic rhinitis.
+Darifenacin	An M3 muscarinic receptor blocker used to treat urinary incontinence.
+Albendazole	A benzimidazole anthelmintic used to treat parenchymal neurocysticercosis and other helminth infections.
+Erlotinib	An EGFR tyrosine kinase inhibitor used to treat certain small cell lung cancers or advanced metastatic pancreatic cancers.
+Rofecoxib	A COX-2 inhibitor NSAID used to treat osteoarthritis, rheumatoid arthritis, acute pain, primary dysmenorrhea, and migraine attacks.
+Toremifene	A first generation nonsteroidal selective estrogen receptor modulator used to treat certain breast cancers.
+Bosentan	A dual endothelin receptor antagonist used to treat pulmonary arterial hypertension.
+Vinblastine	A vinca alkaloid used to treat breast cancer, testicular cancer, neuroblastoma, Hodgkin's and non-Hodgkins lymphoma, mycosis fungoides, histiocytosis, and Kaposi's sarcoma.
+Testosterone	A hormone used to treat hypogonadism, breast carcinoma in women, or the vasomotor symptoms of menopause.
+Efavirenz	A non-nucleoside reverse transcriptase inhibitor used to treat HIV infection or prevent the spread of HIV.
+Clofibrate	A fibric acid derivative used to treat hypertriglyceridemia and high cholesterol.
+Galantamine	A cholinesterase inhibitor used to manage mild to moderate dementia associated with Alzheimer's Disease.
+Losartan	An angiotensin receptor blocker used to treat hypertension and diabetic nephropathy, and is used to reduce the risk of stroke.
+Eplerenone	An aldosterone receptor antagonist used to improve survival of patients with symptomatic heart failure and to reduce blood pressure.
+Delavirdine	A non-nucleoside reverse transcriptase inhibitor used to treat HIV infection.
+Nateglinide	A meglitinide used to treat non insulin dependent diabetes mellitus.
+Zileuton	A leukotriene synthesis inhibitor used in the prophylaxis and treatment of chronic asthma.
+Modafinil	A stimulant used to improve wakefulness in patients with sleep apnea, narcolepsy, or shift work disorder.
+Dolasetron	An antinauseant and antiemetic used in chemotherapy and postoperatively.
+Clopidogrel	An antiplatelet agent used to prevent blood clots in peripheral vascular disease, coronary artery disease, and cerebrovascular disease.
+Irinotecan	A topoisomerase inhibitor used to treat metastatic carcinoma of the colon or rectum and pancreatic adenocarcinoma.
+Etoposide	A podophyllotoxin derivative used to treat testicular and small cell lung tumors.
+Roxithromycin	An antibiotic used to treat a variety of susceptible bacterial infections.
+Fentanyl	An opioid analgesic used in anesthesia, for breakthrough cancer pain, or round the clock pain management.
+Mifepristone	A cortisol receptor blocker used to treat Cushing's syndrome, and to terminate pregnancies up to 70 days gestation.
+Donepezil	An acetylcholinesterase inhibitor used to treat the behavioral and cognitive effects of Alzheimer's Disease and other types of dementia.
+Conivaptan	An antidiuretic hormone inhibitor used to raise serum sodium levels.
+Granisetron	A 5HT3 antagonist used to treat nausea and vomiting in cancer therapy and postoperatively.
+Ondansetron	A serotonin 5-HT3 receptor antagonist used to prevent nausea and vomiting in cancer chemotherapy and postoperatively.
+Tiagabine	An antiepileptic used to treat partial seizures.
+Cocaine	An ester local anesthetic used during diagnostic procedures and surgeries in or through the nasal cavities.
+Paricalcitol	A vitamin D analog used to treat hyperparathyroidism associated with stage 3 or greater chronic kidney disease.
+Tinidazole	A nitroimidazole used to treat trichomoniasis, giardiasis, amebiasis, and bacterial vaginosis.
+Almotriptan	A 5-HT1B/1D receptor agonist used to treat migraines.
+Salmeterol	A long-acting beta-2 adrenergic receptor agonist used to treat asthma and COPD.
+Hydrocodone	An opioid agonist used as an analgesic and antitussive agent.
+Zaleplon	A sedative used for short term treatment of insomnia in adults.
+Exemestane	An aromatase inhibitor used to treat breast cancer in postmenopausal women after treatment with tamoxifen.
+Doxorubicin	A medication used to treat various cancers, including AIDS-associated Kaposi's Sarcoma and metastatic cancers.
+Levobupivacaine	A drug used for nerve block and anesthesia.
+Letrozole	An aromatase inhibitor used to treat breast cancer in postmenopausal women.
+Busulfan	An alkylating agent used to treat chronic myelogenous leukemia.
+Cinacalcet	A calcium sensing receptor agonist used to treat secondary hyperparathyroidism in chronic kidney disease and hypercalcemia in parathyroid carcinoma.
+Ketoconazole	A broad spectrum antifungal used to treat seborrheic dermatitis and fungal skin infections.
+Oxybutynin	An antimuscarinic agent that reduces detrusor muscle activity, relaxing the bladder and preventing the urge to void.
+Clonazepam	A long-acting benzodiazepine with intermediate onset commonly used to treat panic disorders, severe anxiety, and seizures.
+Sibutramine	A norepinephrine, serotonin and dopamine reuptake inhibitor indicated to assist with weight loss in obesity.
+Cilostazol	An antiplatelet agent and vasodilator used for the symptomatic relief of intermittent claudication.
+Itraconazole	A triazole antifungal agent used to treat various fungal infections, such as blastomycosis and onychomycosis.
+Escitalopram	A selective serotonin re-uptake inhibitor used in the treatment of major depressive disorder (MDD), generalized anxiety disorder (GAD), and other select psychiatric disorders such as obsessive-compulsive disorder (OCD).
+Domperidone	A dopamine receptor antagonist used as a peristaltic stimulant and anti-emetic agent for dyspepsia, indigestion, epigastric pain, nausea, and vomiting.
+Clindamycin	A lincosamide antibiotic used to treat serious infections caused by susceptible anaerobic, streptococcal, staphylococcal, and pneumococcal bacteria.
+Estazolam	A benzodiazepine used for the short-term management of insomnia.
+Finasteride	An antiandrogenic compound that is used for the treatment of symptomatic benign prostatic hyperplasia (BPH) and male pattern hair loss in adult males by inhibiting Type II 5-alpha reductase.
+Halofantrine	An antimalarial used for the treatment of severe malaria.
+Quetiapine	An atypical antipsychotic agent used for the management of bipolar disorder, schizophrenia, and major depressive disorder.
+Levacetylmethadol	For the treatment and management of opiate dependence. It is sometimes used to treat severe pain in terminal patients.
+Paclitaxel	A taxoid chemotherapeutic agent used as first-line and subsequent therapy for the treatment of advanced carcinoma of the ovary, and other various cancers including breast and lung cancer.
+Dasatinib	A tyrosine kinase inhibitor used for the treatment of Philadelphia chromosome-positive acute lymphoblastic leukemia or chronic myeloid leukemia.
+Retapamulin	A topical antibiotic agent used for the treatment of impetigo caused by methicillin-susceptible Staphylococcus aureus or Streptococcus pyogenes.
+Sitagliptin	An oral dipeptidyl peptidase-4 (DPP-4) inhibitor used for the management of type 2 diabetes mellitus.
+Darunavir	A HIV protease inhibitor used in the treatment of human immunodeficiency virus (HIV) infection in patients with history of prior antiretroviral therapies.
+Sunitinib	A receptor tyrosine kinase inhibitor and chemotherapeutic agent used for the treatment of renal cell carcinoma (RCC) and imatinib-resistant gastrointestinal stromal tumor (GIST).
+Posaconazole	A triazole antifungal drug that is used to treat invasive infections by Candida species and Aspergillus species in severely immunocompromised patients.
+Lopinavir	An HIV-1 protease inhibitor used in combination with ritonavir to treat human immunodeficiency virus (HIV) infection.
+Alosetron	A 5-HT3 antagonist used to treat diarrhea-predominant IBS.
+Maraviroc	A CCR5 co-receptor antagonist used with other antiretroviral medications to treat CCR5-tropic HIV-1 infection.
+Tiotropium	A long-acting bronchodilator used in the management of chronic obstructive pulmonary disease (COPD).
+Solifenacin	A muscarinic antagonist with antispasmodic properties used to treat urge urinary incontinence, urgency, and urinary frequency associated with an overactive bladder.
+Palonosetron	A serotonin antagonist used in the prophylaxis or management of vomiting that results from emetogenic chemotherapy, and for the management of postoperative nausea and vomiting.
+Valdecoxib	A COX-2 inhibitor used to treat osteoarthritis and dysmenorrhoea.
+Sertindole	An atypical antipsychotic indicated in the treatment of schizophrenia.
+Tesmilifene	Intended for the treatment of various forms of cancer.
+Etoricoxib	A selective COX-2 inhibitor used to relieve moderate post-surgical dental pain as a short-term treatment and inflammatory and painful symptoms of various forms of arthritis.
+Rimonabant	For use in conjunction with diet and exercise for patients with a body mass index greater than 30 kg/m2, or patients wih a BMI greater than 27 kg/m2 with associated...
+Vicriviroc	Investigated for use/treatment in HIV infection and viral infection.
+Laquinimod	Investigated for use/treatment in multiple sclerosis.
+Fluvastatin	An HMG-CoA reductase inhibitor used to lower lipid levels and reduce the risk of cardiovascular disease including myocardial infarction and stroke.
+Rotigotine	A non-selective dopamine agonist used for the treatment of Parkinson's Disease and Restless Leg Syndrome.
+Cerivastatin	A statin (or HMG CoA reductase inhibitor) used with dietary changes to decrease lipid levels and reduce the risk of cardiovascular events.
+Risperidone	A second-generation antipsychotic medication used to treat a number of mental health disorders including schizophrenia, bipolar mania, psychosis, or as an adjunct in severe depression.
+Selegiline	A monoamine oxidase inhibitor used to treat major depressive disorder and Parkinson's.
+Halothane	A general inhalation anesthetic used for the induction and maintenance of general anesthesia.
+Ifosfamide	An alkylating and immunosuppressive agent used in chemotherapy for the treatment of cancers, including testicular cancer, ovarian cancer, cervical cancer, osteocarcinoma, bladder cancer, small cell lung cancer, and non-Hodgkin's lymphoma.
+Meloxicam	An NSAID used to treat osteoarthritis in adults, rheumatoid arthritis in adults, and juvenile rheumatoid arthritis in pediatrics.
+Citalopram	A selective serotonin reuptake inhibitor (SSRI) used in the treatment of depression.
+Fluoxetine	A selective serotonin reuptake inhibitor used to treat major depressive disorder, bulimia, OCD, premenstrual dysphoric disorder, panic disorder, and bipolar I.
+Sertraline	A selective serotonin reuptake inhibitor (SSRI) indicated to treat major depressive disorder, social anxiety disorder and many other psychiatric conditions.
+Mianserin	A tetracyclic antidepressant with therapeutic activity similar to amitriptyline used to treat depression and anxiety.
+Antipyrine	An antipyretic agent used for the symptomatic treatment of acute otitis media, most commonly in combination with benzocaine.
+Cyclophosphamide	A nitrogen mustard used to treat lymphomas, myelomas, leukemia, mycosis fungoides, neuroblastoma, ovarian adenocarcinoma, retinoblastoma, and breast carcinoma.
+Trabectedin	An alkylating agent approved for the treatment of unresectable or metastatic soft tissue sarcoma (liposarcoma or leiomyosarcoma).
+Venlafaxine	A selective serotonin and norepinephrine reuptake inhibitor (SNRI) used for the treatment of major depression, generalized or social anxiety disorder, and panic disorder.
+Terbinafine	An allylamine antifungal used to treat dermatophyte infections of toenails and fingernails as well as other fungal skin infections.
+Azelastine	A histamine H1-receptor antagonist used intranasally to treat allergic and vasomotor rhinitis and in an ophthalmic solution to treat allergic conjunctivitis.
+Caffeine	A stimulant present in tea, coffee, cola beverages, analgesic drugs, and agents used to increase alertness. It is also used in to prevent and treat pulmonary complications of premature birth.
+Dextromethorphan	An NMDA receptor antagonist used to treat cases of dry cough.
+Docetaxel	A taxoid antineoplastic agent used in the treatment of various cancers, such as locally advanced or metastatic breast cancer, metastatic prostate cancer, gastric adenocarcinoma, and head and neck cancer.
+Lidocaine	A local anesthetic used in a wide variety of superficial and invasive procedures.
+Propranolol	A non-selective beta adrenergic antagonist used to treat hypertension, angina, atrial fibrillation, myocardial infarction, migraine, essential tremor, hypertrophic subaortic stenosis, and pheochromocytoma.
+Ambrisentan	A selective type A endothelin receptor antagonist used to treat primary pulmonary arterial hypertension and pulmonary arterial hypertension based on diagnostic classifications.
+Benzphetamine	A sympathomimetic used to manage exogenous obesity short term.
+Bisoprolol	A beta-1 adrenergic blocking agent used to prevent myocardial infarction and heart failure and to treat mild to moderate hypertension.
+Calcitriol	An active metabolite of vitamin D that is used to treat hyperparathyroidism and is also used in dialysis patients to combat hypocalcemia.
+Chlordiazepoxide	A benzodiazepine used to treat the withdrawal symptoms of acute alcoholism, to treat preoperative anxiety, and to treat anxiety over a short term period.
+Chloroquine	An antimalarial drug used to treat susceptible infections with P. vivax, P. malariae, P. ovale, and P. falciparum. It is also used for second line treatment for rheumatoid arthritis.
+Clobazam	A benzodiazepine used as adjunct treatment in seizures associated with Lennox-Gastaut syndrome.
+Clorazepic acid	A benzodiazepine used to treat anxiety, partial seizures, and alcohol withdrawal.
+Digitoxin	A cardiac glycoside used in the treatment and management of congestive cardiac insufficiency, arrhythmias and heart failure.
+Dronedarone	An antiarrhythmic agent used in the reduce the risk of hospitalization in patients with paroxysmal or persistent atrial fibrillation.
+Everolimus	A mammalian target of rapamycin (mTOR) kinase inhibitor used to treat various types of malignancies.
+Felbamate	An anticonvulsant used to treat severe epilepsy.
+Fesoterodine	An antimuscarinic agent used in the treatment of overactive bladder with symptoms of urge urinary incontinence, urgency, and frequency.
+Flurazepam	A long-acting benzodiazepine with a rapid onset of action that is commonly used to treat insomnia.
+Flutamide	An antiandrogen used for locally confined stage B2-C and D-2 metastatic prostate carcinoma.
+Guanfacine	An alpha-2A adrenergic receptor agonist used to treat ADHD.
+Mefloquine	An antimalarial agent used in the prophylaxis and treatment of malaria caused by Plasmodium falciparum and Plasmodium vivax.
+Nilotinib	A kinase inhibitor used for the chronic phase treatment of Chronic Myeloid Leukemia (CML) that is Philadelphia chromosome positive and for the treatment of CML that is resistant to therapy containing imatinib.
+Oxycodone	An opioid used in the management of moderate to severe pain.
+Pipotiazine	An antipsychotic indicated for the management of chronic, non-agitated schizophrenic patients.
+Praziquantel	An anthelmintic medication used to treat parasitic worm infections such as schistosomiasis, clonorchiasis, and opisthorchiasis
+Primaquine	An antimalarial indicated to prevent relapse of vivax malaria.
+Dextropropoxyphene	An opioid analgesic used to treat mild to moderate pain.
+Repaglinide	A antihyperglycemic used to improve glycemic control in diabetes.
+Rivaroxaban	A factor Xa inhibitor used to treat deep vein thrombosis (DVT) and pulmonary embolism (PE). May also be used as thrombosis prophylaxis in specific situations.
+Romidepsin	A histone deacetylase (HDAC) inhibitor used to treat cutaneous T-cell lymphoma.
+Silodosin	An alpha-1 adrenergic receptor antagonist used to treat symptoms associated with benign prostatic hyperplasia (BPH).
+Tamsulosin	An alpha-1A and alpha-1B adrenergic receptor antagonist used to treat benign prostatic hyperplasia, ureteral stones, prostatitis, and female voiding dysfunction.
+Tetracycline	An antibiotic used to treat a wide variety of susceptible infections.
+Tolterodine	A muscarinic receptor antagonist used to treat overactive bladder with urinary incontinence, urgency, and frequency.
+Tolvaptan	A selective vasopressin V2-receptor antagonist to slow kidney function decline in patients at risk for rapidly progressing autosomal dominant polycystic kidney disease (ADPKD). Also used to treat hypervolemic and euvolemic hyponatremia.
+Tramadol	A centrally-acting opioid agonist and SNRI (serotonin/norepinephrine reuptake inhibitor) used for the management of moderate to severe pain in adults.
+Trimethoprim	An antifolate antibiotic often used in combination with sulfamethoxazole to treat a number of infections, including those of the urinary tract, respiratory tract, and gastrointestinal tract.
+Zopiclone	A nonbenzodiazepine hypnotic used for the short-term management of insomnia.
+Colchicine	An alkaloid used to treat gout and Familial Mediterranean Fever as well as prevent major cardiovascular events.
+Ketamine	A rapid-acting general anesthetic and NMDA receptor antagonist used for induction of anesthesia diagnostic and surgical procedures typically in combination with a muscle relaxant.
+Saxagliptin	An DPP-4 inhibitor used for the management of type 2 diabetes mellitus.
+Sufentanil	An opioid used to induce and maintain anesthesia, to act as an analgesic in labor and delivery, and to treat severe, acute pain.
+Bicalutamide	An androgen receptor inhibitor used to treat Stage D2 metastatic carcinoma of the prostate.
+Aminophenazone	An analgesic drug used to treat acute migraine attacks in combination with ergotamine and caffeine.
+Clozapine	An atypical or second-generation antipsychotic drug used in treatment-resistant schizophrenia and to decrease suicide risk in schizophrenic patients.
+Promazine	A phenothiazine used to manage schizophrenia.
+Carvedilol	A non selective beta-adrenergic antagonist used to treat mild to severe chronic heart failure, hypertension, and left ventricular dysfunction following myocardial infarction in clinically stable patients.
+Diclofenac	An NSAID used to treat the signs and symptoms of osteoarthritis and rheumatoid arthritis.
+Celecoxib	An NSAID used to treat osteoarthritis, rheumatoid arthritis, acute pain, menstrual symptoms, and to reduce polyps is familial adenomatous polyposis.
+Glyburide	A sulfonylurea used in the treatment of non insulin dependent diabetes mellitus.
+Sulfinpyrazone	A platelet inhibitory and uricosuric agent used to inhibit thrombotic and embolic processes and to manage the chronic phases of gout .
+Seratrodast	Seratrodast (INN) is a thromboxane receptor antagonist used primarily in the treatment of asthma.
+Ketobemidone	For the treatment of all types of severe pain, such as postoperative, cancer, kidney stones and fractures.
+Adinazolam	For the treatment of anxiety and status epilepticus.
+Temazepam	A short-acting benzodiazepine commonly used to treat panic disorders, severe anxiety, and insomnia.
+Vanoxerine	An investigational dopamine transporter antagonist suggested to be beneficial in the treatment of cocaine addiction.
+Cholecalciferol	A form of Vitamin D used in the treatment of specific medical conditions such as refractory rickets, hypoparathyroidism, and familial hypophosphatemia, as well as osteoporosis and chronic kidney disease.
+Oxymorphone	An opioid analgesic used in the management of moderate-to-severe pain and for analgesic therapies.
+Orphenadrine	A muscarinic antagonist used as an adjunct for the symptomatic relief of musculoskeletal pain and discomfort.
+Cabazitaxel	An antineoplastic agent used in combination with corticosteroids to treat metastatic castration-resistant prostate cancer in patients previously treated with a docetaxel-containing treatment regimen.
+Desvenlafaxine	An antidepressant agent and SNRI used for the treatment of major depressive disorders in adults.
+Artemether	An antimalarial agent used in combination with lumefantrine for the treatment of acute uncomplicated malaria caused by Plasmodium falciparum.
+Lumefantrine	An antimalarial agent used in combination with artemether for the treatment of acute uncomplicated malaria caused by Plasmodium falciparum.
+Ambroxol	A medication indicated for airway secretion clearance therapy.
+Argatroban	A synthetic direct thrombin inhibitor used for the prevention and treatment of thrombosis related to heparin use.
+Bezafibrate	A lipid-lowering fibrate used in the management of primary and secondary hyperlipidaemia, when there is a lack of clinical improvement following lifestyle modifications or correction of the underlying disorder.
+Brinzolamide	A carbonic anhydrase inhibitor used for the reduction of elevated intraocular pressure in patients with ocular hypertension or open-angle glaucoma.
+Cephalexin	A first generation cephalosporin used to treat certain susceptible bacterial infections.
+Chlorpromazine	A phenothiazine antipsychotic used to treat nausea, vomiting, preoperative anxiety, schizophrenia, bipolar disorder, and severe behavioral problems in children.
+Chlorzoxazone	A drug with muscle relaxant properties that is used as an adjunct to physical therapy and analgesics to treat stiffness and pain caused by a variety of musculoskeletal conditions.
+Clomethiazole	Investigated for use/treatment in strokes.
+Clotiazepam	A thienodiazepine used to manage anxiety disorders and insomnia.
+Cytarabine	A pyrimidine nucleoside analogue used to treat acute non-lymphocytic leukemia, lymphocytic leukemia, and the blast phase of chronic myelocytic leukemia.
+Daunorubicin	An anthracycline aminoglycoside used to induce remission of nonlymphocytic leukemia and acute lymphocytic leukemia.
+Dihydrocodeine	An opioid analgesic agent used for the management of pain severe enough to require an opioid analgesic and for which alternative treatments are inadequate.
+Disulfiram	A carbamate derivative used to treat alcohol addiction.
+Epinastine	An H1 receptor antagonist used to prevent itching in allergic conjunctivitis.
+Estramustine	An antineoplastic agent used for the management of metastatic and/or progressive prostate cancer in palliative setting.
+Ethanol	For therapeutic neurolysis of nerves or ganglia for the relief of intractable chronic pain in such conditions as inoperable cancer and trigeminal neuralgia (tic douloureux), in patients for whom neurosurgical...
+Ethylmorphine	An opioid analgesic and antitussive agent used to reduce coughs caused by colds and lung infections in combination with codeine.
+Fenofibrate	A peroxisome proliferator receptor alpha activator used to lower LDL-C, total-C, triglycerides, and Apo B, while increasing HDL-C in hypercholesterolemia, dyslipidemia, and hypertriglyceridemia.
+Flunitrazepam	A benzodiazepine used to manage anxiety disorders and insomnia.
+Fulvestrant	An estrogen receptor antagonist used to treat HR+ breast cancer that may also be HER2-.
+Imiquimod	A toll-like receptor 7 agonist used to treat non hyperkeratotic, non hypertrophic actinic keratosis, basal cell carcinoma, genital or perianal warts, and condyloma acuminata.
+Quinacrine	For the treatment of giardiasis and cutaneous leishmaniasis and the management of malignant effusions.
+Methaqualone	For the treatment of insomnia, and as a sedative and muscle relaxant.
+Methoxyflurane	For use in the induction and maintenance of general anesthesia
+Methyltestosterone	A synthetic anabolic steroid used for the replacement therapy in conditions associated with testosterone deficiencies in males, such as hypogonadism, and treatment of advancing inoperable metastatic breast cancer in females.
+Mexiletine	A class 1B antiarrhythmic agent used in the treatment of documented ventricular arrhythmias that warrant treatment.
+Nicotine	A stimulatory alkaloid found in tobacco products that is often used for the relief of nicotine withdrawal symptoms and as an aid to smoking cessation.
+Nitrazepam	A long-acting benzodiazepine with intermediate onset commonly used to treat panic disorders, severe anxiety, insomnia, and seizures.
+Olopatadine	A histamine H1 antagonist used to treat allergic conjunctivitis and rhinitis.
+Acetaminophen	An analgesic drug used alone or in combination with opioids for pain management, and as an antipyretic agent.
+Perphenazine	A phenothiazine used to treat schizophrenia as well as nausea and vomiting.
+Meperidine	An opioid agonist with analgesic and sedative properties used to manage severe pain.
+Phenacetin	Used principally as an analgesic.
+Prazepam	A benzodiazepine used to manage more severe forms of anxiety disorders.
+Quazepam	A long-acting benzodiazepine used to manage insomnia.
+Ropivacaine	An amide-type local anesthetic used for local or regional anesthesia during surgery and for short-term management of acute pain.
+Sevoflurane	A inhalation anaesthetic agent used for induction and maintenance of general anesthesia during surgical procedures.
+Sulfadiazine	A sulfonamide antibiotic used in a variety of infections, such as urinary tract infections, trachoma, and chancroid.
+Tasosartan	Tasosartan is infrequently in the treatment of hypertension and heart failure.
+Thiotepa	An alkylating agent used to prevent graft rejection in stem cell transplantation and to treat a variety of malignancies including certain types of adenocarcinoma and superficial bladder carcinomas.
+Troleandomycin	For the treatment of bacterial infection.
+Yohimbine	An alpha-2-adrenergic blocker and sympatholytic found in supplements used to.
+Zomepirac	Zomepirac was indicated for the management of mild to severe pain.
+Ketazolam	A long-acting benzodiazepine used to manage anxiety and insomnia.
+Paramethadione	Used for the control of absence (petit mal) seizures that are refractory to treatment with other medications.
+Tretinoin	A vitamin A derivative used to treat acne vulgaris and certain types of promyelocytic leukemia, as well as various skin conditions in over-the-counter medications.
+Iloperidone	An atypical antipsychotic agent used to treat schizophrenia and manic or mixed episodes associated with bipolar I disorder in adults.
+Vilazodone	An antidepressant agent used for the treatment of major depressive disorder that targets the 5-HT transporter and 5-HT1A receptors.
+Clonidine	An alpha-2 adrenergic agonist used to treat hypertension and severe cancer pain, among other conditions, and to treat withdrawal symptoms from various substances. It is also used to aid in the diagnosis of pheochromocytoma and to prevent migraines.
+Indapamide	A thiazide diuretic used to treat hypertension as well as edema due to congestive heart failure.
+Ivacaftor	A cystic fibrosis transmembrane conductance regulator (CFTR) potentiator used alone or in combination products to treat cystic fibrosis in patients who have specific genetic mutations that are responsive to the medication.
+Banoxantrone	For the treatment of various forms of cancer.
+Indacaterol	An inhaled long-acting beta-2 adrenergic agonist used to relax bronchial smooth muscle and improve symptoms and airflow obstruction caused by Chronic Obstructive Pulmonary Disease (COPD) and moderate to severe asthma.
+Ticagrelor	A P2Y12 platelet inhibitor used in patients with a history of myocardial infarction or with acute coronary syndrome (ACS) to prevent future myocardial infarction, stroke and cardiovascular death.
+Chenodeoxycholic acid	A bile acid used for the treatment of primary biliary cirrhosis.
+Pinacidil	Pinacidil is a cyanoguanidine drug that acts by opening ATP-sensitive potassium channels, leading to peripheral vasodilatation of arterioles and decreasing peripheral vascular resistance. The above processes result in reduced blood...
+Pimecrolimus	A topical calcineurin inhibitor used in the treatment of mild-moderate atopic dermatitis who are not candidates for other types of therapy due to previous lack of response or other reasons.
+Lomitapide	A microsomal triglyceride transfer protein inhibitor used to lower cholesterol associated with homozygous familial hypercholesterolemia (HoFH), reducing risk of cardiovascular events such as myocardial infarction and stroke.
+Vismodegib	A hedgehog pathway inhibitor used to treat patients with locally advanced or metastatic basal cell carcinoma.
+Rilpivirine	A non-nucleoside reverse transcriptase inhibitor (NNRTI) used in combination with other antiretrovirals to specifically treat human immunodeficiency virus type 1 (HIV-1).
+Prasugrel	A P2Y12 platelet inhibitor used to reduce risk of thrombotic cardiovascular events in unstable angina or non-ST-elevation myocardial infarction (NSTEMI), and in patients with STEMI when managed with either primary or delayed PCI.
+Asenapine	An atypical antipsychotic used to treat patients with bipolar I disorder and patients with schizophrenia.
+Brentuximab vedotin	A CD30-directed antibody-drug conjugate used to treat various types of lymphoma.
+Lorcaserin	A serotonin 2C receptor agonist used in conjunction with physical activity and calorie restriction for weight loss in obese patients with a body mass index (BMI) of 30 and above, and in overweight patients with weight-related comorbidities.
+Vandetanib	An antineoplastic kinase inhibitor used to treat symptomatic or progressive medullary thyroid cancer in patients with unresectable locally advanced or metastatic disease.
+Ruxolitinib	A kinase inhibitor used to treat various types of myelofibrosis, polycythemia vera in patients who have not responded to or cannot tolerate hydroxyurea, and to treat graft-versus-host disease in cases that are refractory to steroid treatment.
+Abiraterone	An antiandrogen used in the treatment of metastatic castration-resistant prostate cancer and metastatic high-risk castration-sensitive prostate cancer.
+Mirabegron	A beta-3 adrenergic agonist used to treat overactive bladder and neurogenic detrusor overactivity.
+Enzalutamide	A second-generation androgen receptor inhibitor used to treat castration-resistant prostate cancer and metastatic castration-sensitive prostate cancer.
+Tofacitinib	A Janus kinase (JAK) inhibitor used to treat rheumatic conditions, such as rheumatoid arthritis and ankylosing spondylitis, and ulcerative colitis.
+Bosutinib	An antineoplastic agent used for the treatment of chronic, accelerated, or blast phase Philadelphia chromosome-positive (Ph+) chronic myelogenous leukemia (CML) in adults with inadequate clinical response to other treatments.
+Ponatinib	A kinase inhibitor used to treat patients with various types of chronic myeloid leukemia (CML).
+Bedaquiline	A diarylquinoline antimycobacterial used in combination with other antibacterials to treat pulmonary multidrug resistant tuberculosis (MDR-TB).
+Canagliflozin	A sodium-glucose co-transporter 2 (SGLT2) inhibitor used to manage hyperglycemia in type 2 diabetes mellitus (DM). Also used to reduce the risk of major cardiovascular events in patients with established cardiovascular disease and type 2 DM.
+Alogliptin	A dipeptidyl peptidase-4 (DPP-4) inhibitor used to treat hyperglycemia in patients with type 2 diabetes mellitus.
+Ospemifene	A non-hormonal estrogen receptor modulator (SERM) used to treat moderate to severe dyspareunia, a symptom of vulvar and vaginal atrophy, due to menopause.
+Pomalidomide	A thalidomide analogue used in combination with dexamethasone to treat patients with multiple myeloma.
+Dabrafenib	A kinase inhibitor used to treat patients with specific types of melanoma, non-small cell lung cancer, and thyroid cancer.
+Trastuzumab emtansine	An antineoplastic agent and antibody-drug conjugate used to treat HER2-overexpressing breast cancer.
+Taurochenodeoxycholic acid	Taurochenodeoxycholic acid is likely indicated as a choleretic and cholagogue. It is also being investigated for its role in inflammation and cancer therapy.
+Mycophenolate mofetil	An inosine monophosphate dehydrogenase inhibitor used to prevent the rejection of kidney, heart, or liver transplants.
+Levomilnacipran	A selective serotonin and norepinephrine reuptake inhibitor (SNRI) used to treat major depressive disorder (MDD) in adults.
+Macitentan	An endothelin receptor antagonist used to manage pulmonary arterial hypertension to delay disease progression.
+Dapagliflozin	A sodium-glucose cotransporter 2 inhibitor used in the management of type 2 diabetes mellitus.
+Eliglustat	A glucosylceramide synthase used to treat type 1 Gaucher disease in patients who are CYP2D6 extensive, intermediate, or poor metabolizers.
+Apremilast	A non-steroidal medication used for the treatment of inflammatory conditions such as psoriasis and psoriatic arthritis.
+Naloxegol	A peripherally-selective opioid antagonist used to treat opioid-induced constipation (OIC) in adult patients with chronic non-cancer pain.
+Ibrutinib	An antineoplastic agent used to treat chronic lymphocytic leukemia, mantle cell lymphoma, and Waldenstrom's Macroglobulinemia.
+Olaparib	A poly (ADP-ribose) polymerase (PARP) inhibitor used to treat ovarian cancer, breast cancer, pancreatic cancer, and prostate cancer.
+Palbociclib	An endocrine-based chemotherapeutic agent used in combination with other antineoplastic agents to treat HER2-negative and HR-positive advanced or metastatic breast cancer.
+Vilanterol	A long-acting beta2-adrenergic agonist used in combination with other bronchodilators for the management of chronic obstructive pulmonary disease (COPD), including chronic bronchitis and/or emphysema.
+Aliskiren	A direct renin inhibitor used to manage hypertension.
+Elvitegravir	An antiretroviral agent used in combination with other antiretrovirals for the treatment of HIV-1 infection in antiretroviral treatment-experienced adults.
+Cariprazine	An atypical antipsychotic used to treat schizophrenia and acute manic or mixed episodes due to bipolar I disorder.
+Parecoxib	A selective COX-2 inhibitor and NSAID used for the short-term management of perioperative pain.
+Brexpiprazole	A serotonin–dopamine activity modulator used in the treatment of major depressive disorder as an adjunct, schizophrenia, and agitation associated with dementia due to Alzheimer’s disease.
+Rolapitant	A neurokinin-1 (NK-1) receptor antagonist used in combination with other antiemetics for the prevention of delayed nausea and vomiting associated with emetogenic chemotherapy.
+Flibanserin	A 5-HT receptor modulator used for the treatment of selected premenopausal women with acquired, generalized hypoactive sexual desire disorder (HSDD).
+Daclatasvir	A direct-acting antiviral agent used to treat specific hepatitis C virus (HCV) infections in combination with other antiviral agents.
+Sonidegib	An antineoplastic agent used for the treatment of locally advanced recurrent basal cell carcinoma (BCC) following surgery and radiation therapy, or in cases where surgery or radiation therapy are not appropriate.
+Panobinostat	A non-selective histone deacetylase inhibitor used to treat multiple myeloma in combination with other antineoplastic agents.
+Ixazomib	A proteasome inhibitor used with other medications to treat multiple myeloma in patients who have received one other therapy already.
+Selexipag	A non prostanoid IP prostacyclin receptor agonist used to treat pulmonary arterial hypertension.
+Dasabuvir	A direct-acting antiviral agent used to treat specific hepatitis C virus (HCV) infections in combination with other antiviral agents.
+Paritaprevir	A direct acting antiviral agent used in combination with other antiviral agents for the treatment of Hepatitis C Virus (HCV) infections.
+Synthetic Conjugated Estrogens, A	A mixture of estrogens used to treat a variety of postmenopausal symptoms, including vaginal atrophy and dyspareunia.
+Synthetic Conjugated Estrogens, B	A mixture of estrogens used to treat a variety of postmenopausal symptoms, including vaginal dryness.
+Venetoclax	A BCL-2 inhibitor used to treat chronic lymphocytic leukemia, small lymphocytic lymphoma, or acute myeloid leukemia.
+Esterified estrogens	A female hormone used to treat conditions related to estrogen deficiency and moderate to severe vasomotor menopausal symptoms in women.
+Rucaparib	A poly (ADP-ribose) polymerase (PARP) inhibitor used to treat recurrent ovarian and prostate cancers in previously treated adults.
+Safinamide	A MAO-B inhibitor used as an add-on treatment to levodopa/carbidopa for Parkinson's disease during "off" episodes.
+Deutetrabenazine	A vesicular monoamine transporter 2 inhibitor used for the symptomatic treatment of tardive dyskinesia and chorea associated with Huntington's disease.
+Dexchlorpheniramine maleate	A first generation antihistamine used to treat allergic and vasomotor rhinitis, allergic conjunctivitis, and mild urticaria and angioedema.
+Velpatasvir	A NS5A inhibitor used to treat chronic hepatitis C infections in patients without cirrhosis or with compensated cirrhosis.
+Brivaracetam	An anticonvulsant used for the treatment of partial-onset seizures that functions by binding to synaptic vesicle glycoprotein 2A (SV2A) in the brain.
+Valbenazine	A vesicular monoamine transporter 2 inhibitor used to treat tardive dyskinesia and chorea associated with Huntington's disease.
+Odanacatib	Investigated for use/treatment in osteoporosis
+Grazoprevir	An antiviral and NS3/4A protease inhibitor used to treat hepatitis C infections.
+Perospirone	For the treatment of schizophrenia and acute cases of bipolar mania.
+Etizolam	A thienodiazepine derivative used to treat anxiety and insomnia.
+Rupatadine	A selective histamine H1 receptor antagonist and platelet activating factor (PAF) antagonist used to treat allergic rhinitis.
+Imidafenacin	An antispasmodic with anticholinergic effects used to reduce urinary frequency.
+Neratinib	A protein kinase inhibitor used to treat breast cancer that over expresses the HER2 receptor.
+Voxilaprevir	A nonstructural protein 3 and 4a protease inhibitor used to treat Hepatitis C infections.
+Enasidenib	An isocitrate dehydrogenase-2 inhibitor used to treat relapsed or refractory acute myeloid leukemia with an isocitrate dehydrogenase-2 mutation.
+Midostaurin	An antineoplastic agent used to treat high-risk acute myeloid leukemia (AML) with specific mutations, aggressive systemic mastocytosis (ASM), systemic mastocytosis with associated hematologic neoplasm (SM-AHN), or mast cell leukemia (MCL).
+Elbasvir	An antiviral and NS5A inhibitor used to treat hepatitis C infections.
+Copanlisib	A PI3K inhibitor used to treat relapsed follicular lymphoma in adults.
+Abemaciclib	A medication used to treat HR+ HER2- advanced or metastatic breast cancer.
+Brigatinib	An anaplastic lymphoma kinase inhibitor used to treat anaplastic lymphoma kinase positive metastatic non small cell lung cancer.
+Baricitinib	A Janus kinase inhibitor used to treat moderate to severe rheumatoid arthritis that has responded poorly to at least one TNF antagonist.
+Macimorelin	A medication used to treat adult growth hormone deficiency.
+Blonanserin	Used for the treatment of schizophrenia .
+Cannabidiol	An active cannabinoid used as an adjunctive treatment for the management of seizures associated with Lennox-Gastaut syndrome or Dravet syndrome and symptomatic relief of moderate to severe neuropathic pain or other painful conditions, like cancer.
+Testosterone cypionate	An androgen used to treat low or absent testosterone.
+Testosterone enanthate	An androgen used to treat low or absent testosterone.
+Testosterone undecanoate	An androgen indicated for testosterone replacement therapy in adult males with primary hypogonadism and hypogonadotropic hypogonadism.
+Estradiol acetate	An estrogen used to treat vasomotor symptoms and moderate to severe vulvar and vaginal atrophy from menopause.
+Estradiol benzoate	An estrogen indicated in combination with progesterone for the treatment of irregular menstruation.
+Estradiol dienanthate	An estrogen used in some combined hormonal oral contraceptives.
+Piperaquine	For the treatment of uncomplicated Plasmodium falciparum infection in adults, children, and infants aged 6 months and up weighing over 5 kg [FDA Label]. Used in combination with DB11638.
+Testosterone propionate	A slow-release anabolic steroid no longer used commonly for the treatment of androgen deficiency or promotion of anabolic effects on muscles.
+Bictegravir	An integrase inhibitor used to treat HIV infections.
+Apalutamide	An androgen receptor inhibitor used to treat non-metastatic castration-resistant and metastatic castration-sensitive prostate cancer.
+Zotepine	Zotepine, like other atypical antipsychotics, is considered as the first-line treatment in newly diagnosed schizophrenia. It is usually thought to be an option of choice for managing acute schizophrenic episodes...
+Pitolisant	An antagonist and inverse agonist at the histamine H3 receptor that is used to treat narcolepsy in adults.
+Tezacaftor	A medication used to treat homozygous or heterozygous F508del mutation cystic fibrosis.
+Opium	A medication used to treat moderate to severe pain.
+Tocopherol	Tocopherol can be used as a dietary supplement for patients with a deficit of vitamin E; this is mainly prescribed in the alpha form. Vitamin E deficiency is rare, and...
+alpha-Tocopherol acetate	A form of vitamin E used to treat and prevent vitamin deficiencies.
+Propiverine	An antimuscarinic agent used to treat urinary incontinence or increased urinary frequency or urgency.
+Nabiximols	In Canada, Sativex has received a Notice of Compliance (NOC) for use as an as adjunctive treatment for symptomatic relief of spasticity in patients with multiple sclerosis (MS) who have...
+Medical Cannabis	The use of the plant species Cannabis sativa and Cannabis indica, popularly known as marijuana, has gained popularity in recent years for the management of a wide variety of medical...
+Vinflunine	A vinca alkaloid used to treat advanced or metastatic transitional cell carcinoma of the urothelial tract after a platinum containing treatment has failed.
+Tocofersolan	A derivative of alpha tocopherol used to treat vitamin E deficiencies.
+Delamanid	An antibiotic used to treat multidrug resistant tuberculosis.
+Fosnetupitant	A medication used in combination with others to prevent chemotherapy associated nausea and vomiting.
+Dihydro-alpha-ergocryptine	A nootropic with an unknown mechanism of action indicated in individuals over sixty who manifest signs and symptoms of an idiopathic decline in mental capacity.
+Ipecac	An emetic agent used to induce vomiting in poisoning.
+Midecamycin	A macrolide antibiotic used to treat a variety of infections caused by susceptible bacteria.
+Aripiprazole lauroxil	An antipsychotic used to treat schizophrenia in adults.
+Encorafenib	A kinase inhibitor used to treat unresectable or metastatic melanoma with specific mutations.
+6-O-benzylguanine	6-O-benzylguanine has been used in trials studying the treatment of HIV Infection, Adult Gliosarcoma, Adult Glioblastoma, Stage I Adult Hodgkin Lymphoma, and Stage II Adult Hodgkin Lymphoma, among others.
+Segesterone acetate	Segesterone acetate in combination with ethinyl estradiol is indicated for use by females of reproductive potential to prevent pregnancy as a combination hormonal contraceptive (CHC). It induces contraception for thirteen...
+Fosphenytoin	An antiepileptic agent used for the management of generalized convulsive status epilepticus and prevention and treatment of seizures occurring during neurosurgery.
+Cobicistat	A CYP3A inhibitor used to increase the systemic exposure of atazanavir or darunavir in combination with other antiretroviral agents in the treatment of HIV-1 infection.
+Dapoxetine	A selective serotonin reuptake inhibitor used in the treatment of premature ejaculation.
+Fluvoxamine	A selective serotonin-reuptake inhibitor used to treat obsessive-compulsive disorder.
+Indalpine	Indalpine was one of the first selective serotonin reuptake inhibitors to reach the American market. It was initially marketed by Pharmuka. However, after the emergence of widespread concern regarding adverse...
+Milnacipran	A selective serotonin and norepinephrine reuptake inhibitor (SNRI) used for the treatment of fibromyalgia and a short-term treatment of major depressive disorder.
+Fusidic acid	A topical antibacterial agent used to prevent and treat mild to moderate skin infections caused by susceptible bacteria.
+Aranidipine	Aranidipine has been used for many years to treat angina pectoris and hypertension.
+Linagliptin	A dipeptidyl peptidase-4 (DPP-4) inhibitor used to manage hyperglycemia in patients with type 2 diabetes mellitus.
+Cobimetinib	An antineoplastic agent and selective inhibitor of the mitogen-activated extracellular kinase (MEK) pathway used to treat unresectable or metastatic melanoma.
+Osimertinib	A tyrosine kinase inhibitor used in the treatment of certain types of non-small cell lung carcinoma.
+Netupitant	An antiemetic agent used in combination with palonosetron to prevent acute and delayed vomiting and nausea caused by chemotherapy.
+Ceritinib	An antineoplastic kinase inhibitor used to treat anaplastic lymphoma kinase (ALK)-positive metastatic non-small cell lung cancer (NSCLC) in patients with inadequate clinical response or intolerance to crizotinib.
+Ribociclib	A cyclin-dependent kinase inhibitor used to treat HR+, HER2- breast cancer.
+Nintedanib	A triple angiokinase inhibitor indicated for the treatment of idiopathic pulmonary fibrosis, systemic sclerosis-associated interstitial lung disease, and in combination with docetaxel for non-small cell lung cancer.
+Roflumilast	A selective phosphodiesterase-4 inhibitor indicated to decrease the risk of exacerbations in patients with severe chronic obstructive pulmonary disease (COPD) and to treat skin conditions such as plaque psoriasis and atopic dermatitis.
+Suvorexant	A orexin receptor antagonist used to treat insomnia that is characterized by difficulties with sleep onset and/or sleep maintenance.
+Tasimelteon	A melatonin receptor agonist used to treat Non- 24-Hour Sleep-Wake Disorder.
+Vorapaxar	A platelet aggregation inhibitor used to reduce thrombotic cardiovascular events in patients with a history of myocardial infarction (MI) or peripheral arterial disease (PAD).
+Zuclopenthixol	An antipsychotic indicated for the management of schizophrenia. The acuphase formulation is indicated for initial treatment of acute psychosis or exacerbation of psychosis, while the depot formulation is best for maintenance.
+Dihydroergocryptine	A dopamine agonist indicated in the treatment of cerebrovascular diseases and atherosclerosis.
+Dihydroergocornine	A nootropic with an unknown mechanism of action indicated in individuals over sixty who manifest signs and symptoms of an idiopathic decline in mental capacity.
+Dihydroergocristine	An ergot alkaloid used to delay progressive mental decline in conditions like Alzheimer's.
+Idelalisib	An antineoplastic kinase inhibitor used to treat chronic lymphocytic leukemia (CLL), relapsed follicular B-cell non-Hodgkin lymphoma (FL), and relapsed small lymphocytic lymphoma (SLL).
+Lacosamide	An antiepileptic drug used to treat partial-onset seizures and primary generalized tonic-clonic seizures.
+Pranlukast	A leukotriene receptor antagonist for the treatment of allergic rhinitis and asthma symptoms.
+Eravacycline	A tetracycline antibiotic used to treat complicated intra-abdominal infections.
+Ebastine	A second generation H1-receptor antagonist useful in the treatment of allergic rhinitis and urticaria.
+Fosaprepitant	An antiemetic drug used in combination with other antiemetic agents for the prevention of acute and delayed nausea and vomiting caused by chemotherapy.
+Methysergide	An ergot alkaloid used for the prophylaxis of migraine and cluster headaches.
+Doravirine	A non-nucleoside reverse transcriptase inhibitor used in combination with other antiretrovirals to treat HIV-1 infections.
+Duvelisib	An inhibitor of phosphatidylinositol 3-kinase delta and gamma used to treat relapsed or refractory chronic lymphocytic leukemia or small lymphocytic lymphoma.
+Lenvatinib	A receptor tyrosine kinase inhibitor used for the treatment of metastatic thyroid cancer, advanced renal cell carcinoma in combination with everolimus, and unresectable hepatocellular carcinoma.
+Lorpiprazole	In 2016, lorpiprazole was classified in the "Chemical structure-related drug-like criteria of global approved drugs" as an antipsychotic and anxiolytic. An antipsychotic is a medication used to treat a state...
+Nebivolol	A beta blocking agent used to treat hypertension and aid in the management of heart failure.
+St. John's Wort	An herbal ingredient used in non-prescription therapeutic products for the short-term treatment of minor skin irritations, insomnia, depression, and anxiety.
+9-aminocamptothecin	Aminocamptothecin has been used in trials studying the treatment of Lymphoma, Gastric Cancer, Ovarian Cancer, Esophageal Cancer, and Ovarian Neoplasms, among others.
+Methylprednisone	Methylprednisone has been used in trials studying the treatment of Leukemia, Rheumatoid Arthritis, Renal Transplantation, Kidney Transplantation, and Acute Lymphocytic Leukemia, among others.
+Dacomitinib	A medication used to treat non small cell lung cancer with EGFR exon 19 deletion of exon 21 L858R substitution.
+Larotrectinib	A kinase inhibitor used to treat solid tumors with neurotrophic receptor tyrosine kinase gene fusion, are metastatic, high risk for surgery, or have no alternative treatments.
+Gilteritinib	An AXL receptor tyrosine kinase inhibitor used to treat relapsed or refractory acute myeloid leukemia.
+1,2-Benzodiazepine	Benzodiazepine is under investigation for the prevention of Delirium and C.Surgical Procedure; Cardiac. Benzodiazepine has been investigated for the treatment of Obesity, Sleep Apnea, Obstructive, and Disorders of Gallbladder, Biliary...
+Brotizolam	A benzodiazepine analogue with sedative-hypnotic properties used for short-term treatment of severe or debilitating insomnia.
+Vitamin D	An ingredient found in a variety of supplements and vitamins.
+Doxazosin	An alpha-1 adrenergic receptor used to treat mild to moderate hypertension and urinary obstruction due to benign prostatic hyperplasia.
+SN-38	Investigated for use/treatment in colorectal cancer.
+Prucalopride	A 5-HT4 receptor agonist indicated to treat adults with chronic idiopathic constipation.
+Glasdegib	A sonic hedgehog receptor inhibitor used to treat newly diagnosed acute myeloid leukemia in patients over 75 years who cannot receive intense chemotherapy.
+Clotrimazole	A topical broad-spectrum antifungal agent used for the treatment of a wide variety of dermatophyte infections and candidiasis.
+Phentermine	A sympathomimetic anorectic agent used as a short-term adjunct therapy that is included in a regimen of weight reduction in cases of exogenous obesity.
+Triclabendazole	An anthelmintic drug used to treat fascioliasis.
+Metoprolol	A beta-blocker used in the treatment of hypertension and angina, and used to reduce mortality due to myocardial infarction.
+Esketamine	A NMDA receptor antagonist used for treatment-resistant depression.
+Vitamin E	An antioxidant vitamin used in many skin creams and multivitamin preparations.
+Siponimod	A medication used to treat relapsing multiple sclerosis.
+Erdafitinib	A fibroblast growth factor receptor tyrosine kinase inhibitor used to treat locally advanced or metastatic urothelial carcinoma.
+Tenofovir alafenamide	A nucleoside analog reverse transcriptase inhibitor used for the treatment of chronic hepatitis B virus infection in adults with compensated liver disease.
+Isotretinoin	A retinoid used to treat severe recalcitrant acne.
+Alpelisib	Alpelisib is indicated in combination with fulvestrant to treat postmenopausal women, and men, with advanced or metastatic breast cancer. This cancer must be hormone receptor (HR)-positive, human epidermal growth factor...
+Selinexor	Selinexor is indicated in combination with bortezomib and dexamethasone for the treatment of multiple myeloma in adult patients who have received at least one prior therapy. Selinexor is also indicated...
+Paroxetine	A selective serotonin reuptake inhibitor used to treat major depressive disorder, panic disorder, OCD, social phobia, generalized anxiety disorder, the vasomotor symptoms of menopause, and premenstrual dysphoric disorder.
+Levocetirizine	An H1-receptor antagonist used to treat symptoms associated with chronic allergic rhinitis and uncomplicated cases of chronic idiopathic urticaria.
+Butyrfentanyl	A methylated fentanyl analog with no clinical indications but is commonly used as a recreational drug.
+Pexidartinib	An antitumor agent that is used for the treatment of rare disease tenosynovial giant cell tumors (TGCT) by inhibiting colony-stimulating factor 1 and its receptor.
+Pretomanid	Part of a three-drug regimen used for the treatment of extensively drug-resistant and multidrug-resistant pulmonary tuberculosis.
+Hydroxychloroquine	An antimalarial medication used to treat uncomplicated cases of malaria and for chemoprophylaxis in specific regions. Also a disease modifying anti-rheumatic drug (DMARD) indicated for treatment of rheumatoid arthritis and lupus erythematosus.
+Entrectinib	Entrectinib is indicated for the treatment of metastatic ROS1-positive non-small cell lung cancer in adults. Entrectinib is also indicated in adults and children over 12 years old for the treatment...
+Fedratinib	Fedratinib is indicated for the treatment of adult patients with intermediate-2 or high-risk primary or secondary (post-polycythemia vera or post-essential thrombocythemia) myelofibrosis.[L8090,L47016]
+Lefamulin	A pleuromutilin antibacterial used to treat community-acquired bacterial pneumonia (CABP).
+Sulfamethoxazole	An oral sulfonamide antibiotic, given in combination with trimethoprim, used to treat a variety of infections of the urinary tract, respiratory system, and gastrointestinal tract.
+Istradefylline	A selective adenoside A2A receptor antagonist indicated in adjunct to levodopa and carbidopa for the treatment of Parkinson's Disease.
+Fosamprenavir	An antiretroviral agent used for the treatment and postexposure prophylaxis of human immunodeficiency virus (HIV-1) infection.
+Zafirlukast	A leukotriene receptor antagonist used for prophylaxis and chronic treatment of asthma.
+Ibuprofen	An NSAID and non-selective COX inhibitor used to treat mild-moderate pain, fever, and inflammation.
+Propacetamol	Propacetamol is a paracetamol prodrug of intravenous administration used to control fever and pain of perioperative period in multimodal analgesia therapy.
+Flucloxacillin	A narrow spectrum penicillin antibiotic that exerts specific activity against Gram positive organisms in skin and soft tissue infections, except those caused by methicillin resistant staphylococcus aureus (MRSA).
+Mexazolam	A benzodiazepine indicated to treat anxiety with or without psychoneurotic conditions.
+Bimatoprost	A prostaglandin analog used to treat hypotrichosis of the eyelashes and intraocular pressure in open angle glaucoma or ocular hypertension.
+Metoclopramide	An antiemetic agent and dopamine D2 antagonist used in the treatment of gastroesophageal reflux disease, prevention of nausea and vomiting, and to stimulate gastric emptying.
+Dexloxiglumide	For the treatment of Irritable Bowel Syndrome (IBS) and Gastroesophageal Reflux Disease (GERD).
+Calanolide A	For use in combination treatment of HIV infection (AIDS).
+Plitidepsin	Intended for the treatment of various forms of cancer.
+Rifalazil	Investigated for use/treatment in atherosclerosis, bacterial infection, and peripheral vascular disease.
+Azimilide	Investigated for use/treatment in arrhythmia and atrial fibrillation.
+Capravirine	Investigated for use/treatment in acquired immune deficiency syndrome (AIDS) and aids-related infections and HIV infection.
+Polatuzumab vedotin	A CD79b antibody conjugate indicated to treat different types of large B-cell lymphoma.
+Levamlodipine	A calcium channel blocker used to treat hypertension.
+Fluprednisolone acetate	Not Annotated
+Baloxavir marboxil	A polymerase acidic endonuclease inhibitor used to treat uncomplicated influenza.
+Tenapanor	An NHE3 inhibitor indicated for the treatment of constipation-predominant irritable bowel syndrome (IBS-C) and chronic kidney disease,
+Anastrozole	A competitive, selective, non-steroidal aromatase inhibitor used as adjuvant therapy for the treatment of hormone receptor-positive breast cancer in postmenopausal women.
+Trifarotene	A topical retinoid indicated for the treatment of acne vulgaris.
+Elexacaftor	A small molecule CFTR corrector used in combination with tezacaftor and ivacaftor for the treatment of cystic fibrosis patients with one F508del-CFTR mutation.
+Prednisolone acetate	A glucocorticoid used to treat a wide variety of endocrine, inflammatory, and immune conditions as well as for palliation of neoplastic conditions.
+Hydroxyzine	An antihistamine used to treat anxiety and tension associated with psychoneuroses, as well as allergic conditions such as pruritus and chronic urticaria.
+Zanubrutinib	A kinase inhibitor used to treat mantle cell lymphoma, a type of B-cell non-Hodgkin lymphoma, in adults who previously received therapy.
+Voxelotor	A drug used to inhibit the polymerization of hemoglobin S, preventing the painful and sometimes lethal vaso-occlusive crises associated with sickle cell disease.
+Cenobamate	A small molecule drug indicated to treat partial onset seizures in adults.
+Phenytoin	An anticonvulsant drug used in the prophylaxis and control of various types of seizures.
+Enfortumab vedotin	An antibody-drug conjugate comprised of a fully human monoclonal antibody and microtubule-disrupting chemotherapeutic agent used in the treatment of advanced or metastatic urothelial cancer.
+Trastuzumab deruxtecan	An antibody used to treat certain types of unresectable or metastatic HER2 positive breast cancer.
+Lemborexant	A dual orexin antagonist indicated for the treatment of sleep-onset and/or sleep maintenance insomnia.
+Darolutamide	An androgen receptor antagonist used for castration-resistant, non-metastatic prostate cancer and metastatic hormone-sensitive prostate cancer.
+Upadacitinib	An oral Janus kinase (JAK)1-selective inhibitor used in the treatment of moderate to severe rheumatoid arthritis, active psoriatic arthritis, ankylosing spondylitis, and severe atopic dermatitis, including in patients who did not respond well to other therapies.
+Lumateperone	A novel 2nd generation antipsychotic used to manage both positive and negative symptoms in patients with schizophrenia.
+Ubrogepant	An oral CGRP antagonist used in the acute treatment of migraine with or without aura.
+Avapritinib	A selective tyrosine kinase inhibitor being investigated for the treatment of multidrug resistant gastrointestinal tumors.
+Tazemetostat	A methyltransferase inhibitor indicated to treat patients 16 years and older with metastatic or locally advanced epithelioid sarcoma not eligible for complete resection.
+Rimegepant	An oral CGRP receptor antagonist used for the acute treatment of migraines with or without aura in adults.
+Umifenovir	A dual direct-acting antiviral/host-targeting agent used in the treatment and prophylaxis of influenza and other respiratory viruses.
+Osilodrostat	An oral inhibitor of cortisol synthesis used to treat Cushing's disease by normalizing hypercortisolism.
+Norethindrone enanthate	A synthetic progestogen indicated for contraceptive therapy.
+Ozanimod	A sphingosine 1-phosphate receptor modulator being studied to treat Multiple Sclerosis (MS) and inflammatory bowel disease (IBD).
+Methotrexate	An antineoplastic agent used the treatment of a wide variety of cancers as well as severe psoriasis, severe rheumatoid arthritis, and juvenile rheumatoid arthritis.
+Selumetinib	A MEK 1/2 inhibitor used in pediatric patients to treat neurofibromatosis type 1 (NF1) accompanied by symptomatic, inoperable plexiform neurofibromas (PN).
+Prednisolone phosphate	A corticosteroid used to treat inflammation, immune reactions, as well as endocrine or neoplastic conditions.
+Pemigatinib	A kinase inhibitor used to treat locally advanced or metastatic, unresectable cholangiocarcinoma in previously treated adult patients.
+Remdesivir	A nucleoside analog used to treat RNA virus infections including COVID-19.
+Acalabrutinib	A Bruton tyrosine kinase inhibitor used to treat mantle cell lymphoma, chronic lymphocytic leukemia, and small lymphocytic lymphoma.
+Capmatinib	A kinase inhibitor targeting c-Met receptor tyrosine kinase in the treatment of non-small cell lung cancer with MET exon 14 skipping.
+Alectinib	A kinase inhibitor used to treat anaplastic lymphoma kinase positive metastatic non small cell lung cancer.
+Belinostat	A histone deacetylase (HDAC) inhibitor used for the treatment of patients with relapsed or refractory peripheral T-cell lymphoma (PTCL).
+Selpercatinib	A RET receptor tyrosine kinase inhibitor for the treatment of RET-driven non-small cell lung cancer, medullary thyroid cancer, and thyroid cancer in appropriate patient populations.
+Ripretinib	A kinase inhibitor used to treat advanced gastrointestinal stromal tumor (GIST).
+Cethromycin	A ketolide antibiotic with broad-spectrum activity against Gram-positive, Gram-negative, and atypical bacteria that may be useful for treating several conditions including community-acquired pneumonia, inhalation anthrax, plague, and tularemia.
+Betamethasone phosphate	A fast acting ester prodrug of a corticosteroid used to treat inflammatory conditions.
+Lurbinectedin	A chemotherapeutic DNA alkylating agent used in the treatment of metastatic small-cell lung cancer.
+Dexamethasone acetate	Commonly known as decadron, dexamethasone acetate is a glucocorticosteroid previously marketed in the USA for the treatment of inflammatory respiratory, allergic, autoimmune, and other conditions.[T797,L10695,L14348] Developed in 1957, dexamethasone is...
+Fenfluramine	Fenfluramine is a phenethylamine that is structurally similar to serotonin. Due to its ability to increase extracellular serotonin levels, modulate serotonergic and other neurologic receptors, and control neurotransmission, it is effective in treating pharmacoresistant seizures.
+Fostemsavir	An antiretroviral HIV-1 attachment inhibitor targeted against the gp120 subunit within the HIV-1 gp160 envelope glycoprotein.
+Risdiplam	An oral mRNA splicing modifier used in the treatment of spinal muscular atrophy (SMA).
+Oliceridine	A biased opioid agonist indicated for the management of severe acute pain in adult patients. Through preferential activation of G-protein-coupled signalling pathways, oliceridine provides analgesic effect with a comparable or improved safety profile over conventional opioid agonists.
+Pralsetinib	A RET receptor tyrosine kinase inhibitor for the treatment of metastatic RET-driven non-small cell lung cancer.
+Lonafarnib	A potent farnesyl transferase inhibitor used to reduce mortality associated with Hutchinson-Gilford progeria syndrome (HGPS) and other progeroid laminopathies.
+Tirbanibulin	A tyrosine kinase and tubulin inhibitor used to treat actinic keratosis on the face or scalp.
+Vibegron	A beta-3 adrenergic agonist the treatment of overactive bladder (OAB) with symptoms of urge urinary incontinence, urgency, and urinary frequency in adults.
+Relugolix	An oral GnRH receptor antagonist for androgen deprivation therapy in the treatment of advanced prostate cancer.
+Tepotinib	An oral tyrosine kinase inhibitor targeted against MET for the treatment of metastatic non-small cell lung cancer in patients exhibiting MET exon 14 skipping mutations.
+Voclosporin	A calcineurin inhibitor for the treatment of lupus nephritis (LN) in patients diagnosed with systemic lupus erythematosus (SLE).
+Scopolamine	A belladonna alkaloid with anticholinergic effects indicated for the treatment of nausea and vomiting associated with motion sickness and postoperative nausea and vomiting (PONV).
+Umbralisib	A kinase inhibitor used to treat rare forms of refractory lymphoma.
+Tivozanib	A kinase inhibitor to treat adult patients with renal cell carcinoma (RCC) who have failed prior systemic therapies or experienced relapsed disease.
+Ponesimod	A sphingosine 1-phosphate receptor modulator indicated to treat relapsing multiple sclerosis.
+Pimavanserin	A second generation atypical antipsychotic used for the treatment of hallucinations and delusions caused by Parkinson's Disease.
+Glycopyrronium	An anticholinergic agent used to treat hyperhidrosis, severe drooling, COPD, used with other medications to treat ulcers, and used in anesthesia.
+Estetrol	An estrogen used in combination with drospirenone for oral contraception.
+Loncastuximab tesirine	An antibody-drug conjugate used for the treatment of relapsed and refractory B-cell lymphomas.
+Naloxone	An opioid receptor antagonist used to rapidly reverse an opioid overdose. Also included in some drug formulations as an abuse deterrent to prevent injection.
+Infigratinib	An FGFR inhibitor used to treat locally advanced or metastatic cholangiocarcinoma in adults with a fibroblast growth factor receptor 2 (FGFR2) rearrangement.
+Ibrexafungerp	A triterpene antifungal indicated in the treatment of vulvovaginal candidiasis and prevention of recurrent vulvovaginal candidiasis in post-menarchal patients.
+Samidorphan	A novel opioid-system modulator, similar to naltrexone, that functions primarily as a μ-opioid receptor antagonist in vivo and is used primarily in combination with antipsychotics to reduce their metabolic dysfunction-associated adverse effects.
+Finerenone	A nonsteroidal mineralocorticoid receptor antagonist indicated to lower the risk of eGFR decline, end stage kidney disease, cardiovascular death, heart attack, and hospitalization for heart failure in chronic kidney disease associated with type 2 diabetes.
+Belumosudil	An oral inhibitor of rho-associated coiled-coil-containing protein kinases (ROCK) used in the treatment of chronic graft-versus-host disease (GVHD).
+Lorlatinib	An anaplastic lymphoma kinase inhibitor used to treat anaplastic lymphoma kinase positive metastatic non small cell lung cancer.
+Belzutifan	An inhibitor of hypoxia-inducible factor 2α used as an antineoplastic in the treatment of certain cancers associated with von Hippel-Lindau (VHL) disease.
+Fexinidazole	An orally bioavailable 2-substituted 5-nitroimidazole used to treat early- and late-stage human African trypanosomiasis caused by Trypanosoma brucei gambiense.
+Tisotumab vedotin	A tissue factor-directed antibody drug conjugate that is used to treat adults with recurrent or metastatic cervical cancer with disease progression on or after chemotherapy.
+Mobocertinib	An oral kinase inhibitor targeted against EGFR and used in the treatment of NSCLC with EGFR exon 20 insertion mutations.
+Atogepant	An oral CGRP antagonist used for the preventative therapy of episodic migraine headaches.
+Avacopan	An orally bioavailable complement 5a receptor (C5aR) antagonist for the treatment of severe anti-neutrophil cytoplasmic (auto)antibody (ANCA)-associated vasculitis.
+Asciminib	An inhibitor of ABL/BCR-ABL1 tyrosine kinase for the treatment of patients with Philadelphia chromosome-positive CML, including those with the T315I mutation.
+Maribavir	A cytomegalovirus (CMV) pUL97 kinase inhibitor used for the treatment of refractory post-transplant CMV infection.
+Nirmatrelvir	An oral protease inhibitor with emergency use authorization for the treatment of mild-to-moderate COVID-19.
+Levoketoconazole	One of two enantiomeric forms of racemic ketoconazole that strongly inhibits multiple steroidogenic enzymes and is used for the symptomatic treatment of endogenous Cushing's syndrome.
+Daridorexant	A dual orexin receptor antagonist used to treat insomnia in adults.
+Sotagliflozin	An orally administered dual SGLT1/2 inhibitor used alongside insulin to improve glycemic control in patients with type 1 diabetes mellitus.
+Abrocitinib	A kinase inhibitor used to treat moderate-to-severe atopic dermatitis in adults.
+Palovarotene	A selective agonist of retinoic acid receptor gamma (RARγ) used to reduce heterotopic ossification in patients with Fibrodysplasia Ossificans Progressiva (FOP).
+Mitapivat	A pyruvate kinase activator used to treat hemolytic anemia in adults with pyruvate kinase (PK) deficiency.
+Secnidazole	A nitroimidazole antibiotic used to treat bacterial vaginosis.
+Nabilone	A synthetic delta-9-THC used in the treatment of anorexia and weight loss in HIV patients as well as nausea and vomiting in cancer chemotherapy.
+Cannabinol	Cannabinol (CBN) is a physiologically inactive constituent of Cannabis sativa.
+Nalmefene	An opioid antagonist used to reduce alcohol consumption in adults with alcohol dependence and treat and prevent opioid overdose.
+Pacritinib	A kinase inhibitor used for the treatment of primary and secondary myelofibrosis in adult patients with significantly reduced platelet counts.
+Ganaxolone	A neuroactive steroid GABA-A receptor modulator used for the treatment of seizures associated with CDKL5 deficiency disorder (CDD).
+Thalidomide	A medication used to treat cancers, particularly newly diagnosed multiple myeloma, and erythema nodosum leprosum.
+Mavacamten	A myosin inhibitor used to treat obstructive hypertrophic cardiomyopathy.
+Tapinarof	A therapeutic aryl hydrocarbon receptor-modulating agent (TAMA) indicated for the treatment of adult psoriasis.
+Mycophenolic acid	An immunosuppressant used to prevent organ transplant rejections.
+Stiripentol	An antiepileptic agent used in combination with other anticonvulsants to treat seizures associated with Dravet syndrome.
+Lenacapavir	A first-in-class capsid inhibitor being investigated for use in HIV-1 treatment.
+Futibatinib	A kinase inhibitor used to treat intrahepatic cholangiocarcinoma in previously treated adults.
+Linzagolix	A selective gonadotropin-releasing hormone (GnRH) receptor antagonist used for the symptomatic treatment of uterine fibroids.
+Vonoprazan	A potassium-competitive acid blocker used in the treatment of acid-related disorders and as an adjunct to Helicobacter pylori eradication.
+Mirvetuximab soravtansine	A folate receptor alpha-directed antibody and microtubule inhibitor conjugate used to treat folate receptor alpha positive, platinum-resistant epithelial ovarian, fallopian tube, or primary peritoneal cancer.
+Olutasidenib	An isocitrate dehydrogenase-1 (IDH1) inhibitor indicated for the treatment of patients with relapsed or refractory acute myeloid leukemia with a susceptible IDH1 mutation as detected by an FDA-approved test.
+Adagrasib	A KRAS inhibitor indicated for the treatment of locally advanced or metastatic KRAS G12C-mutated non-small cell lung cancer in patients who have received at least one prior systemic therapy.
+Bexagliflozin	A sodium-glucose co-transporter 2 inhibitor used to improve glycemic control in patients with type 2 diabetes mellitus.
+Elacestrant	An estrogen receptor antagonist used to treat ER-positive, HER2-negative, ESR1-mutated advanced or metastatic breast cancer with disease progression following at least one line of endocrine therapy.
+Pirtobrutinib	A kinase inhibitor used to treat relapsed or refractory mantle cell lymphoma (MCL) after at least two lines of systemic therapy.
+Daprodustat	A small-molecule hypoxia-inducible factor prolyl hydroxylase inhibitor used for the treatment of anemia in patients with chronic kidney disease.
+Sparsentan	An endothelin and angiotensin II receptor antagonist indicated to reduce proteinuria in adults with primary immunoglobulin A nephropathy at risk of rapid disease progression.
+Omaveloxolone	A semisynthetic triterpenoid used to treat Friedreich’s ataxia in adults and adolescents 16 years and older.
+Zavegepant	A calcitonin gene-related peptide receptor antagonist indicated for the acute treatment of migraine with or without aura.
+Trametinib	A kinase inhibitor used alone or in combination with dabrafenib to treat patients with cancers with specific BRAF mutations, such as melanoma and non-small cell lung cancer.
+Leniolisib	A phosphoinositide 3-kinase-delta inhibitor that is used to treat activated phosphoinositide 3-kinase delta syndrome.
+Momelotinib	A Janus Kinase inhibitor used to treat intermediate or high-risk myelofibrosis.
+Quizartinib	A FLT3 inhibitor used in combination with cytarabine and anthracycline to treat acute myeloid leukemia with FLT3 internal tandem duplication
+Ritlecitinib	A kinase inhibitor used to treat severe alopecia areata in adults and adolescents 12 years and older.
+Zuranolone	A neuroactive steroid drug used to treat postpartum depression
+Gepirone	A serotonin receptor agonist used to treat major depressive disorder in adults
+Etrasimod	An S1P receptors modulator used to treat moderate to severely active ulcerative colitis in adults
+Vamorolone	A synthetic glucocorticoid used as an anti-inflammatory and immunosuppressant in the management of Duchenne muscular dystrophy (DMD).
+Capivasertib	A serine/threonine kinase inhibitor used to treat hormone receptor-positive, HER2-negative, locally advanced or metastatic breast cancer
+Repotrectinib	A tyrosine kinase inhibitor used to treat locally active or metastatic non-small cell lung cancer
+Fruquintinib	A VEGF receptor inhibitor used to treat metastatic colorectal cancer.
+Nirogacestat	A gamma-secretase inhibitor used to treat desmoid tumors
+Avatrombopag	A thrombopoietin receptor agonist used pre-operatively to treat thrombocytopenia in patients with chronic liver disease and in patients with chronic refractory thrombocytopenia.
+Tovorafenib	A type II RAF inhibitor used to treat pediatric low-grade glioma with BRAF gene mutations.
+Mavorixafor	A CXC chemokine receptor 4 antagonist used to treat WHIM syndrome.
+Deuruxolitinib	A Janus Kinase inhibitor used to treat severe alopecia areata in adults.
+Sofpironium	A topical anticholinergic used to treat primary axillary hyperhidrosis.
+Seladelpar	A PPAR-delta agonist used to treat primary biliary cholangitis alone or in combination with ursodeoxycholic acid in adults.
+Vorasidenib	A isocitrate dehydrogenase type 1 (IDH1) and 2 (IDH2) inhibitor used to treat Grade 2 astrocytoma or oligodendroglioma with a susceptible IDH1 or IDH2 mutation.
+Lazertinib	A tyrosine kinase inhibitor used in combiantion with amivantamab to treat non-small cell lung cancer with EGFR mutations.
+Benzgalantamine	A prodrug of galantamine, a competitive and reversible acetylcholinesterase inhibitor used in the management of mild-to-moderate dementia in patients with Alzheimer's disease.
