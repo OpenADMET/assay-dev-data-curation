@@ -3,6 +3,8 @@ from rdkit import Chem
 import seaborn as sns
 from tqdm import tqdm
 import numpy as np
+from rdkit.Chem.MolStandardize import rdMolStandardize
+
 
 # from Pat Walters method
 def standardize_smiles(smiles):
@@ -32,5 +34,12 @@ def standardize_smiles(smiles):
         taut_uncharged_parent_clean_mol = te.Canonicalize(uncharged_parent_clean_mol)
     
         return Chem.MolToSmiles(taut_uncharged_parent_clean_mol)
+    except:
+        return pd.NA
+    
+def smi_to_inchikey(smiles):
+    try:
+        mol = Chem.MolFromSmiles(smiles)
+        return Chem.MolToInchiKey(mol)
     except:
         return pd.NA
