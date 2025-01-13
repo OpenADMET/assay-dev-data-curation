@@ -1,0 +1,5 @@
+CANONICAL_SMILES,active,common_name,action_type,FDA_recommended,dataset,INCHIKEY
+CCC1=CC=CC2=C1OC(=C2)C(CNC(C)(C)C)O,True,bufuralol,substrate,True,FDA,SSEBTPPFLLCUMN-UHFFFAOYSA-N
+CN1CC[C@@]23CCCC[C@@H]2[C@@H]1CC4=C3C=C(C=C4)OC,True,dextromethorphan,substrate,True,FDA,MKXZASYAUGDDCJ-NJAFHUGGSA-N
+CNCCCN1C2=CC=CC=C2CCC3=CC=CC=C31,True,desipramine,substrate,True,FDA,HCYAFALTSJYZDH-UHFFFAOYSA-N
+C1CC2=C(C=CC(=C2)F)OC1C(CNCC(C3CCC4=C(O3)C=CC(=C4)F)O)O,True,nebivolol,substrate,True,FDA,KOHIRBRYDXPAMZ-UHFFFAOYSA-N
