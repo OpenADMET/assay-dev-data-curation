@@ -1,0 +1,224 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units,Activity Comment
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM,Additional comments
+1,103163813,4583,CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O,Active,,,Potential missing data,Inhibition,,,%,Active
+2,103163840,3715,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O,Active,,,Potential missing data,Inhibition,,,%,Active
+3,103163904,2764,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,Active,,,Potential missing data,Inhibition,,,%,Active
+4,103164240,3696,CN(C)CCCN1C2=CC=CC=C2CCC3=CC=CC=C31,Active,,,Potential missing data,Inhibition,,,%,Active
+5,103164301,5591,CC1=C(C2=C(CCC(O2)(C)COC3=CC=C(C=C3)CC4C(=O)NC(=O)S4)C(=C1O)C)C,Active,,,Potential missing data,Inhibition,,,%,Active
+6,103164490,448537,CC/C(=C(/CC)\C1=CC=C(C=C1)O)/C2=CC=C(C=C2)O,Active,,,Potential missing data,Inhibition,,,%,Active
+7,103164508,4032,CC1(C2CCC(C2)C1(C)NC)C,Active,,,Potential missing data,Inhibition,,,%,Active
+8,103164546,1775,C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3,Active,,,Potential missing data,Inhibition,,,%,Active
+9,103164817,5578,COC1=CC(=CC(=C1OC)OC)CC2=CN=C(N=C2N)N,Active,,,Potential missing data,Inhibition,,,%,Active
+10,103164821,5339,C1=CC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N=NC3=CC(=C(C=C3)O)C(=O)O,Active,,,Potential missing data,Inhibition,,,%,Active
+11,103164854,323,C1=CC=C2C(=C1)C=CC(=O)O2,Active,,,Potential missing data,Inhibition,,,%,Active
+12,103164872,39186,CC(=O)O[C@@H]1[C@@H](SC2=CC=CC=C2N(C1=O)CCN(C)C)C3=CC=C(C=C3)OC,Active,,,Potential missing data,Inhibition,,,%,Active
+13,103164874,2244,CC(=O)OC1=CC=CC=C1C(=O)O,Active,,,Potential missing data,Inhibition,,,%,Active
+14,103164922,5355,CCN1CCCC1CNC(=O)C2=C(C=CC(=C2)S(=O)(=O)N)OC,Active,,,Potential missing data,Inhibition,,,%,Active
+15,103164951,4946,CC(C)NCC(COC1=CC=CC2=CC=CC=C21)O,Active,,,Potential missing data,Inhibition,,,%,Active
+16,103165167,2756,CC1=C(N=CN1)CSCCNC(=NC)NC#N,Active,,,Potential missing data,Inhibition,,,%,Active
+17,103165317,3869,CC(CCC1=CC=CC=C1)NCC(C2=CC(=C(C=C2)O)C(=O)N)O,Active,,,Potential missing data,Inhibition,,,%,Active
+18,103165562,3440,C1=COC(=C1)CNC2=CC(=C(C=C2C(=O)O)S(=O)(=O)N)Cl,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+19,103165713,444795,CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C(=O)O)/C)/C,Unspecified,,,,Ratio IC50,=,2,,
+20,103165722,4763,CCC1(C(=O)NC(=O)NC1=O)C2=CC=CC=C2,Active,,,Potential missing data,Inhibition,,,%,Active
+21,103165728,3386,CNCCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F,Active,,,Potential missing data,Inhibition,,,%,Active
+22,103165765,135398737,CN1CCN(CC1)C2=NC3=C(C=CC(=C3)Cl)NC4=CC=CC=C42,Unspecified,,,,Ratio IC50,=,2,,
+23,103166066,2179,COC1=C(C=CC(=C1)NS(=O)(=O)C)NC2=C3C=CC=CC3=NC4=CC=CC=C42,Active,,,Potential missing data,Inhibition,,,%,Active
+24,103166276,38409,C1=CSC(=C1)C(=O)C2=C(C(=C(C=C2)OCC(=O)O)Cl)Cl,Active,,,Potential missing data,Inhibition,,,%,Active
+25,103166970,2477,C1CCC2(C1)CC(=O)N(C(=O)C2)CCCCN3CCN(CC3)C4=NC=CC=N4,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+26,103167089,38853,C[C@](CC1=CC(=C(C=C1)O)O)(C(=O)O)N,Active,,,Potential missing data,Inhibition,,,%,Active
+27,103167682,4463,CC1=C2C(=NC=C1)N(C3=C(C=CC=N3)C(=O)N2)C4CC4,Active,,,Potential missing data,Inhibition,,,%,Active
+28,103168230,3767,C1=CN=CC=C1C(=O)NN,Unspecified,,,,Ratio IC50,>,5,,
+29,103168744,5253,CC(C)NCC(C1=CC=C(C=C1)NS(=O)(=O)C)O,Active,,,Potential missing data,Inhibition,,,%,Active
+30,103168841,71329,CN(CCC1=CC=C(C=C1)NS(=O)(=O)C)CCOC2=CC=C(C=C2)NS(=O)(=O)C,Active,,,Potential missing data,Inhibition,,,%,Active
+31,103168962,135398738,CN(C)/N=N/C1=C(NC=N1)C(=O)N,Active,,,Potential missing data,Inhibition,,,%,Active
+32,103169185,5288826,CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)O)O[C@H]3[C@H](C=C4)O,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+33,103169389,2726,CN(C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)Cl,Unspecified,,,,Ratio IC50,=,2,,
+34,103169732,2719,CCN(CC)CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl,Active,,,Potential missing data,Inhibition,,,%,Active
+35,103170049,5035,C1CCN(CC1)CCOC2=CC=C(C=C2)C(=O)C3=C(SC4=C3C=CC(=C4)O)C5=CC=C(C=C5)O,Active,,,Potential missing data,Inhibition,,,%,Active
+36,103170100,2733526,CC/C(=C(\C1=CC=CC=C1)/C2=CC=C(C=C2)OCCN(C)C)/C3=CC=CC=C3,Unspecified,,,,Ratio IC50,=,2,,
+37,103171219,5280723,CCCCC[C@@H](/C=C/[C@H]1[C@@H](CC(=O)[C@@H]1CCCCCCC(=O)O)O)O,Active,,,Potential missing data,Inhibition,,,%,Active
+38,103171472,2907,C1CNP(=O)(OC1)N(CCCl)CCCl,Active,,,Potential missing data,Inhibition,,,%,Active
+39,103171565,2727,CCCNC(=O)NS(=O)(=O)C1=CC=C(C=C1)Cl,Active,,,Potential missing data,Inhibition,,,%,Active
+40,103171825,3637,C1=CC=C2C(=C1)C=NN=C2NN,Active,,,Potential missing data,Inhibition,,,%,Active
+41,103171902,5280965,C[C@H]1/C=C/C=C/C=C/C=C/C=C/C=C/C=C/[C@@H](C[C@H]2[C@@H]([C@H](C[C@](O2)(C[C@H](C[C@H]([C@@H](CC[C@H](C[C@H](CC(=O)O[C@H]([C@@H]([C@@H]1O)C)C)O)O)O)O)O)O)O)C(=O)O)O[C@H]3[C@H]([C@H]([C@@H]([C@H](O3)C)O)N)O,Active,,,Potential missing data,Inhibition,,,%,Active
+42,103172204,60490,CC(C1=CC2=CC=CC=C2S1)N(C(=O)N)O,Active,,,Potential missing data,Inhibition,,,%,Active
+43,103172304,1935,C1CCC2=NC3=CC=CC=C3C(=C2C1)N,Active,,,Potential missing data,Inhibition,,,%,Active
+44,103172342,3152,COC1=C(C=C2C(=C1)CC(C2=O)CC3CCN(CC3)CC4=CC=CC=C4)OC,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+45,103172458,53232,CC[C@H](C)C(=O)O[C@H]1C[C@H](C=C2[C@H]1[C@H]([C@H](C=C2)C)CC[C@@H]3C[C@H](CC(=O)O3)O)C,Active,,,Potential missing data,Inhibition,,,%,Active
+46,103173542,4992,CN(C)CCN(CC1=CC=C(C=C1)OC)C2=CC=CC=N2,Unspecified,,,,Ratio IC50,=,2,,
+47,103173718,2578,C(CCl)NC(=O)N(CCCl)N=O,Active,,,Potential missing data,Inhibition,,,%,Active
+48,103174500,3672,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,Active,,,Potential missing data,Inhibition,,,%,Active
+49,103174787,54676228,CN1C(=C(C2=CC=CC=C2S1(=O)=O)O)C(=O)NC3=CC=CC=N3,Active,,,Potential missing data,Inhibition,,,%,Active
+50,103175225,4781,CCCCC1C(=O)N(N(C1=O)C2=CC=CC=C2)C3=CC=CC=C3,Active,,,Potential missing data,Inhibition,,,%,Active
+51,103175236,447043,CC[C@@H]1[C@@]([C@@H]([C@H](N(C[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)C)O)(C)O,Active,,,Potential missing data,Inhibition,,,%,Active
+52,103175312,12560,CC[C@@H]1[C@@]([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)O)(C)O,Active,,,Potential missing data,Inhibition,,,%,Active
+53,103175608,5994,CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C,Active,,,Potential missing data,Inhibition,,,%,Active
+54,103176241,2812,C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3Cl)N4C=CN=C4,Unspecified,,,,Ratio IC50,<,2,,
+55,103176321,5746,CC1=C(C(=O)C2=C(C1=O)N3C[C@H]4[C@@H]([C@@]3([C@@H]2COC(=O)N)OC)N4)N,Active,,,Potential missing data,Inhibition,,,%,Active
+56,103176475,3365,C1=CC(=C(C=C1F)F)C(CN2C=NC=N2)(CN3C=NC=N3)O,Active,,,Potential missing data,Inhibition,,,%,Active
+57,103177124,6167,CC(=O)N[C@H]1CCC2=CC(=C(C(=C2C3=CC=C(C(=O)C=C13)OC)OC)OC)OC,Active,,,Potential missing data,Inhibition,,,%,Active
+58,103177753,2554,C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N,Active,,,Potential missing data,Inhibition,,,%,Active
+59,103177883,3121,CCCC(CCC)C(=O)O,Active,,,Potential missing data,Inhibition,,,%,Active
+60,103178942,2796,CCOC(=O)C(C)(C)OC1=CC=C(C=C1)Cl,Active,,,Potential missing data,Inhibition,,,%,Active
+61,103178971,1983,CC(=O)NC1=CC=C(C=C1)O,Active,,,Potential missing data,Inhibition,,,%,Active
+62,103178995,2519,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Active,,,Potential missing data,Inhibition,,,%,Active
+63,103179013,1548887,CC\1=C(C2=C(/C1=C\C3=CC=C(C=C3)S(=O)C)C=CC(=C2)F)CC(=O)O,Active,,,Potential missing data,Inhibition,,,%,Active
+64,103179088,6604200,C1C(=O)NC(=O)N1/N=C/C2=CC=C(O2)[N+](=O)[O-],Active,,,Potential missing data,Inhibition,,,%,Active
+65,103179145,938,C1=CC(=CN=C1)C(=O)O,Active,,,Potential missing data,Inhibition,,,%,Active
+66,103181943,4829,CCC1=CN=C(C=C1)CCOC2=CC=C(C=C2)CC3C(=O)NC(=O)S3,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+67,103183576,5717,CC1=CC=CC=C1S(=O)(=O)NC(=O)C2=CC(=C(C=C2)CC3=CN(C4=C3C=C(C=C4)NC(=O)OC5CCCC5)C)OC,Active,,,Potential missing data,Inhibition,,,%,Active
+68,103184537,4058,CCOC(=O)C1(CCN(CC1)C)C2=CC=CC=C2,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+69,103184980,5733,CC1=C(N(C(=C1)CC(=O)O)C)C(=O)C2=CC=C(C=C2)Cl,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+70,103185057,5401,COC1=C(C=C2C(=C1)C(=NC(=N2)N3CCN(CC3)C(=O)C4CCCO4)N)OC,Active,,,Potential missing data,Inhibition,,,%,Active
+71,103185469,1046,C1=CN=C(C=N1)C(=O)N,Active,,,Potential missing data,Inhibition,,,%,Active
+72,103188146,441130,C[C@@H]1[C@@H]2[C@H](C(=O)N2C(=C1S[C@H]3C[C@H](NC3)C(=O)N(C)C)C(=O)O)[C@@H](C)O,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+73,103188221,4449,CCC1=NN(C(=O)N1CCOC2=CC=CC=C2)CCCN3CCN(CC3)C4=CC(=CC=C4)Cl,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+74,103188531,3634,CCN(CC)CCNC1=C2C(=C(C=C1)CO)SC3=CC=CC=C3C2=O,Active,,,Potential missing data,Inhibition,,,%,Active
+75,103188772,2160,CN(C)CCC=C1C2=CC=CC=C2CCC3=CC=CC=C31,Active,,,Potential missing data,Inhibition,,,%,Active
+76,103188875,2157,CCCCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC(=C(C(=C3)I)OCCN(CC)CC)I,Unspecified,,,,Ratio IC50,<,2,,
+77,103188912,5865,C[C@]12CC(=O)[C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)CCC4=CC(=O)C=C[C@]34C,Active,,,Potential missing data,Inhibition,,,%,Active
+78,103188954,5656,CN(C)CC(C1=CC=C(C=C1)OC)C2(CCCCC2)O,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+79,103188975,35370,CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO)N=[N+]=[N-],Active,,,Potential missing data,Inhibition,,,%,Active
+80,103189253,54477,CCN1CCC[C@H]1CNC(=O)C2=C(C=CC(=C2OC)Br)OC,Active,,,Potential missing data,Inhibition,,,%,Active
+81,103189263,5757,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)O,Active,,,Potential missing data,Inhibition,,,%,Active
+82,103189265,3100,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2,Active,,,Potential missing data,Inhibition,,,%,Active
+83,103189345,4011,CNCCCC12CCC(C3=CC=CC=C31)C4=CC=CC=C24,Active,,,Potential missing data,Inhibition,,,%,Active
+84,103189939,3339,CC(C)OC(=O)C(C)(C)OC1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)Cl,Unspecified,,,,Ratio IC50,=,2,,
+85,103191369,3033,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,Active,,,Potential missing data,Inhibition,,,%,Active
+86,103191448,4044,CC1=C(C(=CC=C1)NC2=CC=CC=C2C(=O)O)C,Active,,,Potential missing data,Inhibition,,,%,Active
+87,103192563,5991,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=C3C=CC(=C4)O,Active,,,Potential missing data,Inhibition,,,%,Active
+88,103194727,57363,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C(=O)NC(C)(C)C)CC[C@@H]4[C@@]3(C=CC(=O)N4)C,Active,,,Potential missing data,Inhibition,,,%,Active
+89,103195217,135398745,CC1=CC2=C(S1)NC3=CC=CC=C3N=C2N4CCN(CC4)C,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+90,103198031,4917,CN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)Cl,Active,,,Potential missing data,Inhibition,,,%,Active
+91,103199241,31404,CC1=CC(=C(C(=C1)C(C)(C)C)O)C(C)(C)C,Active,,,Potential missing data,Inhibition,,,%,Active
+92,103199382,3878,C1=CC(=C(C(=C1)Cl)Cl)C2=C(N=C(N=N2)N)N,Active,,,Potential missing data,Inhibition,,,%,Active
+93,103201933,4768,CC(COC1=CC=CC=C1)N(CCCl)CC2=CC=CC=C2,Active,,,Potential missing data,Inhibition,,,%,Active
+94,103204298,750,C(C(=O)O)N,Active,,,Potential missing data,Inhibition,,,%,Active
+95,103205106,5280980,C1[C@@H]2N(C1=O)[C@H](/C(=C/CO)/O2)C(=O)O,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+96,103205944,5361092,C1CC[C@]2([C@H]3CC4=C([C@]2(C1)CCN3CC5CCC5)C=C(C=C4)O)O,Unspecified,,,,Ratio IC50,<,2,,
+97,103206766,5311309,CC(C)C1CCC(CC1)C(=O)N[C@H](CC2=CC=CC=C2)C(=O)O,Active,,,Potential missing data,Inhibition,,,%,Active
+98,103207442,5281040,CC(C)(C1=CC=CC=C1CC[C@H](C2=CC=CC(=C2)/C=C/C3=NC4=C(C=CC(=C4)Cl)C=C3)SCC5(CC5)CC(=O)O)O,Active,,,Potential missing data,Inhibition,,,%,Active
+99,103210094,2754,C1CCC(CC1)N2C(=NN=N2)CCCCOC3=CC4=C(C=C3)NC(=O)CC4,Active,,,Potential missing data,Inhibition,,,%,Active
+100,103210632,4201,C1CCN(CC1)C2=NC(=N)N(C(=C2)N)O,Active,,,Potential missing data,Inhibition,,,%,Active
+101,103210646,156391,C[C@@H](C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O,Active,,,Potential missing data,Inhibition,,,%,Active
+102,103210760,6253,C1=CN(C(=O)N=C1N)[C@H]2[C@H]([C@@H]([C@H](O2)CO)O)O,Active,,,Potential missing data,Inhibition,,,%,Active
+103,103211583,3397,CC(C)C(=O)NC1=CC(=C(C=C1)[N+](=O)[O-])C(F)(F)F,Unspecified,,,,Ratio IC50,<,2,,
+104,103213015,68617,CN[C@H]1CC[C@H](C2=CC=CC=C12)C3=CC(=C(C=C3)Cl)Cl,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+105,103214033,5324346,COCCCC/C(=N\OCCN)/C1=CC=C(C=C1)C(F)(F)F,Unspecified,,,,Ratio IC50,=,2,,
+106,103215824,2478,CS(=O)(=O)OCCCCOS(=O)(=O)C,Active,,,Potential missing data,Inhibition,,,%,Active
+107,103219094,6009,CC1=C(C(=O)N(N1C)C2=CC=CC=C2)N(C)C,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+108,103219164,5472,C1CN(CC2=C1SC=C2)CC3=CC=CC=C3Cl,Active,,,Potential missing data,Inhibition,,,%,Active
+109,103219240,4674,C(CN)C(O)(P(=O)(O)O)P(=O)(O)O,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+110,103220466,5742832,C[C@H]1[C@@H](C(=O)N1S(=O)(=O)O)NC(=O)/C(=N\OC(C)(C)C(=O)O)/C2=CSC(=N2)N,Active,,,Potential missing data,Inhibition,,,%,Active
+111,103228758,3305,CC(O)(P(=O)(O)O)P(=O)(O)O,Active,,,Potential missing data,Inhibition,,,%,Active
+112,103230651,5284373,CC[C@H]1C(=O)N(CC(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N1)[C@@H]([C@H](C)C/C=C/C)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C,Active,,,Potential missing data,Inhibition,,,%,Active
+113,103234668,5311304,C1CC(C1)CN2CC[C@]34[C@@H]5[C@H](CC[C@]3([C@H]2CC6=C4C(=C(C=C6)O)O5)O)O,Active,,,Potential missing data,Inhibition,,,%,Active
+114,103234893,3658,C1CN(CCN1CCOCCO)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl,Active,,,Potential missing data,Inhibition,,,%,Active
+115,103235190,4601,CC1=CC=CC=C1C(C2=CC=CC=C2)OCCN(C)C,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+116,103236900,8246,CN(C)C(=O)OC1=CC=CC(=C1)[N+](C)(C)C.[Br-],Active,,,Potential missing data,Inhibition,,,%,Active
+117,103238173,5732,CC1=CC=C(C=C1)C2=C(N3C=C(C=CC3=N2)C)CC(=O)N(C)C,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+118,103240093,5790,C1[C@@H]([C@H](O[C@H]1N2C=C(C(=O)NC2=O)F)CO)O,Active,,,Potential missing data,Inhibition,,,%,Active
+119,103240343,54897,CCCN(CCC)C(=O)CC1=C(N=C2N1C=C(C=C2)Cl)C3=CC=C(C=C3)Cl,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+120,103240795,5479530,CN1C(=NC(=O)C(=O)N1)SCC2=C(N3[C@@H]([C@@H](C3=O)NC(=O)/C(=N\OC)/C4=CSC(=N4)N)SC2)C(=O)O,Active,,,Potential missing data,Inhibition,,,%,Active
+121,103240839,5245,C1=CC(=CN=C1)CC(O)(P(=O)(O)O)P(=O)(O)O,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+122,103241579,6106,CC(C)C[C@@H](C(=O)O)N,Active,,,Potential missing data,Inhibition,,,%,Active
+123,103242469,4495,CS(=O)(=O)NC1=C(C=C(C=C1)[N+](=O)[O-])OC2=CC=CC=C2,Active,,,Potential missing data,Inhibition,,,%,Active
+124,103250876,5284604,CN1CC[C@]23[C@@H]4C(=O)CC[C@]2([C@H]1CC5=C3C(=C(C=C5)O)O4)O,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+125,103250959,3117,CCN(CC)C(=S)SSC(=S)N(CC)CC,Unspecified,,,,Ratio IC50,<,2,,
+126,103252336,26757,C[C@H](CC1=CC=CC=C1)N(C)CC#C,Active,,,Potential missing data,Inhibition,,,%,Active
+127,103256288,3516,COC1=CC=CC=C1OCC(CO)O,Active,,,Potential missing data,Inhibition,,,%,Active
+128,103262836,18283,CC1=CN(C(=O)NC1=O)[C@H]2C=C[C@H](O2)CO,Active,,,Potential missing data,Inhibition,,,%,Active
+129,103274161,4746,C1CCC(CC1)C(CC2CCCCN2)C3CCCCC3,Active,,,Potential missing data,Inhibition,,,%,Active
+130,103280853,2955,C1=CC(=CC=C1N)S(=O)(=O)C2=CC=C(C=C2)N,Active,,,Potential missing data,Inhibition,,,%,Active
+131,103292372,54454,CCC(C)(C)C(=O)O[C@H]1C[C@H](C=C2[C@H]1[C@H]([C@H](C=C2)C)CC[C@@H]3C[C@H](CC(=O)O3)O)C,Active,,,Potential missing data,Inhibition,,,%,Active
+132,103292815,60846,CCCCC(=O)N(CC1=CC=C(C=C1)C2=CC=CC=C2C3=NNN=N3)[C@@H](C(C)C)C(=O)O,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+133,103293849,60726,C1=CC(=C(C(=C1)C(=O)C2=CC=C(C=C2)Br)N)CC(=O)O,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+134,103296891,33613,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CC=C(C=C3)O)N)C(=O)O)C,Active,,,Potential missing data,Inhibition,,,%,Active
+135,103301299,4062,CC1=C(C(=CC=C1)C)NC(=O)C2CCCCN2C,Active,,,Potential missing data,Inhibition,,,%,Active
+136,103301334,3675,C1=CC=C(C=C1)CCNN,Unspecified,,,,Ratio IC50,>,5,,
+137,103303660,3331,C1=CC=C(C=C1)C(COC(=O)N)COC(=O)N,Active,,,Potential missing data,Inhibition,,,%,Active
+138,103303946,3748,CC(C)NNC(=O)C1=CC=NC=C1,Active,,,Potential missing data,Inhibition,,,%,Active
+139,103306370,5335,C1=CC=C(C=C1)N2C(=CC=N2)NS(=O)(=O)C3=CC=C(C=C3)N,Active,,,Potential missing data,Inhibition,,,%,Active
+140,103310147,4991,C[N+]1=CC=CC(=C1)OC(=O)N(C)C,Active,,,Potential missing data,Inhibition,,,%,Active
+141,103331451,41781,CC1=CC(=CC=C1)NC2=C(C=NC=C2)S(=O)(=O)NC(=O)NC(C)C,Active,,,Potential missing data,Inhibition,,,%,Active
+142,103340993,4649,C1=CC(=C(C=C1N)O)C(=O)O,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+143,103375472,4641,CCCCC1C(=O)N(N(C1=O)C2=CC=C(C=C2)O)C3=CC=CC=C3,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+144,103376533,4634,CCN(CC)CC#CCOC(=O)C(C1CCCCC1)(C2=CC=CC=C2)O,Active,,,Potential missing data,Inhibition,,,%,Active
+145,103381239,5284537,CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)[C@@H]5C[C@@H]5[C@]34C)Cl)C)O,Active,,,Potential missing data,Inhibition,,,%,Active
+146,103391142,3474,C1=CC=C(C(=C1)C(=O)OCC(CO)O)NC2=C3C=CC(=CC3=NC=C2)Cl,Active,,,Potential missing data,Inhibition,,,%,Active
+147,103395493,4493,CC1(C(=O)N(C(=O)N1)C2=CC(=C(C=C2)[N+](=O)[O-])C(F)(F)F)C,Active,,,Potential missing data,Inhibition,,,%,Active
+148,103401109,441074,COC1=CC2=C(C=CN=C2C=C1)[C@@H]([C@H]3C[C@@H]4CCN3C[C@@H]4C=C)O,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+149,103455384,5281004,CCCC1O[C@@H]2C[C@H]3[C@@H]4CCC5=CC(=O)C=C[C@@]5([C@H]4[C@H](C[C@@]3([C@@]2(O1)C(=O)CO)C)O)C,Active,,,Potential missing data,Inhibition,,,%,Active
+150,103456780,35935,CC(C1=CC(=C(C=C1)N2CC=CC2)Cl)C(=O)O,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+151,103458965,4236,C1=CC=C(C=C1)C(C2=CC=CC=C2)S(=O)CC(=O)N,Active,,,Potential missing data,Inhibition,,,%,Active
+152,103469357,5756,C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)O)CCC4=C3C=CC(=C4)O,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+153,103503926,667490,C1=NC2=C(N1)C(=S)N=CN2,Active,,,Potential missing data,Inhibition,,,%,Active
+154,103512866,54675776,C[C@@]1([C@H]2C[C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,Active,,,Potential missing data,Inhibition,,,%,Active
+155,103513016,2333,CCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC(=C(C(=C3)Br)O)Br,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+156,103520216,31307,C[C@]12C[C@@H]([C@]3([C@H]([C@@H]1C[C@H]([C@@]2(C(=O)CO)O)O)CCC4=CC(=O)C=C[C@@]43C)F)O,Active,,,Potential missing data,Inhibition,,,%,Active
+157,103520217,2153,CN1C2=C(C(=O)N(C1=O)C)NC=N2,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+158,103525989,10114,C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O)C)(C)C(=O)O,Active,,,Potential missing data,Inhibition,,,%,Active
+159,103526751,5284569,CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)OC)O[C@H]3C(=O)CC4,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+160,103529091,135398739,C1C[C@@H](O[C@@H]1CO)N2C=NC3=C2N=CNC3=O,Active,,,Potential missing data,Inhibition,,,%,Active
+161,103532317,54678486,CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+162,103533730,135401907,C1=NNC2=C1C(=O)NC=N2,Active,,,Potential missing data,Inhibition,,,%,Active
+163,103543149,28417,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=CC5=C(C[C@]34C)C=NO5,Active,,,Potential missing data,Inhibition,,,%,Active
+164,103546496,3961,CCCCC1=NC(=C(N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NNN=N4)CO)Cl,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+165,103554720,60823,CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)O)O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+166,103557031,5284570,CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)O)O[C@H]3C(=O)CC4,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+167,103557046,4485,CC1=C(C(C(=C(N1)C)C(=O)OC)C2=CC=CC=C2[N+](=O)[O-])C(=O)OC,Active,,,Potential missing data,Inhibition,,,%,Active
+168,103557049,4594,CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC,Active,,,Potential missing data,Inhibition,,,%,Active
+169,103558436,82153,C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1C[C@@H]4[C@]2(OC(O4)(C)C)C(=O)CO)C[C@@H](C5=CC(=O)C=C[C@]35C)F)O,Active,,,Potential missing data,Inhibition,,,%,Active
+170,103558519,158781,CCCC1=NC(=C(N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NNN=N4)C(=O)O)C(C)(C)O,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+171,103558581,657298,CCCC1=CC(=O)NC(=S)N1,Active,,,Potential missing data,Inhibition,,,%,Active
+172,103567590,17134,COC1=C(N=CN=C1OC)NS(=O)(=O)C2=CC=C(C=C2)N,Active,,,Potential missing data,Inhibition,,,%,Active
+173,103568173,2265,CN1C=NC(=C1SC2=NC=NC3=C2NC=N3)[N+](=O)[O-],Active,,,Potential missing data,Inhibition,,,%,Active
+174,103570000,5920,C1=CC(=C(C=C1OC2=C(C=C(C=C2I)C[C@@H](C(=O)O)N)I)I)O,Active,,,Potential missing data,Inhibition,,,%,Active
+175,103579573,457193,C[C@@H]1[C@@H](C(=O)N[C@@H](C(=O)N2CCC[C@H]2C(=O)N(CC(=O)N([C@H](C(=O)O1)C(C)C)C)C)C(C)C)NC(=O)C3=C4C(=C(C=C3)C)OC5=C(C(=O)C(=C(C5=N4)C(=O)N[C@H]6[C@H](OC(=O)[C@@H](N(C(=O)CN(C(=O)[C@@H]7CCCN7C(=O)[C@H](NC6=O)C(C)C)C)C)C(C)C)C)N)C,Active,,,Potential missing data,Inhibition,,,%,Active
+176,103588960,6103,C1=CC2=C(C=C1Cl)N=C(O2)N,Active,,,Potential missing data,Inhibition,,,%,Active
+177,103589701,4771,CC(C)(CC1=CC=CC=C1)N,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+178,103589984,20469,C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)Cl)C,Active,,,Potential missing data,Inhibition,,,%,Active
+179,103604960,4034,CC1=CC(=CC=C1)CN2CCN(CC2)C(C3=CC=CC=C3)C4=CC=C(C=C4)Cl,Active,,,Potential missing data,Inhibition,,,%,Active
+180,103605085,26987,C[C@@](C1=CC=CC=C1)(C2=CC=C(C=C2)Cl)OCC[C@H]3CCCN3C,Active,,,Potential missing data,Inhibition,,,%,Active
+181,103611411,16051921,CCN(CC)CC1=C(C=CC(=C1)NC2=C3C=CC(=CC3=NC=C2)Cl)O.Cl,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+182,103649168,31072,CCOC(=O)N1C=CN(C1=S)C,Unspecified,,,,Ratio IC50,>,5,,
+183,103680984,4499,CC1=C(C(C(=C(N1)C)C(=O)OCC(C)C)C2=CC=CC=C2[N+](=O)[O-])C(=O)OC,Active,,,Potential missing data,Inhibition,,,%,Active
+184,103685161,202225,C[C@@H]1C[C@@H]([C@H]([C@@H](O1)O[C@H]2[C@H](C[C@@]3(CO3)C(=O)[C@@H]([C@H]([C@H]([C@H](OC(=O)[C@@H]([C@H]([C@@H]2C)O[C@H]4C[C@@H]([C@H]([C@@H](O4)C)OC(=O)C)OC)C)C)C)OC(=O)C)C)C)OC(=O)C)N(C)C,Active,,,Potential missing data,Inhibition,,,%,Active
+185,103696081,84029,CC[C@@H]1[C@@]([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)OC)C)C)O)(C)O,Active,,,Potential missing data,Inhibition,,,%,Active
+186,103707689,2724385,C[C@@H]1[C@H]([C@H](C[C@@H](O1)O[C@@H]2[C@H](O[C@H](C[C@@H]2O)O[C@@H]3[C@H](O[C@H](C[C@@H]3O)O[C@H]4CC[C@]5([C@@H](C4)CC[C@@H]6[C@@H]5C[C@H]([C@]7([C@@]6(CC[C@@H]7C8=CC(=O)OC8)O)C)O)C)C)C)O)O,Active,,,Potential missing data,Inhibition,,,%,Active
+187,103770813,,,Active,,,Potential missing data,Inhibition,,,%,Active
+188,103770834,10429215,C[N+]1([C@@H]2CC[C@H]1CC(C2)OC(=O)C(C3=CC=CC=C3)O)C.[Br-],Unspecified,,,,Ratio IC50,<,2,,
+189,103770845,441350,C[C@](CC1=CC=C(C=C1)O)(C(=O)O)N,Active,,,Potential missing data,Inhibition,,,%,Active
+190,103771100,4107,COC1=CC=CC=C1OCC(COC(=O)N)O,Active,,,Potential missing data,Inhibition,,,%,Active
+191,103771134,6291,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=C3C=CC(=C4)OC,Active,,,Potential missing data,Inhibition,,,%,Active
+192,104234151,43815,C1CNC[C@H]([C@@H]1C2=CC=C(C=C2)F)COC3=CC4=C(C=C3)OCO4,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+193,104234169,126941,CN(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O,Active,,,Potential missing data,Inhibition,,,%,Active
+194,104234176,36462,C[C@@H]1OC[C@@H]2[C@@H](O1)[C@@H]([C@H]([C@@H](O2)O[C@H]3[C@H]4COC(=O)[C@@H]4[C@@H](C5=CC6=C(C=C35)OCO6)C7=CC(=C(C(=C7)OC)O)OC)O)O,Active,,,Potential missing data,Inhibition,,,%,Active
+195,104234199,54687,CC[C@H](C)C(=O)O[C@H]1C[C@@H](C=C2[C@H]1[C@H]([C@H](C=C2)C)CC[C@H](C[C@H](CC(=O)O)O)O)O,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+196,104234228,6013,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=CC(=O)CC[C@]34C,Active,,,Potential missing data,Inhibition,,,%,Active
+197,104234229,5743,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)F)C,Active,,,Potential missing data,Inhibition,,,%,Active
+198,104234234,54675783,CN(C)[C@H]1[C@@H]2C[C@@H]3CC4=C(C=CC(=C4C(=C3C(=O)[C@@]2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C,Active,,,Potential missing data,Inhibition,,,%,Active
+199,104234246,2162,CCOC(=O)C1=C(NC(=C(C1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+200,104234266,44187,CCN1CCN(C(=O)C1=O)C(=O)N[C@H](C2=CC=C(C=C2)O)C(=O)N[C@H]3[C@@H]4N(C3=O)C(=C(CS4)CSC5=NN=NN5C)C(=O)O,Active,,,Potential missing data,Inhibition,,,%,Active
+201,104234343,657181,CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CC(C)C)NC(=O)[C@H](CC2=CC=C(C=C2)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC3=CNC4=CC=CC=C43)NC(=O)[C@H](CC5=CN=CN5)NC(=O)[C@@H]6CCC(=O)N6,Active,,,Potential missing data,Inhibition,,,%,Active
+202,104234344,10836,C[C@@H](CC1=CC=CC=C1)NC,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+203,104234349,6914273,C1C(=O)NC(=O)N1/N=C/C2=CC=C(O2)C3=CC=C(C=C3)[N+](=O)[O-],Active,,,Potential missing data,Inhibition,,,%,Active
+204,123083185,77999,CN(CCOC1=CC=C(C=C1)CC2C(=O)NC(=O)S2)C3=CC=CC=N3,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+205,123087788,2882,C1=CC2=C(C(=C1)OCC(COC3=CC=CC4=C3C(=O)C=C(O4)C(=O)O)O)C(=O)C=C(O2)C(=O)O,Active,,,Potential missing data,Inhibition,,,%,Active
+206,123090165,2769,COC1CN(CCC1NC(=O)C2=CC(=C(C=C2OC)N)Cl)CCCOC3=CC=C(C=C3)F,Active,,,Potential missing data,Inhibition,,,%,Active
+207,123092671,52945526,C[C@@H]1[C@H]([C@@H](C[C@H](O1)O[C@@H]2C[C@@H](O[C@@H]([C@H]2O)C)OC3=CC4=CC5=C(C(=O)[C@H]([C@@H](C5)[C@@H](C(=O)[C@H]([C@@H](C)O)O)OC)O[C@H]6C[C@H]([C@@H]([C@H](O6)C)O)O[C@@H]7C[C@H]([C@H]([C@H](O7)C)O[C@@H]8C[C@]([C@@H]([C@H](O8)C)O)(C)O)O)C(=C4C(=C3C)O)O)O)O,Active,,,Potential missing data,Inhibition,,,%,Active
+208,123097261,31703,C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O,Active,,,Potential missing data,Inhibition,,,%,Active
+209,124955682,5906,C[C@@H]([C@@H](C1=CC(=CC=C1)O)O)N,Active,,,Potential missing data,Inhibition,,,%,Active
+210,124963568,4195,COC1=CC(=C(C=C1)OC)C(CNC(=O)CN)O,Active,,,Potential missing data,Inhibition,,,%,Active
+211,131279831,329983,CC1CCC2=C(C1)OC=C2C,Active,,,Potential missing data,Inhibition,,,%,Active
+212,134437966,5039,CNC(=C[N+](=O)[O-])NCCSCC1=CC=C(O1)CN(C)C,Active,,,Potential missing data,Inhibition,,,%,Active
+213,136926966,135398735,C[C@H]1/C=C/C=C(\C(=O)NC2=C(C(=C3C(=C2O)C(=C(C4=C3C(=O)[C@](O4)(O/C=C/[C@@H]([C@H]([C@H]([C@@H]([C@@H]([C@@H]([C@H]1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)/C=N/N5CCN(CC5)C)/C,Active,,,Potential missing data,Inhibition,,,%,Active
+214,160682477,5481173,CC(C)(C(=O)O)O/N=C(/C1=CSC(=N1)N)\C(=O)N[C@H]2[C@@H]3N(C2=O)C(=C(CS3)C[N+]4=CC=CC=C4)C(=O)[O-],Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+215,163315720,3823,CC(=O)N1CCN(CC1)C2=CC=C(C=C2)OCC3COC(O3)(CN4C=CN=C4)C5=C(C=C(C=C5)Cl)Cl,Active,,,Potential missing data,Inhibition,,,%,Active
+216,174489722,657309,CC(C)[N+]1([C@@H]2CC[C@H]1CC(C2)OC(=O)C(CO)C3=CC=CC=C3)C,Active,,,Potential missing data,Inhibition,,,%,Active
+217,174510050,154417,CN1[C@@H]2CC[C@H]1CC(C2)OC(=O)[C@H](CO)C3=CC=CC=C3,Active,,,Potential missing data,Inhibition,,,%,Active
+218,174525699,9898639,CC([C@@H]1CC[C@H]([C@H](O1)O[C@@H]2[C@H](C[C@H]([C@@H]([C@H]2O)O[C@@H]3[C@@H]([C@H]([C@@](CO3)(C)O)NC)O)N)N)N)N.CC([C@@H]1CC[C@H]([C@H](O1)O[C@@H]2[C@H](C[C@H]([C@@H]([C@H]2O)O[C@@H]3[C@@H]([C@H]([C@@](CO3)(C)O)NC)O)N)N)N)NC.C[C@@]1(CO[C@@H]([C@@H]([C@H]1NC)O)O[C@H]2[C@@H](C[C@@H]([C@H]([C@@H]2O)O[C@@H]3[C@@H](CC[C@H](O3)CN)N)N)N)O,Active,,,Potential missing data,Inhibition,,,%,Active
+219,374263549,30487,C[C@H]1[C@@H](OCCN1C)C2=CC=CC=C2,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+220,494428864,3033924,C[C@H]1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O.C[C@H]1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O.O,Inconclusive,,,Potential missing data,Inhibition,,,%,Not Determined
+221,504793523,5484730,CC(C)(C)NC(=O)[C@@H]1CN(CCN1C[C@H](C[C@@H](CC2=CC=CC=C2)C(=O)N[C@@H]3[C@@H](CC4=CC=CC=C34)O)O)CC5=CN=CC=C5.O,Active,,,Potential missing data,Inhibition,,,%,Active

@@ -1,0 +1,5 @@
+SMILES,active,common_name,action_type,FDA_recommended,dataset,INCHIKEY
+C1CNC[C@H]([C@@H]1C2=CC=C(C=C2)F)COC3=CC4=C(C=C3)OCO4, True, paroxetine, inhibitor, True, FDA,AHOUBRCZNHFOSL-YOEHRIQHSA-N
+COC1=CC2=C(C=CN=C2C=C1)[C@@H]([C@H]3C[C@@H]4CCN3C[C@@H]4C=C)O, True, quinidine, inhibitor, True, FDA,LOUPRKONTZGTKE-LHHVKLHASA-N
+CNCCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F, True, fluoxetine, inhibitor, True, FDA,RTHCYVBBDHJXIQ-UHFFFAOYSA-N
+C1=CC=C(C=C1)[C@H](CNCCC2=CC=C(C=C2)NC(=O)CC3=CSC(=N3)N)O, True, Mirabegron, inhibitor, True, FDA,PBAPPPCECJKMCM-IBGZPJMESA-N
