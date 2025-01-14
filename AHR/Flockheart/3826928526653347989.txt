@@ -1,0 +1,6 @@
+common_name	SMILES
+beta-naphthoflavone	C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=CC4=CC=CC=C43
+carbamazepine	C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N
+omeprazole	CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC
+rifampin	C[C@H]1/C=C/C=C(\C(=O)NC2=C(C(=C3C(=C2O)C(=C(C4=C3C(=O)[C@](O4)(O/C=C/[C@@H]([C@H]([C@H]([C@@H]([C@@H]([C@@H]([C@H]1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)/C=N/N5CCN(CC5)C)/C
+teriflunomide	C/C(=C(\C#N)/C(=O)NC1=CC=C(C=C1)C(F)(F)F)/O
