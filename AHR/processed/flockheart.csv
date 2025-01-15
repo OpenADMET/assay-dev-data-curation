@@ -1,0 +1,6 @@
+common_name,SMILES,CANONICAL_SMILES,INCHIKEY,dataset,action_type,active
+beta-naphthoflavone,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=CC4=CC=CC=C43,O=c1cc(-c2ccccc2)oc2ccc3ccccc3c12,OUGIDAPQYNCXRA-UHFFFAOYSA-N,flockheart,agonist,True
+carbamazepine,C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N,NC(=O)N1c2ccccc2C=Cc2ccccc21,FFGPTBGBLSHEPO-UHFFFAOYSA-N,flockheart,agonist,True
+omeprazole,CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC,COc1ccc2[nH]c([S+]([O-])Cc3ncc(C)c(OC)c3C)nc2c1,SUBDBMMJDZJVOS-UHFFFAOYSA-N,flockheart,agonist,True
+rifampin,C[C@H]1/C=C/C=C(\C(=O)NC2=C(C(=C3C(=C2O)C(=C(C4=C3C(=O)[C@](O4)(O/C=C/[C@@H]([C@H]([C@H]([C@@H]([C@@H]([C@@H]([C@H]1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)/C=N/N5CCN(CC5)C)/C,CO[C@H]1/C=C/O[C@@]2(C)Oc3c(C)c(O)c4c(O)c(c(C=NN5CCN(C)CC5)c(O)c4c3C2=O)NC(=O)C(C)=CC=CC(C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C,JQXXHWHPUNPDRT-ANMDCUJZSA-N,flockheart,agonist,True
+teriflunomide,C/C(=C(\C#N)/C(=O)NC1=CC=C(C=C1)C(F)(F)F)/O,CC(=O)C(C#N)C(=O)Nc1ccc(C(F)(F)F)cc1,NABQBYDEMLGCEO-UHFFFAOYSA-N,flockheart,agonist,True

@@ -1,0 +1,4 @@
+CANONICAL_SMILES,active,common_name,action_type,FDA_recommended,dataset,INCHIKEY
+C[C@H]1/C=C/C=C(\C(=O)NC2=C(C(=C3C(=C2O)C(=C(C4=C3C(=O)[C@](O4)(O/C=C/[C@@H]([C@H]([C@H]([C@@H]([C@@H]([C@@H]([C@H]1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)/C=N/N5CCN(CC5)C)/C,True,rifampicin,agonist,True,FDA,JQXXHWHPUNPDRT-WLSIYKJHSA-N
+C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N,True,carbamazepine,agonist,True,FDA,FFGPTBGBLSHEPO-UHFFFAOYSA-N
+C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3,True,phenytoin,agonist,True,FDA,CXOFVDLJLONNDW-UHFFFAOYSA-N
