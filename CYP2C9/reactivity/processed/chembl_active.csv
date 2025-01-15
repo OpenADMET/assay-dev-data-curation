@@ -1,0 +1,7 @@
+CANONICAL_SMILES,INCHIKEY,common_name,action_type,dataset,active
+CCCCNC(=O)NS(=O)(=O)c1ccc(C)cc1,JLRGJRBPOGGCBT-UHFFFAOYSA-N,TOLBUTAMIDE,substrate,ChEMBL_curated,True
+O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1,CXOFVDLJLONNDW-UHFFFAOYSA-N,PHENYTOIN,substrate,ChEMBL_curated,True
+CC(C(=O)O)c1ccc(-c2ccccc2)c(F)c1,SYTBZMRGLBWNTM-UHFFFAOYSA-N,FLURBIPROFEN,substrate,ChEMBL_curated,True
+CNCCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1,RTHCYVBBDHJXIQ-UHFFFAOYSA-N,FLUOXETINE,substrate,ChEMBL_curated,True
+O=C(O)Cc1ccccc1Nc1c(Cl)cccc1Cl,DCOPUUMXTXDBNB-UHFFFAOYSA-N,DICLOFENAC,substrate,ChEMBL_curated,True
+CC(=O)C[C@@H](c1ccccc1)c1c(O)c2ccccc2oc1=O,PJVWKTKQMONHTI-HNNXBMFYSA-N,,substrate,ChEMBL_curated,True
