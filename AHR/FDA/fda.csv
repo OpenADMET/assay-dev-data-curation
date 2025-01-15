@@ -1,0 +1,2 @@
+CANONICAL_SMILES,active,common_name,action_type,FDA_recommended,dataset,INCHIKEY
+CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC,True,omeprazole,agonist,True,FDA,SUBDBMMJDZJVOS-UHFFFAOYSA-N
