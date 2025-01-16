@@ -1,0 +1,5 @@
+SMILES,active,common_name,action_type,FDA_recommended,CANONICAL_SMILES,INCHIKEY,dataset
+CCOc1ccc2nc3ccc(=O)cc-3oc2c1,True,ethoxyresorufin,substrate,True,CCOc1ccc2nc3ccc(=O)cc-3oc2c1,CRCWUBLTFGOMDD-UHFFFAOYSA-N,FDA
+CCOc1ccc(NC(C)=O)cc1,True,phenacetin,substrate,True,CCOc1ccc(NC(C)=O)cc1,CPJSUEIXXCENMM-UHFFFAOYSA-N,FDA
+Cn1c(=O)c2c(ncn2C)n(C)c1=O,True,caffeine,substrate,True,Cn1c(=O)c2c(ncn2C)n(C)c1=O,RYYVLZVUVIJVGH-UHFFFAOYSA-N,FDA
+Clc1ccc2nsnc2c1NC1=NCCN1,True,tizanidine,substrate,True,Clc1ccc2nsnc2c1NC1=NCCN1,XFYDIVBRZNQMJC-UHFFFAOYSA-N,FDA
