@@ -4,6 +4,7 @@ import seaborn as sns
 from tqdm import tqdm
 import numpy as np
 from rdkit.Chem.MolStandardize import rdMolStandardize
+import pubchempy as pc
 
 
 # from Pat Walters method
@@ -43,3 +44,10 @@ def smi_to_inchikey(smiles):
         return Chem.MolToInchiKey(mol)
     except:
         return pd.NA
+    
+def get_common_name(smiles):
+    try:
+        compound = pc.get_compounds(smiles, 'smiles')[0]
+        return(compound.synonyms[0])
+    except:
+        return None

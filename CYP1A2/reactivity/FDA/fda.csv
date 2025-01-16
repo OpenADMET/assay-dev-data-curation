@@ -1,0 +1,8 @@
+SMILES,active,common_name,action_type,FDA_recommended
+CCOc1ccc2nc3ccc(=O)cc-3oc2c1,True,alpha-naphthoflavone,inhibitor,True
+Cc1nc2c([nH]1)c(=O)n(C)c(=O)n2Cc1ccco1,True,furafylline,inhibitor,True
+COCCCC/C(=N\OCCN)c1ccc(C(F)(F)F)cc1,True,fluvoxamine,inhibitor,True
+CCOc1ccc2nc3ccc(=O)cc-3oc2c1,True,ethoxyresorufin,substrate,True
+CCOc1ccc(NC(C)=O)cc1,True,phenacetin,substrate,True
+Cn1c(=O)c2c(ncn2C)n(C)c1=O,True,caffeine,substrate,True
+Clc1ccc2nsnc2c1NC1=NCCN1,True,tizanidine,substrate,True
