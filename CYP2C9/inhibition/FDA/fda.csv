@@ -1,0 +1,4 @@
+SMILES,active,common_name,action_type,FDA_recommended,dataset,INCHIKEY
+C1=CC=C(C=C1)N2C(=CC=N2)NS(=O)(=O)C3=CC=C(C=C3)N,True,sulfaphenazole,agonist,True,FDA,QWCJHSGMANYXCW-UHFFFAOYSA-N
+C1=CSC(=C1)C(=O)C2=C(C(=C(C=C2)OCC(=O)O)Cl)Cl,True,tienilic acid,agonist,True,FDA,AGHANLSBXUWXTB-UHFFFAOYSA-N
+C1=CC(=C(C=C1F)F)C(CN2C=NC=N2)(CN3C=NC=N3)O,True,fluconazole,agonist,True,FDA,RFHAOTPXVQNOHP-UHFFFAOYSA-N

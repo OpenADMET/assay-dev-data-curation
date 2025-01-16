@@ -4,3 +4,7 @@
 
 # data folder 
 data/
+
+# ignore pyc and pycache
+*.pyc
+__pycache__/
