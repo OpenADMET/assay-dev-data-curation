@@ -1,0 +1,4 @@
+CANONICAL_SMILES,active,common_name,action_type,FDA_recommended,dataset,INCHIKEY
+C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,True,diclofenac,substrate,True,FDA,DCOPUUMXTXDBNB-UHFFFAOYSA-N
+CC(=O)C[C@@H](C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O,True,(S)-wafarin,substrate,True,FDA,PJVWKTKQMONHTI-HNNXBMFYSA-N
+CCCCNC(=O)NS(=O)(=O)C1=CC=C(C=C1)C,True,tolbutamide,substrate,True,FDA,JLRGJRBPOGGCBT-UHFFFAOYSA-N
