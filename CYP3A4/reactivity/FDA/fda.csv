@@ -1,0 +1,4 @@
+SMILES,active,common_name,action_type,FDA_recommended,dataset,INCHIKEY
+CC1=NC=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4F,True,midazolam,substrate,True,FDA,DDLIGBOFAVUZHB-UHFFFAOYSA-N
+CC1=NN=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4Cl,True,triazolam,substrate,True,FDA,JOFWLTCLBGQGBO-UHFFFAOYSA-N
+C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=CC(=O)CC[C@]34,True,testosterone,substrate,True,MUMGGOZAMZWBJJ-DYKIIFRCSA-N
