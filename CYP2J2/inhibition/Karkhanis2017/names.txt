@@ -1,5 +1,6 @@
 amiodarone
-astemizoledanazol
+astemizole
+danazol
 tamoxifen
 terfenadine
 dronedarone
