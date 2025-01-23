@@ -2,65 +2,65 @@ CANONICAL_SMILES,INCHIKEY,active,common_name,action_type,FDA_recommended,pChEMBL
 CO[C@H]1/C=C/O[C@@]2(C)Oc3c(C)c(O)c4c(O)c(c(C=NN5CCN(C)CC5)c(O)c4c3C2=O)NC(=O)C(C)=CC=CC(C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C,JQXXHWHPUNPDRT-ANMDCUJZSA-N,True,RIFAMPIN,agonist,False,5.691428571428572,0.6017316282039298,9.0,3,True,False,False,False,True,True,12.0
 COc1cc(C(=O)NS(=O)(=O)c2ccccc2C)ccc1Cc1cn(C)c2ccc(NC(=O)OC3CCCC3)cc12,YEEZWCHGZNKEEK-UHFFFAOYSA-N,True,ZAFIRLUKAST,agonist,False,5.5,0.7088370757797594,6.0,2,True,False,True,False,False,False,8.0
 C=C[C@@]1(C)CC(=O)[C@]2(O)[C@@]3(C)[C@@H](O)CCC(C)(C)[C@@H]3[C@H](O)[C@H](OC(C)=O)[C@@]2(C)O1,OHCQJHSOBUTRHG-KGGHGJDLSA-N,True,COLFORSIN,agonist,False,5.173333333333333,0.3655589327773752,5.0,3,True,False,True,False,True,False,8.0
-O=S(=O)(c1ccccc1)N(CC(F)(F)F)c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,SGIWFELWJPNFDH-UHFFFAOYSA-N,True,T091317,inhibitor,False,7.5566666666666675,0.4140370353804917,6.0,1,True,False,False,False,False,False,7.0
+O=S(=O)(c1ccccc1)N(CC(F)(F)F)c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,SGIWFELWJPNFDH-UHFFFAOYSA-N,True,T091317,agonist,False,7.5566666666666675,0.4140370353804917,6.0,1,True,False,False,False,False,False,7.0
 COC(=O)C1=C(C#N)N=C(C)C(C(=O)OC(C)C)C1c1cccc([N+](=O)[O-])c1,KJWGEXJCWCYEMI-UHFFFAOYSA-N,True,NILVADIPINE,agonist,False,5.912,0.1872698587600258,6.0,1,True,False,False,False,False,False,7.0
 O=c1[nH]c2ccccc2n1CCCN1CCN(C(c2ccccc2)c2ccccc2)CC1,BAINIUMDFURPJM-UHFFFAOYSA-N,True,OXATOMIDE,agonist,False,5.382,0.2486362805384602,5.0,2,True,False,True,False,False,False,7.0
-CC(C)(ON=C(C(=O)NC1C(=O)N2C(C(=O)[O-])=C(C[n+]3ccccc3)CS[C@H]12)c1csc(N)n1)C(=O)O,ORFOPKXBNMVMKC-XPKAQORNSA-N,True,CEFTAZIDIME,agonist,False,6.62,0.1838477631085022,5.0,1,True,False,False,False,False,False,6.0
 CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O,DTOSIQBPPRVQHS-PDBXOOCHSA-N,True,LINOLENIC ACID,agonist,False,6.293333333333333,2.1457244308935226,5.0,1,True,False,False,False,False,False,6.0
-CC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CC(C)=C4CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]21C,ORJMOWYWYBXFBE-QWQRBHLCSA-N,True,FLUOROMETHOLONE,agonist,False,5.43,0.4986983055916672,4.0,2,True,False,True,False,False,False,6.0
+CC(C)(ON=C(C(=O)NC1C(=O)N2C(C(=O)[O-])=C(C[n+]3ccccc3)CS[C@H]12)c1csc(N)n1)C(=O)O,ORFOPKXBNMVMKC-XPKAQORNSA-N,True,CEFTAZIDIME,agonist,False,6.62,0.1838477631085022,5.0,1,True,False,False,False,False,False,6.0
 COC(=O)C1=C(C)N=C(C)C(C(=O)OCC(C)C)C1c1ccccc1[N+](=O)[O-],PKICUDXEAPMDNG-UHFFFAOYSA-N,True,NISOLDIPINE,agonist,False,5.12,0.2535087112244207,4.0,2,True,False,True,False,False,False,6.0
+CC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CC(C)=C4CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]21C,ORJMOWYWYBXFBE-QWQRBHLCSA-N,True,FLUOROMETHOLONE,agonist,False,5.43,0.4986983055916672,4.0,2,True,False,True,False,False,False,6.0
 CC/C(=C(\c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1,NKANXQFJJICGDU-QPLCGJKRSA-N,True,TAMOXIFEN,agonist,False,5.01,,3.0,3,True,False,True,False,True,False,6.0
 CC1(COc2ccc(Cc3sc(=O)[nH]c3O)cc2)CCCCC1,YNQLJZYIOAPXMU-UHFFFAOYSA-N,True,CIGLITAZONE,agonist,False,5.066666666666666,0.2565800719723441,3.0,3,True,False,True,False,True,False,6.0
-CCN(CC)Cc1nccn1-c1ccc([N+](=O)[O-])cc1C(=O)c1ccccc1Cl,WZGBZLHGOVJDET-UHFFFAOYSA-N,True,NIZOFENONE,agonist,False,5.25,0.0282842712474612,3.0,2,True,False,True,False,False,False,5.0
-O=C1NCCN1CCN1CCC(c2cn(-c3ccc(F)cc3)c3ccc(Cl)cc23)CC1,GZKLJWGUPQBVJQ-UHFFFAOYSA-N,True,SERTINDOLE,agonist,False,5.2,,3.0,2,True,False,True,False,False,False,5.0
-CCCCN1CCCC1C(=O)Nc1c(C)cc(C)cc1C,VEPZOLKTNZOTTQ-UHFFFAOYSA-N,True,BUMECAINE,agonist,False,5.14,0.1708800749063508,3.0,2,True,False,True,False,False,False,5.0
-CCCN(CCC)C(=O)Cc1c(-c2ccc(Cl)cc2)nc2ccc(Cl)cn12,JRTIDHTUMYMPRU-UHFFFAOYSA-N,True,ALPIDEM,agonist,False,6.52,0.2828427124746189,3.0,2,True,False,True,False,False,False,5.0
-COC(=O)C1=C(C)N=C(C)C(C(=O)OC)C1c1ccccc1OC(F)F,XSEHDLCUCAKVSS-UHFFFAOYSA-N,True,RIODIPINE,agonist,False,5.3500000000000005,0.476969600708473,3.0,2,True,False,True,False,False,False,5.0
-CCOC(=O)C1=C(C)N=C(C)C(C(=O)OC)C1c1cccc([N+](=O)[O-])c1,VVTJQHCRBOHFTD-UHFFFAOYSA-N,True,NITRENDIPINE,agonist,False,5.205,0.0919238815542507,3.0,2,True,False,True,False,False,False,5.0
-COCCOC(=O)C1=C(C)N=C(C)C(C(=O)OC(C)C)C1c1cccc([N+](=O)[O-])c1,SVMHYHIZWOJKDL-UHFFFAOYSA-N,True,NIMODIPINE,agonist,False,6.109999999999999,0.0989949493661161,3.0,2,True,False,True,False,False,False,5.0
+CC(C)COCC(CN(Cc1ccccc1)c1ccccc1)N1CCCC1,UIEATEWHFDRYRU-UHFFFAOYSA-N,True,BEPRIDIL,agonist,False,5.23,0.1838477631085031,3.0,2,True,False,True,False,False,False,5.0
+CCOC(=O)C1=C(C)N=C(C)C(C(=O)OCC)C1c1ccccc1/C=C/C(=O)OC(C)(C)C,BGYJFSXPRMOZJK-CCEZHUSRSA-N,True,LACIDIPINE,agonist,False,5.91,0.1272792206135783,3.0,2,True,False,True,False,False,False,5.0
+CCOP(=O)(OCC)O/C(=C/Cl)c1ccc(Cl)cc1Cl,FSAVDKDHPDSCTO-XYOKQWHBSA-N,True,,agonist,False,5.0,0.0999999999999996,3.0,2,True,False,True,False,False,False,5.0
+C#C[C@]1(O)CC[C@H]2C3=C(C=C[C@@]21CC)C1=C(CC3)CC(=O)CC1,DPCOYXQLLBXEGL-ACRUOGEOSA-N,True,GESTRINONE,agonist,False,5.0,,3.0,2,True,False,True,False,False,False,5.0
+COc1ccccc1OCCNCC(O)COc1cccc2[nH]c3ccccc3c12,OGHNVEJMJSYVRP-UHFFFAOYSA-N,True,CARVEDILOL,agonist,False,5.025,0.0212132034355969,3.0,2,True,False,True,False,False,False,5.0
 COc1c(C)c2c(c(O)c1C/C=C(\C)CCC(=O)OCCN1CCOCC1)C(=O)OC2,RTGDFNSFWBGLEC-SYZQJQIISA-N,True,MYCOPHENOLATE MOFETIL,agonist,False,5.17,,3.0,2,True,False,True,False,False,False,5.0
-CC(C)(C)CC(C)(C)c1ccc(OCCOCC[N+](C)(C)Cc2ccccc2)cc1,SIYLLGKDQZGJHK-UHFFFAOYSA-N,True,BENZETHONIUM,agonist,False,5.15,,3.0,2,True,False,True,False,False,False,5.0
+CCOc1nc2cccc(C(=O)OC(C)OC(=O)OC3CCCCC3)c2n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1,GHOSNRCGJFBJIB-UHFFFAOYSA-N,True,CANDESARTAN CILEXETIL,agonist,False,5.58,0.8202438661763952,3.0,2,True,False,True,False,False,False,5.0
+CCC(=O)O[C@]1(C(=O)CCl)[C@@H](C)C[C@H]2[C@@H]3CC=C4CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]21C,VTWNBHBLWRWSOB-XGQKBEPLSA-N,True,CLOBETASOL PROPIONATE,agonist,False,5.555,0.3747665940288707,3.0,2,True,False,True,False,False,False,5.0
+CC(C)c1c(CN(C)C(C)Cc2ccccc2)n(C)n(-c2ccccc2)c1=O,GNUXVOXXWGNPIV-UHFFFAOYSA-N,True,FAMPROFAZONE,agonist,False,5.563333333333333,0.3035347316755254,3.0,2,True,False,True,False,False,False,5.0
 CC(C)(C)c1cc(O)ccc1O,BGNXCDMCOKJUMV-UHFFFAOYSA-N,True,E319,agonist,False,5.300000000000001,0.5656854249492376,2.0,3,True,False,True,False,True,False,5.0
 C#C[C@]1(O)CC[C@H]2[C@@H]3CCc4cc(O)ccc4[C@H]3CC[C@@]21C,BFPYWIDHMRZLRN-SLHNCBLASA-N,True,ETHINYL ESTRADIOL,agonist,False,5.11,,2.0,3,True,False,True,False,True,False,5.0
-CC(C)COCC(CN(Cc1ccccc1)c1ccccc1)N1CCCC1,UIEATEWHFDRYRU-UHFFFAOYSA-N,True,BEPRIDIL,agonist,False,5.23,0.1838477631085031,3.0,2,True,False,True,False,False,False,5.0
-CCC(=O)O[C@]1(C(=O)CCl)[C@@H](C)C[C@H]2[C@@H]3CC=C4CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]21C,VTWNBHBLWRWSOB-XGQKBEPLSA-N,True,CLOBETASOL PROPIONATE,agonist,False,5.555,0.3747665940288707,3.0,2,True,False,True,False,False,False,5.0
-CCOc1nc2cccc(C(=O)OC(C)OC(=O)OC3CCCCC3)c2n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1,GHOSNRCGJFBJIB-UHFFFAOYSA-N,True,CANDESARTAN CILEXETIL,agonist,False,5.58,0.8202438661763952,3.0,2,True,False,True,False,False,False,5.0
-CCOP(=O)(OCC)O/C(=C/Cl)c1ccc(Cl)cc1Cl,FSAVDKDHPDSCTO-XYOKQWHBSA-N,True,,agonist,False,5.0,0.0999999999999996,3.0,2,True,False,True,False,False,False,5.0
-CC(C)c1c(CN(C)C(C)Cc2ccccc2)n(C)n(-c2ccccc2)c1=O,GNUXVOXXWGNPIV-UHFFFAOYSA-N,True,FAMPROFAZONE,agonist,False,5.563333333333333,0.3035347316755254,3.0,2,True,False,True,False,False,False,5.0
+O=C1NCCN1CCN1CCC(c2cn(-c3ccc(F)cc3)c3ccc(Cl)cc23)CC1,GZKLJWGUPQBVJQ-UHFFFAOYSA-N,True,SERTINDOLE,agonist,False,5.2,,3.0,2,True,False,True,False,False,False,5.0
+CC(C)(C)CC(C)(C)c1ccc(OCCOCC[N+](C)(C)Cc2ccccc2)cc1,SIYLLGKDQZGJHK-UHFFFAOYSA-N,True,BENZETHONIUM,agonist,False,5.15,,3.0,2,True,False,True,False,False,False,5.0
+COC(=O)C1=C(C)N=C(C)C(C(=O)OC)C1c1ccccc1OC(F)F,XSEHDLCUCAKVSS-UHFFFAOYSA-N,True,RIODIPINE,agonist,False,5.3500000000000005,0.476969600708473,3.0,2,True,False,True,False,False,False,5.0
+CCN(CC)Cc1nccn1-c1ccc([N+](=O)[O-])cc1C(=O)c1ccccc1Cl,WZGBZLHGOVJDET-UHFFFAOYSA-N,True,NIZOFENONE,agonist,False,5.25,0.0282842712474612,3.0,2,True,False,True,False,False,False,5.0
+CCOC(=O)C1=C(C)N=C(C)C(C(=O)OC)C1c1cccc([N+](=O)[O-])c1,VVTJQHCRBOHFTD-UHFFFAOYSA-N,True,NITRENDIPINE,agonist,False,5.205,0.0919238815542507,3.0,2,True,False,True,False,False,False,5.0
 Cc1cccc(N(C)C(=S)Oc2ccc3ccccc3c2)c1,FUSNMLFNXJSCDI-UHFFFAOYSA-N,True,TOLNAFTATE,agonist,False,5.83,0.1555634918610409,3.0,2,True,False,True,False,False,False,5.0
-CCOC(=O)C1=C(C)N=C(C)C(C(=O)OCC)C1c1ccccc1/C=C/C(=O)OC(C)(C)C,BGYJFSXPRMOZJK-CCEZHUSRSA-N,True,LACIDIPINE,agonist,False,5.91,0.1272792206135783,3.0,2,True,False,True,False,False,False,5.0
-COc1ccccc1OCCNCC(O)COc1cccc2[nH]c3ccccc3c12,OGHNVEJMJSYVRP-UHFFFAOYSA-N,True,CARVEDILOL,agonist,False,5.025,0.0212132034355969,3.0,2,True,False,True,False,False,False,5.0
-C#C[C@]1(O)CC[C@H]2C3=C(C=C[C@@]21CC)C1=C(CC3)CC(=O)CC1,DPCOYXQLLBXEGL-ACRUOGEOSA-N,True,GESTRINONE,agonist,False,5.0,,3.0,2,True,False,True,False,False,False,5.0
+CCCN(CCC)C(=O)Cc1c(-c2ccc(Cl)cc2)nc2ccc(Cl)cn12,JRTIDHTUMYMPRU-UHFFFAOYSA-N,True,ALPIDEM,agonist,False,6.52,0.2828427124746189,3.0,2,True,False,True,False,False,False,5.0
+CCCCN1CCCC1C(=O)Nc1c(C)cc(C)cc1C,VEPZOLKTNZOTTQ-UHFFFAOYSA-N,True,BUMECAINE,agonist,False,5.14,0.1708800749063508,3.0,2,True,False,True,False,False,False,5.0
+COCCOC(=O)C1=C(C)N=C(C)C(C(=O)OC(C)C)C1c1cccc([N+](=O)[O-])c1,SVMHYHIZWOJKDL-UHFFFAOYSA-N,True,NIMODIPINE,agonist,False,6.109999999999999,0.0989949493661161,3.0,2,True,False,True,False,False,False,5.0
 CCC(=O)[C@@]1(C)[C@H](C)C[C@H]2[C@@H]3CC=C4CC(=O)C=C[C@]4(C)[C@H]3[C@@H](O)C[C@@]21C,WJRIHWQHXZEYMP-OOKHYKNYSA-N,True,RIMEXOLONE,agonist,False,5.6000000000000005,0.1999999999999994,4.0,1,True,False,False,False,False,False,5.0
-CC(C)=c1nc(N(C)S(C)(=O)=O)nc(-c2ccc(F)cc2)c1=CC[C@@H](O)C[C@@H](O)CC(=O)O,DRLXVNRHGMULCY-IAGOWNOFSA-N,True,ROSUVASTATIN,agonist,False,5.44,,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(OC)c(-n2cc(S(=O)(=O)c3ccc(C(C)(C)C)cc3)nn2)c1,VWCXVQVIPLQGCY-UHFFFAOYSA-N,True,,antagonist,False,5.723333333333333,0.2193931022920573,3.0,1,True,False,False,False,False,False,4.0
-COc1cc(C#N)c(Cl)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,SJFBLVUEGQWIIO-UHFFFAOYSA-N,True,,antagonist,False,5.896666666666666,0.3855299383100269,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(CO)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,ZQZWWLVPMSHJFT-UHFFFAOYSA-N,True,,antagonist,False,5.88,0.1967231557290598,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(Cl)cc1-n1cc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)nn1,BWMZWTSNHQZTLZ-UHFFFAOYSA-N,True,,antagonist,False,5.803333333333334,0.7207172353519327,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(Cl)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1N,JKDLCYSLZMUDPS-UHFFFAOYSA-N,True,,antagonist,False,6.206666666666667,0.8040729651799847,3.0,1,True,False,False,False,False,False,4.0
-COc1cc(C#N)c(C)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,HSUZXMWZIRSORF-UHFFFAOYSA-N,True,,antagonist,False,5.723333333333334,0.2926317367158477,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(OC)c(-n2nnc(S(=O)(=O)c3ccc(C(C)(C)C)cc3)c2C#N)c1,YDNGCXVICLTJOO-UHFFFAOYSA-N,True,,antagonist,False,6.239999999999999,0.5377731863899496,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(C)cc1-n1cc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)nn1,NOBJPNQIXTZNJE-UHFFFAOYSA-N,True,,antagonist,False,5.94,0.5556977595779923,3.0,1,True,False,False,False,False,False,4.0
-COc1cc(-n2nnc(S(=O)(=O)c3ccc(C(C)(C)C)cc3)c2C)c(OC)cc1F,FADZTFWMZOQMAW-UHFFFAOYSA-N,True,,antagonist,False,5.7,0.2999999999999998,3.0,1,True,False,False,False,False,False,4.0
-COc1cc(Cl)c(C)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,SYYMUHFQKVKZDV-UHFFFAOYSA-N,True,,antagonist,False,5.986666666666667,0.2500666577801468,3.0,1,True,False,False,False,False,False,4.0
-COC(=O)c1cc(OC)c(-n2nnc(S(=O)(=O)c3ccc(C(C)(C)C)cc3)c2C)cc1C,CAAQQLAZKZBPMH-UHFFFAOYSA-N,True,,antagonist,False,5.613333333333333,0.3407834111768553,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(Br)cc(C(C)(C)C)c3)c2C)c1,YKWPEMPWASAAMT-UHFFFAOYSA-N,True,,inverse agonist,False,6.703333333333333,0.457966519882549,3.0,1,True,False,False,False,False,False,4.0
-Cc1cn(-c2cc(NC(=O)c3ccc(C)c(Nc4nccc(-c5cnccn5)n4)c3)cc(C(F)(F)F)c2)cn1,DUPWHXBITIZIKZ-UHFFFAOYSA-N,True,RADOTINIB,agonist,False,5.055,0.2333452377915607,3.0,1,True,False,False,False,False,False,4.0
-CC(C)=CCOc1ccc(/C=C/C(=O)c2ccc(OCC=C(C)C)cc2OCC(=O)O)cc1,GFWRVVCDTLRWPK-KPKJPENVSA-N,True,SOFALCONE,agonist,False,6.065,0.0494974746830575,3.0,1,True,False,False,False,False,False,4.0
-CCC(C)(C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@H]21,RYMZZMVNJRMUDD-HGQWONQESA-N,True,SIMVASTATIN,agonist,False,5.54,0.1697056274847715,3.0,1,True,False,False,False,False,False,4.0
-CCC[C@@H](C)Oc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2OC)c1C,LCZDEXFSZLWZDC-QGZVFWFLSA-N,True,,inverse agonist,False,7.416666666666667,0.5340724045795038,3.0,1,True,False,False,False,False,False,4.0
-CC(Cc1cccc(C(F)(F)F)c1)NCCOC(=O)c1ccccc1,CJAVTWRYCDNHSM-UHFFFAOYSA-N,True,BENFLUOREX,agonist,False,5.08,0.0707106781186545,3.0,1,True,False,False,False,False,False,4.0
-COc1cc(NC(=O)c2nnn(-c3cc(OC)ccc3OC)c2C)cc(C(C)(C)C)c1,HBCQQFOBPKEVPA-UHFFFAOYSA-N,True,,inverse agonist,False,6.46,0.4044749683231336,3.0,1,True,False,False,False,False,False,4.0
-CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2OC)c1C,WHDMCAYPARZARS-UHFFFAOYSA-N,True,,inverse agonist,False,7.3,0.5892367945062494,3.0,1,True,False,False,False,False,False,4.0
-CNc1cc(NC(=O)c2nnn(-c3cc(OC)ccc3OC)c2C)cc(C(C)(C)C)c1,CEJCUDWNNDQGSJ-UHFFFAOYSA-N,True,,inverse agonist,False,6.596666666666667,0.2836077102854102,3.0,1,True,False,False,False,False,False,4.0
-CCCCNc1cc(NC(=O)c2nnn(-c3cc(OC)ccc3OC)c2C)cc(C(C)(C)C)c1,CFPIFZDXIODBDX-UHFFFAOYSA-N,True,,inverse agonist,False,6.883333333333333,0.5300314456080257,3.0,1,True,False,False,False,False,False,4.0
-CCCCOc1cc(NC(=O)c2nnn(-c3cc(OC)ccc3OC)c2C)cc(C(C)(C)C)c1,LPESWHGIWUIELX-UHFFFAOYSA-N,True,,inverse agonist,False,6.716666666666666,0.5359415391004256,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(N)cc(C(C)(C)C)c3)c2C)c1,XQDOBDMVBRMCDS-UHFFFAOYSA-N,True,,inverse agonist,False,5.523333333333333,0.1150362261782493,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C#N)cc(C(C)(C)C)c3)c2C)c1,XDGXSEGCGGLQCH-UHFFFAOYSA-N,True,,inverse agonist,False,6.609999999999999,0.2961418578992169,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(F)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,SCYBRAYPNJDWEW-UHFFFAOYSA-N,True,,antagonist,False,6.3933333333333335,0.2300724523564986,3.0,1,True,False,False,False,False,False,4.0
+COc1cccc2c(O)c3c(c(O)c12)C(=O)C1=C(C[C@@](O)(C(C)=O)C[C@@H]1O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1)C3=O,YSTRWQVEZGVBLR-VGBVRHCVSA-N,True,DAUNORUBICIN,agonist,False,5.03,,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C(C)(C)C)ccc3OCCCCO)c2C)c1,NQJAPDWXFVTAJM-UHFFFAOYSA-N,True,,agonist,False,5.56,0.3244996147917594,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3cccc(N4CCCC4)c3)c2C)c1,PMVDZAGPSCWRTR-UHFFFAOYSA-N,True,,agonist,False,5.103333333333333,0.4465795935030324,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C(C)(C)C)ccc3NC(=O)OC(C)(C)C)c2C)c1,CUNUZLYVMVYOSX-UHFFFAOYSA-N,True,,agonist,False,6.06,1.0053854982045447,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(OC)c(-n2nnc(S(=O)(=O)Nc3ccc(C(C)(C)C)cc3)c2C)c1,HQOMOZQNGSURDN-UHFFFAOYSA-N,True,,agonist,False,6.993333333333333,0.5776965754903983,3.0,1,True,False,False,False,False,False,4.0
+CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2ccccc2OC)c1C,BFEGOGQVNYZSMN-UHFFFAOYSA-N,True,,agonist,False,6.756666666666667,0.6882102391953587,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3ccc(OC)c(C(C)(C)C)c3)c2C)c1,IXKSXJLCKRAMHF-UHFFFAOYSA-N,True,,agonist,False,5.919999999999999,0.492442890089805,3.0,1,True,False,False,False,False,False,4.0
+CCC[C@H](C)Oc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2OC)c1C,LCZDEXFSZLWZDC-KRWDZBQOSA-N,True,,agonist,False,8.356666666666667,0.5870547958524256,3.0,1,True,False,False,False,False,False,4.0
+CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(Br)ccc2OC)c1C,ZPMZOVYHLLEGCD-UHFFFAOYSA-N,True,,agonist,False,7.53,0.576107628833363,3.0,1,True,False,False,False,False,False,4.0
+CNc1ccc(NC(=O)c2nnn(-c3cc(OC)ccc3OC)c2C)cc1C(C)(C)C,DGNSIKFPHNMBML-UHFFFAOYSA-N,True,,agonist,False,5.829999999999999,0.8719518335321054,3.0,1,True,False,False,False,False,False,4.0
+CCC(C)COc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2OC)c1C,IPTTUGLAFBGALO-UHFFFAOYSA-N,True,,agonist,False,7.666666666666667,0.6256463324701371,3.0,1,True,False,False,False,False,False,4.0
+CCCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2OC)c1C,VPKRKNQWMOOMMJ-UHFFFAOYSA-N,True,,agonist,False,7.153333333333333,0.4104063027456249,3.0,1,True,False,False,False,False,False,4.0
+CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(COC(N)=O)CS[C@H]12)c1ccco1,JFPVXVDWJQMJEE-LNUXAPHWSA-N,True,CEFUROXIME,agonist,False,5.05,0.2262741699796954,3.0,1,True,False,False,False,False,False,4.0
+CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(CSc3nc(=O)c(=O)[nH]n3C)CS[C@H]12)c1csc(N)n1,VAAUVRVFOQPIGI-NZDRZINCSA-N,True,CEFTRIAXONE,agonist,False,6.005,0.2899137802864845,3.0,1,True,False,False,False,False,False,4.0
+Oc1ccc2c(c1)CC[C@H](c1ccccc1)[C@@H]2c1ccc(OCCN2CCCC2)cc1,GXESHMAMLJKROZ-IAPPQJPRSA-N,True,LASOFOXIFENE,agonist,False,5.8,,3.0,1,True,False,False,False,False,False,4.0
+Cc1ccc(C(=O)c2cc(O)c(O)c([N+](=O)[O-])c2)cc1,MIQPIUSUKVNLNT-UHFFFAOYSA-N,True,TOLCAPONE,agonist,False,5.41,,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(Cl)cc1-n1cc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)nn1,BWMZWTSNHQZTLZ-UHFFFAOYSA-N,True,,agonist,False,5.803333333333334,0.7207172353519327,3.0,1,True,False,False,False,False,False,4.0
+COc1cc(C)c(Cl)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,CUJAJPVZEWNBML-UHFFFAOYSA-N,True,,agonist,False,5.853333333333333,0.1890326250501042,3.0,1,True,False,False,False,False,False,4.0
+COc1ccccc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,NMYJDIHSRSZBDZ-UHFFFAOYSA-N,True,,agonist,False,6.126666666666666,0.1418919776919518,3.0,1,True,False,False,False,False,False,4.0
+CC(=O)SCC(Cc1ccccc1)C(=O)NCC(=O)OCc1ccccc1,ODUOJXZPIYUATO-UHFFFAOYSA-N,True,RACECADOTRIL,agonist,False,5.0600000000000005,0.1414213562373093,3.0,1,True,False,False,False,False,False,4.0
+Cc1ccc(C(=O)Nc2ccc(CN3CCN(C)CC3)c(C(F)(F)F)c2)cc1C#Cc1cnc2cccnn12,PHXJVRSECIGDHY-UHFFFAOYSA-N,True,PONATINIB,agonist,False,5.06,,3.0,1,True,False,False,False,False,False,4.0
+COc1cc2[nH]c(C)c(CCN3CCN(c4ccccc4)CC3)c2cc1OC,XCWPUUGSGHNIDZ-UHFFFAOYSA-N,True,OXYPERTINE,agonist,False,6.58,,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(OC)c(-n2nnc(S(=O)(=O)c3ccc(C(C)(C)C)cc3)c2N)c1,OIVIUWLZJLMQOZ-UHFFFAOYSA-N,True,,agonist,False,6.296666666666667,0.4940985056983412,3.0,1,True,False,False,False,False,False,4.0
+COC(=O)c1cc(OC)c(-n2nnc(S(=O)(=O)c3ccc(C(C)(C)C)cc3)c2C)cc1Cl,FXPDOXDYGICTQN-UHFFFAOYSA-N,True,,agonist,False,5.626666666666666,0.5856051001599402,3.0,1,True,False,False,False,False,False,4.0
+CO[C@@]1(NC(=O)Cc2cccs2)C(=O)N2C(C(=O)O)=C(COC(N)=O)CS[C@@H]21,WZOZEZRFJCJXNZ-ZBFHGGJFSA-N,True,CEFOXITIN,agonist,False,5.405,0.3040559159102152,3.0,1,True,False,False,False,False,False,4.0
+CCCCCCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2OC)c1C,UDCVBRKPBDQDKG-UHFFFAOYSA-N,True,,agonist,False,6.086666666666667,0.3743438704364391,3.0,1,True,False,False,False,False,False,4.0
 CC1=C(/C=C/C(C)=C/C=C/C(C)=C/CO)C(C)(C)CCC1,FPIPGXGPPPQFEQ-OVSJKPMPSA-N,True,RETINOL,agonist,False,5.32,,1.0,3,True,False,True,False,True,False,4.0
 Clc1ccc(C(c2ccccc2Cl)C(Cl)Cl)cc1,JWBOIMRXGHLCPP-UHFFFAOYSA-N,True,MITOTANE,agonist,False,5.12,,1.0,3,True,False,True,False,True,False,4.0
-CC(C)Oc1cc(-n2nc(C(C)(C)C)oc2=O)c(Cl)cc1Cl,CHNUNORXWHYHNE-UHFFFAOYSA-N,True,OXADIAZON,activator,False,6.05,,1.0,3,True,False,True,False,True,False,4.0
+CC(C)Oc1cc(-n2nc(C(C)(C)C)oc2=O)c(Cl)cc1Cl,CHNUNORXWHYHNE-UHFFFAOYSA-N,True,OXADIAZON,agonist,False,6.05,,1.0,3,True,False,True,False,True,False,4.0
 COc1cc2c(cc1OC)C(C(C(=O)N(CCc1ccc(OC)c(OC)c1OC)CCc1ccc(OC)c(OC)c1OC)c1ccccc1)=NCC2,PYWYBTRACMRUQV-UHFFFAOYSA-N,True,,agonist,False,5.15,0.4949747468305837,2.0,2,True,False,True,False,False,False,4.0
 CCC(COC(=O)c1cc(OC)c(OC)c(OC)c1)(c1ccccc1)N(C)C,LORDFXWUHHSAQU-UHFFFAOYSA-N,True,TRIMEBUTINE,agonist,False,5.15,0.2687005768508876,2.0,2,True,False,True,False,False,False,4.0
 Clc1ccc(C(Cn2ccnc2)OCc2c(Cl)cccc2Cl)c(Cl)c1,MPIPASJGOJYODL-UHFFFAOYSA-N,True,ISOCONAZOLE,agonist,False,6.15,0.2121320343559644,2.0,2,True,False,True,False,False,False,4.0
@@ -70,76 +70,76 @@ CCCCCCOC(=O)N=C(N)c1ccc(NCc2nc3cc(C(=O)N(CCC(=O)OCC)c4ccccn4)ccc3n2C)cc1,KSGXQBZ
 Oc1c(Cl)cc(Cl)cc1Sc1cc(Cl)cc(Cl)c1O,JFIOVJDNOJYLKP-UHFFFAOYSA-N,True,BITHIONOL,agonist,False,5.45,0.7778174593052021,2.0,2,True,False,True,False,False,False,4.0
 O=C(CCCN1CCC(O)(c2ccc(Br)cc2)CC1)c1ccc(F)cc1,RKLNONIVDFXQRX-UHFFFAOYSA-N,True,BROMPERIDOL,agonist,False,5.43,,2.0,2,True,False,True,False,False,False,4.0
 CC1=NC(=N)C(C(=O)OC2CN(C(c3ccccc3)c3ccccc3)C2)C(c2cccc([N+](=O)[O-])c2)C1C(=O)OC(C)C,VWQKBXQRFVPFAL-UHFFFAOYSA-N,True,AZELNIDIPINE,agonist,False,5.43,,2.0,2,True,False,True,False,False,False,4.0
-CCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2OC)c1C,PCPOIPOIDJLKPQ-UHFFFAOYSA-N,True,,inverse agonist,False,6.739999999999999,0.3858756276314947,3.0,1,True,False,False,False,False,False,4.0
+CC(C)(O)CNC(=O)CC1CSc2cc(C(O)(C(F)(F)F)C(F)(F)F)ccc2N1S(=O)(=O)c1ccc(F)cc1,DUBUCROMSYFQOW-UHFFFAOYSA-N,True,,agonist,False,5.883333333333333,0.0709459888459758,3.0,1,True,False,False,False,False,False,4.0
 CC(C)c1nc(CN(C)C(=O)NC(C(=O)N[C@@H](Cc2ccccc2)C[C@H](O)[C@H](Cc2ccccc2)NC(=O)OCc2cncs2)C(C)C)cs1,NCDNCNXCDXHOMX-BWGGSIGWSA-N,True,RITONAVIR,agonist,False,5.625,0.3181980515339458,2.0,2,True,False,True,False,False,False,4.0
 COc1cccc(N(C)C(=S)Oc2ccc3c(c2)CCCC3)n1,VPHPQNGOVQYUMG-UHFFFAOYSA-N,True,LIRANAFTATE,agonist,False,5.96,0.0,2.0,2,True,False,True,False,False,False,4.0
 CN(CCCN1c2ccccc2CCc2ccccc21)CC(=O)c1ccc(Cl)cc1,SAPNXPWPAUFAJU-UHFFFAOYSA-N,True,LOFEPRAMINE,agonist,False,5.71,0.2969848480983499,2.0,2,True,False,True,False,False,False,4.0
 C[C@H]1Oc2cc(cnc2N)-c2c(nn(C)c2C#N)CN(C)C(=O)c2ccc(F)cc21,IIXWYSCJSQVBQM-LLVKDONJSA-N,True,LORLATINIB,agonist,False,5.8,,2.0,2,True,False,False,False,False,True,4.0
 CCOC(=O)O[C@]1(C(=O)OCCl)CC[C@H]2[C@@H]3CC=C4CC(=O)C=C[C@]4(C)[C@H]3[C@@H](O)C[C@@]21C,FBBYEJJQINKJNE-HROMYWEYSA-N,True,LOTEPREDNOL ETABONATE,agonist,False,5.59,0.0282842712474616,2.0,2,True,False,True,False,False,False,4.0
-Cc1ccc(NC(=O)C2(c3ccc4c(c3)OC(F)(F)O4)CC2)nc1-c1cccc(C(=O)O)c1,UFSKUSARDNFIRC-UHFFFAOYSA-N,True,LUMACAFTOR,agonist,False,5.970000000000001,1.032375900532359,3.0,1,True,False,False,False,False,False,4.0
-CN1CCN=C(c2ccccc2)c2cc(Cl)ccc21,YLCXGBZIZBEVPZ-UHFFFAOYSA-N,True,MEDAZEPAM,agonist,False,5.51,,3.0,1,True,False,False,False,False,False,4.0
-COc1cc2[nH]c(C)c(CCN3CCN(c4ccccc4)CC3)c2cc1OC,XCWPUUGSGHNIDZ-UHFFFAOYSA-N,True,OXYPERTINE,agonist,False,6.58,,3.0,1,True,False,False,False,False,False,4.0
-C=C1c2cccc(O)c2C(=O)C2C(=O)[C@]3(O)C(=O)C(C(N)=O)C(=O)C(N(C)C)[C@@H]3[C@@H](O)[C@H]12,QNJKSUYWBCNWFI-LMVSLLPKSA-N,True,METHACYCLINE HYDROCHLORIDE,agonist,False,5.166666666666667,0.3055050463303891,3.0,1,True,False,False,False,False,False,4.0
-COc1cc(C)c(Cl)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,CUJAJPVZEWNBML-UHFFFAOYSA-N,True,,antagonist,False,5.853333333333333,0.1890326250501042,3.0,1,True,False,False,False,False,False,4.0
-COc1ccccc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,NMYJDIHSRSZBDZ-UHFFFAOYSA-N,True,,antagonist,False,6.126666666666666,0.1418919776919518,3.0,1,True,False,False,False,False,False,4.0
-Cc1ccc(C(=O)Nc2ccc(CN3CCN(C)CC3)c(C(F)(F)F)c2)cc1C#Cc1cnc2cccnn12,PHXJVRSECIGDHY-UHFFFAOYSA-N,True,PONATINIB,agonist,False,5.06,,3.0,1,True,False,False,False,False,False,4.0
-CC(=O)SCC(Cc1ccccc1)C(=O)NCC(=O)OCc1ccccc1,ODUOJXZPIYUATO-UHFFFAOYSA-N,True,RACECADOTRIL,agonist,False,5.0600000000000005,0.1414213562373093,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3ccc(N(C)C)c(C(C)(C)C)c3)c2C)c1,AGTWASKRGYRVIJ-UHFFFAOYSA-N,True,,agonist,False,5.896666666666667,0.674116706018575,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C(C)(C)C)cc(C(C)(C)C)c3)c2C)c1,LUCKWELTQDFYKR-UHFFFAOYSA-N,True,,agonist,False,6.9366666666666665,0.3308070938376825,3.0,1,True,False,False,False,False,False,4.0
+CCCC(C)Oc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2OC)c1C,LCZDEXFSZLWZDC-UHFFFAOYSA-N,True,,agonist,False,7.55,1.4239030865898143,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3cccc(C(C)C)c3)c2C)c1,SNSSRBZELQGYGM-UHFFFAOYSA-N,True,,agonist,False,5.613333333333333,0.3494757979221641,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3cccc(C(C)(C)C)c3)c2C)c1,PCYGLTBEVVCTSX-UHFFFAOYSA-N,True,,agonist,False,5.966666666666666,0.5036202272877189,3.0,1,True,False,False,False,False,False,4.0
+CCCCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2OC)c1C,RORZIIMZZISILB-UHFFFAOYSA-N,True,,agonist,False,7.183333333333334,0.4990323970779188,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C(C)(C)C)ccc3OCCC(C)C)c2C)c1,SCIFKNPYAZAVFV-UHFFFAOYSA-N,True,,agonist,False,7.3,0.6636264009214825,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C(C)(C)C)ccc3OCCCN3CCOCC3)c2C)c1,FASMPXMQECOSMV-UHFFFAOYSA-N,True,,agonist,False,5.146666666666667,0.2084066537645413,3.0,1,True,False,False,False,False,False,4.0
 Clc1ccc(CSC(Cn2ccnc2)c2ccc(Cl)cc2Cl)cc1,AFNXATANNDIXLG-UHFFFAOYSA-N,True,SULCONAZOLE,agonist,False,5.57,,2.0,2,True,False,True,False,False,False,4.0
-CNc1ccc(NC(=O)c2nnn(-c3cc(OC)ccc3OC)c2C)cc1C(C)(C)C,DGNSIKFPHNMBML-UHFFFAOYSA-N,True,,inhibitor,False,5.829999999999999,0.8719518335321054,3.0,1,True,False,False,False,False,False,4.0
-CCC(C)COc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2OC)c1C,IPTTUGLAFBGALO-UHFFFAOYSA-N,True,,inverse agonist,False,7.666666666666667,0.6256463324701371,3.0,1,True,False,False,False,False,False,4.0
-CCCCCCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2OC)c1C,UDCVBRKPBDQDKG-UHFFFAOYSA-N,True,,inverse agonist,False,6.086666666666667,0.3743438704364391,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(OC)c(-n2nnc(S(=O)(=O)Nc3ccc(C(C)(C)C)cc3)c2C)c1,HQOMOZQNGSURDN-UHFFFAOYSA-N,True,,inverse agonist,False,6.993333333333333,0.5776965754903983,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C(C)(C)C)ccc3OCCCN3CCOCC3)c2C)c1,FASMPXMQECOSMV-UHFFFAOYSA-N,True,,inverse agonist,False,5.146666666666667,0.2084066537645413,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C(C)(C)C)ccc3OCCC(C)C)c2C)c1,SCIFKNPYAZAVFV-UHFFFAOYSA-N,True,,inverse agonist,False,7.3,0.6636264009214825,3.0,1,True,False,False,False,False,False,4.0
-CCCCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2OC)c1C,RORZIIMZZISILB-UHFFFAOYSA-N,True,,inverse agonist,False,7.183333333333334,0.4990323970779188,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3cccc(C(C)(C)C)c3)c2C)c1,PCYGLTBEVVCTSX-UHFFFAOYSA-N,True,,inverse agonist,False,5.966666666666666,0.5036202272877189,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3cccc(C(C)C)c3)c2C)c1,SNSSRBZELQGYGM-UHFFFAOYSA-N,True,,inverse agonist,False,5.613333333333333,0.3494757979221641,3.0,1,True,False,False,False,False,False,4.0
-CCCC(C)Oc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2OC)c1C,LCZDEXFSZLWZDC-UHFFFAOYSA-N,True,,inverse agonist,False,7.55,1.4239030865898143,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C(C)(C)C)cc(C(C)(C)C)c3)c2C)c1,LUCKWELTQDFYKR-UHFFFAOYSA-N,True,,inverse agonist,False,6.9366666666666665,0.3308070938376825,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3ccc(OC)c(C(C)(C)C)c3)c2C)c1,IXKSXJLCKRAMHF-UHFFFAOYSA-N,True,,inverse agonist,False,5.919999999999999,0.492442890089805,3.0,1,True,False,False,False,False,False,4.0
-CCCCN(CCCC)c1cc(NC(=O)c2nnn(-c3cc(OC)ccc3OC)c2C)cc(C(C)(C)C)c1,RWUAIBBERCZABS-UHFFFAOYSA-N,True,,inverse agonist,False,6.4433333333333325,0.3292921701670621,3.0,1,True,False,False,False,False,False,4.0
-CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(Br)ccc2OC)c1C,ZPMZOVYHLLEGCD-UHFFFAOYSA-N,True,,inverse agonist,False,7.53,0.576107628833363,3.0,1,True,False,False,False,False,False,4.0
-CCOC(=O)C1=C(C)N=C(C)C(C(=O)OC)C1c1cccc(Cl)c1Cl,HAQDEJPEAKWAAM-UHFFFAOYSA-N,True,FELODIPINE,agonist,False,5.426666666666667,0.2853652630109927,3.0,1,True,False,False,False,False,False,4.0
-CCCCC[C@H](O)/C=C/[C@@H]1C(C/C=C\CCCC(=O)O)C(=O)C[C@H]1O,XEYBRNLFEZDVAW-CASDQVHDSA-N,True,DINOPROSTONE,agonist,False,6.109999999999999,0.0424264068711922,3.0,1,True,False,False,False,False,False,4.0
-COC(=O)C1=C(C)N=C(C)C(C(=O)OC(C)(C)CN(C)CCC(c2ccccc2)c2ccccc2)C1c1cccc([N+](=O)[O-])c1,PHOGQKDIVUJGMJ-UHFFFAOYSA-N,True,LERCANIDIPINE,agonist,False,6.295,0.3464823227814084,3.0,1,True,False,False,False,False,False,4.0
-Cc1ccc(C(=O)c2cc(O)c(O)c([N+](=O)[O-])c2)cc1,MIQPIUSUKVNLNT-UHFFFAOYSA-N,True,TOLCAPONE,agonist,False,5.41,,3.0,1,True,False,False,False,False,False,4.0
+C=C1c2cccc(O)c2C(=O)C2C(=O)[C@]3(O)C(=O)C(C(N)=O)C(=O)C(N(C)C)[C@@H]3[C@@H](O)[C@H]12,QNJKSUYWBCNWFI-LMVSLLPKSA-N,True,METHACYCLINE HYDROCHLORIDE,agonist,False,5.166666666666667,0.3055050463303891,3.0,1,True,False,False,False,False,False,4.0
+C=CCC1=CC(C)C[C@H](C)C[C@H](OC)[C@H]2O[C@@](O)(C(=O)C(=O)N3CCCCC3C(=O)O[C@H](/C(C)=C/[C@@H]3CC[C@@H](O)[C@H](OC)C3)[C@H](C)[C@@H](O)CC1=O)[C@H](C)C[C@@H]2OC,SLUYGGAVUSVJOT-VZCWQGFJSA-N,True,TACROLIMUS ANHYDROUS,agonist,False,5.3,,3.0,1,True,False,False,False,False,False,4.0
 C=CCC1(C(C)CCC)C(=O)NC(=S)NC1=O,XLOMZPUITCYLMJ-UHFFFAOYSA-N,True,THIAMYLAL SODIUM,agonist,False,5.1433333333333335,0.2730079363925772,3.0,1,True,False,False,False,False,False,4.0
-COC(=O)c1cc(OC)c(-n2nnc(S(=O)(=O)c3ccc(C(C)(C)C)cc3)c2C)cc1Cl,FXPDOXDYGICTQN-UHFFFAOYSA-N,True,,antagonist,False,5.626666666666666,0.5856051001599402,3.0,1,True,False,False,False,False,False,4.0
-CC(C)(O)CNC(=O)CC1CSc2cc(C(O)(C(F)(F)F)C(F)(F)F)ccc2N1S(=O)(=O)c1ccc(F)cc1,DUBUCROMSYFQOW-UHFFFAOYSA-N,True,,agonist,False,5.883333333333333,0.0709459888459758,3.0,1,True,False,False,False,False,False,4.0
-Oc1ccc2c(c1)CC[C@H](c1ccccc1)[C@@H]2c1ccc(OCCN2CCCC2)cc1,GXESHMAMLJKROZ-IAPPQJPRSA-N,True,LASOFOXIFENE,agonist,False,5.8,,3.0,1,True,False,False,False,False,False,4.0
-CO[C@@]1(NC(=O)Cc2cccs2)C(=O)N2C(C(=O)O)=C(COC(N)=O)CS[C@@H]21,WZOZEZRFJCJXNZ-ZBFHGGJFSA-N,True,CEFOXITIN,agonist,False,5.405,0.3040559159102152,3.0,1,True,False,False,False,False,False,4.0
-Cn1nnnc1SCC1=C(C(=O)O)N2C(=O)C(NC(=O)C(O)c3ccccc3)[C@H]2SC1,OLVCFLKTBJRLHI-IJGSQOGDSA-N,True,CEFAMANDOLE,agonist,False,5.785,0.0494974746830585,3.0,1,True,False,False,False,False,False,4.0
-CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(CSc3nnnn3C)CS[C@H]12)c1csc(N)n1,HJJDBAOLQAWBMH-WCRCJTMVSA-N,True,CEFMENOXIME,agonist,False,5.8100000000000005,0.4808326112068524,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(C)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1N,PIUANHUFEHCJIG-UHFFFAOYSA-N,True,,antagonist,False,6.276666666666666,0.7011656960614464,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(OC)c(-n2nnc(S(=O)(=O)c3ccc(C(C)(C)C)cc3)c2N)c1,OIVIUWLZJLMQOZ-UHFFFAOYSA-N,True,,antagonist,False,6.296666666666667,0.4940985056983412,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3ccc(O)c(C(C)(C)C)c3)c2C)c1,RUHPAZDZYHFFLO-UHFFFAOYSA-N,True,,inverse agonist,False,6.046666666666667,0.6453164598345011,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(C)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1N,PIUANHUFEHCJIG-UHFFFAOYSA-N,True,,agonist,False,6.276666666666666,0.7011656960614464,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(O)cc(C(C)(C)C)c3)c2C)c1,VCYOISQAQAJKEN-UHFFFAOYSA-N,True,,agonist,False,5.906666666666666,0.493592274385786,3.0,1,True,False,False,False,False,False,4.0
+CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2c(OC)cccc2OC)c1C,NICLOWVEPUBBIS-UHFFFAOYSA-N,True,,agonist,False,6.496666666666667,0.6045108215187994,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3ccccc3C(C)(C)C)c2C)c1,VTTAHBDGCKLNOT-UHFFFAOYSA-N,True,,agonist,False,5.3933333333333335,0.8136543082497221,3.0,1,True,False,False,False,False,False,4.0
+CCC[C@@H](C)Oc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(C)ccc2OC)c1C,UOXKTTLWMUQDFC-GOSISDBHSA-N,True,,agonist,False,7.390000000000001,1.101771301132862,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C(C)(C)C)ccc3OCCN3CCOCC3)c2C)c1,UWLUETXVZQPQJV-UHFFFAOYSA-N,True,,agonist,False,5.82,0.4657252408878004,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(B4OC(C)(C)C(C)(C)O4)cc(C(C)(C)C)c3)c2C)c1,LGEMQQVBCMNEFB-UHFFFAOYSA-N,True,,agonist,False,5.966666666666666,0.4535783651513085,3.0,1,True,False,False,False,False,False,4.0
+COc1cc(NC(=O)c2nnn(-c3cc(OC)ccc3OC)c2C)cc(C(C)(C)C)c1,HBCQQFOBPKEVPA-UHFFFAOYSA-N,True,,agonist,False,6.46,0.4044749683231336,3.0,1,True,False,False,False,False,False,4.0
+CC(Cc1cccc(C(F)(F)F)c1)NCCOC(=O)c1ccccc1,CJAVTWRYCDNHSM-UHFFFAOYSA-N,True,BENFLUOREX,agonist,False,5.08,0.0707106781186545,3.0,1,True,False,False,False,False,False,4.0
+CCC[C@@H](C)Oc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2OC)c1C,LCZDEXFSZLWZDC-QGZVFWFLSA-N,True,,agonist,False,7.416666666666667,0.5340724045795038,3.0,1,True,False,False,False,False,False,4.0
+Cc1ccc(NC(=O)C2(c3ccc4c(c3)OC(F)(F)O4)CC2)nc1-c1cccc(C(=O)O)c1,UFSKUSARDNFIRC-UHFFFAOYSA-N,True,LUMACAFTOR,agonist,False,5.970000000000001,1.032375900532359,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(N(C)C)cc(C(C)(C)C)c3)c2C)c1,LCXNQBFCGJXLDR-UHFFFAOYSA-N,True,,agonist,False,6.666666666666667,0.2589079630550852,3.0,1,True,False,False,False,False,False,4.0
 Nc1nc(NC2CC2)c2ncn([C@H]3C=C[C@@H](CO)C3)c2n1,MCGSCOLBFJQGHM-SCZZXKLOSA-N,True,ABACAVIR,agonist,False,5.01,,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(N(C)C)cc(C(C)(C)C)c3)c2C)c1,LCXNQBFCGJXLDR-UHFFFAOYSA-N,True,,inverse agonist,False,6.666666666666667,0.2589079630550852,3.0,1,True,False,False,False,False,False,4.0
-CCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2OC)c1C,XOVXEGAZAJVMDI-UHFFFAOYSA-N,True,,inverse agonist,False,7.126666666666666,0.5229085324732554,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(O)cc(C(C)(C)C)c3)c2C)c1,VCYOISQAQAJKEN-UHFFFAOYSA-N,True,,inverse agonist,False,5.906666666666666,0.493592274385786,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3ccccc3C(C)(C)C)c2C)c1,VTTAHBDGCKLNOT-UHFFFAOYSA-N,True,,inhibitor,False,5.3933333333333335,0.8136543082497221,3.0,1,True,False,False,False,False,False,4.0
-CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2c(OC)cccc2OC)c1C,NICLOWVEPUBBIS-UHFFFAOYSA-N,True,,inhibitor,False,6.496666666666667,0.6045108215187994,3.0,1,True,False,False,False,False,False,4.0
+CCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2OC)c1C,XOVXEGAZAJVMDI-UHFFFAOYSA-N,True,,agonist,False,7.126666666666666,0.5229085324732554,3.0,1,True,False,False,False,False,False,4.0
+CCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2OC)c1C,PCPOIPOIDJLKPQ-UHFFFAOYSA-N,True,,agonist,False,6.739999999999999,0.3858756276314947,3.0,1,True,False,False,False,False,False,4.0
+CC(C)=CCOc1ccc(/C=C/C(=O)c2ccc(OCC=C(C)C)cc2OCC(=O)O)cc1,GFWRVVCDTLRWPK-KPKJPENVSA-N,True,SOFALCONE,agonist,False,6.065,0.0494974746830575,3.0,1,True,False,False,False,False,False,4.0
+Cc1cn(-c2cc(NC(=O)c3ccc(C)c(Nc4nccc(-c5cnccn5)n4)c3)cc(C(F)(F)F)c2)cn1,DUPWHXBITIZIKZ-UHFFFAOYSA-N,True,RADOTINIB,agonist,False,5.055,0.2333452377915607,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(Br)cc(C(C)(C)C)c3)c2C)c1,YKWPEMPWASAAMT-UHFFFAOYSA-N,True,,agonist,False,6.703333333333333,0.457966519882549,3.0,1,True,False,False,False,False,False,4.0
+CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2OC)c1C,WHDMCAYPARZARS-UHFFFAOYSA-N,True,,agonist,False,7.3,0.5892367945062494,3.0,1,True,False,False,False,False,False,4.0
+CNc1cc(NC(=O)c2nnn(-c3cc(OC)ccc3OC)c2C)cc(C(C)(C)C)c1,CEJCUDWNNDQGSJ-UHFFFAOYSA-N,True,,agonist,False,6.596666666666667,0.2836077102854102,3.0,1,True,False,False,False,False,False,4.0
+CCCCNc1cc(NC(=O)c2nnn(-c3cc(OC)ccc3OC)c2C)cc(C(C)(C)C)c1,CFPIFZDXIODBDX-UHFFFAOYSA-N,True,,agonist,False,6.883333333333333,0.5300314456080257,3.0,1,True,False,False,False,False,False,4.0
+CCCCOc1cc(NC(=O)c2nnn(-c3cc(OC)ccc3OC)c2C)cc(C(C)(C)C)c1,LPESWHGIWUIELX-UHFFFAOYSA-N,True,,agonist,False,6.716666666666666,0.5359415391004256,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(N)cc(C(C)(C)C)c3)c2C)c1,XQDOBDMVBRMCDS-UHFFFAOYSA-N,True,,agonist,False,5.523333333333333,0.1150362261782493,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C#N)cc(C(C)(C)C)c3)c2C)c1,XDGXSEGCGGLQCH-UHFFFAOYSA-N,True,,agonist,False,6.609999999999999,0.2961418578992169,3.0,1,True,False,False,False,False,False,4.0
+CCC(C)(C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@H]21,RYMZZMVNJRMUDD-HGQWONQESA-N,True,SIMVASTATIN,agonist,False,5.54,0.1697056274847715,3.0,1,True,False,False,False,False,False,4.0
+Cn1nnnc1SCC1=C(C(=O)O)N2C(=O)C(NC(=O)C(O)c3ccccc3)[C@H]2SC1,OLVCFLKTBJRLHI-IJGSQOGDSA-N,True,CEFAMANDOLE,agonist,False,5.785,0.0494974746830585,3.0,1,True,False,False,False,False,False,4.0
 C[C@]12C=CC(=O)C=C1C(Cl)=CC1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,YTJIBEDMAQUYSZ-YNAZYXNTSA-N,True,CLOPREDNOL,agonist,False,5.36,,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(B4OC(C)(C)C(C)(C)O4)cc(C(C)(C)C)c3)c2C)c1,LGEMQQVBCMNEFB-UHFFFAOYSA-N,True,,inverse agonist,False,5.966666666666666,0.4535783651513085,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C(C)(C)C)ccc3OCCN3CCOCC3)c2C)c1,UWLUETXVZQPQJV-UHFFFAOYSA-N,True,,inverse agonist,False,5.82,0.4657252408878004,3.0,1,True,False,False,False,False,False,4.0
-CCC[C@@H](C)Oc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(C)ccc2OC)c1C,UOXKTTLWMUQDFC-GOSISDBHSA-N,True,,inhibitor,False,7.390000000000001,1.101771301132862,3.0,1,True,False,False,False,False,False,4.0
-CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(COC(N)=O)CS[C@H]12)c1ccco1,JFPVXVDWJQMJEE-LNUXAPHWSA-N,True,CEFUROXIME,agonist,False,5.05,0.2262741699796954,3.0,1,True,False,False,False,False,False,4.0
-CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(CSc3nc(=O)c(=O)[nH]n3C)CS[C@H]12)c1csc(N)n1,VAAUVRVFOQPIGI-NZDRZINCSA-N,True,CEFTRIAXONE,agonist,False,6.005,0.2899137802864845,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C(C)(C)C)ccc3OCCCCO)c2C)c1,NQJAPDWXFVTAJM-UHFFFAOYSA-N,True,,inverse agonist,False,5.56,0.3244996147917594,3.0,1,True,False,False,False,False,False,4.0
-CCCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2OC)c1C,VPKRKNQWMOOMMJ-UHFFFAOYSA-N,True,,inverse agonist,False,7.153333333333333,0.4104063027456249,3.0,1,True,False,False,False,False,False,4.0
-CCC[C@H](C)Oc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2OC)c1C,LCZDEXFSZLWZDC-KRWDZBQOSA-N,True,,inverse agonist,False,8.356666666666667,0.5870547958524256,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C(C)(C)C)ccc3OCCN(C)C)c2C)c1,XIRSIGXLFLHAQR-UHFFFAOYSA-N,True,,inverse agonist,False,6.023333333333333,0.4562163229580166,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3ccc(N(C)C)c(C(C)(C)C)c3)c2C)c1,AGTWASKRGYRVIJ-UHFFFAOYSA-N,True,,inhibitor,False,5.896666666666667,0.674116706018575,3.0,1,True,False,False,False,False,False,4.0
-CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2ccccc2OC)c1C,BFEGOGQVNYZSMN-UHFFFAOYSA-N,True,,inhibitor,False,6.756666666666667,0.6882102391953587,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C(C)(C)C)ccc3NC(=O)OC(C)(C)C)c2C)c1,CUNUZLYVMVYOSX-UHFFFAOYSA-N,True,,inhibitor,False,6.06,1.0053854982045447,3.0,1,True,False,False,False,False,False,4.0
-COc1cc(C(C)=O)c(C)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,RTPVFHLNGWTLNH-UHFFFAOYSA-N,True,,antagonist,False,5.766666666666667,0.6788470618138769,3.0,1,True,False,False,False,False,False,4.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3cccc(N4CCCC4)c3)c2C)c1,PMVDZAGPSCWRTR-UHFFFAOYSA-N,True,,inverse agonist,False,5.103333333333333,0.4465795935030324,3.0,1,True,False,False,False,False,False,4.0
+CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(CSc3nnnn3C)CS[C@H]12)c1csc(N)n1,HJJDBAOLQAWBMH-WCRCJTMVSA-N,True,CEFMENOXIME,agonist,False,5.8100000000000005,0.4808326112068524,3.0,1,True,False,False,False,False,False,4.0
 Cc1cc(C)cc(C(=O)OC2CC3CCC(C2)N3C)c1,HDDNYFLPWFSBLN-UHFFFAOYSA-N,True,,agonist,False,5.036666666666666,0.3674688195389279,3.0,1,True,False,False,False,False,False,4.0
 CN1CCc2cc(Cl)c(O)cc2C2c3ccccc3CC[C@@H]21,DMJWENQHWZZWDF-KKFHFHRHSA-N,True,,agonist,False,5.166666666666667,0.2516611478423583,3.0,1,True,False,False,False,False,False,4.0
 CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)OCC,SSQPWTVBQMWLSZ-AAQCHOMXSA-N,True,ICOSAPENT ETHYL,agonist,False,5.449999999999999,0.0989949493661161,3.0,1,True,False,False,False,False,False,4.0
 C=CC(=O)N1CCC[C@@H](n2nc(-c3ccc(Oc4ccccc4)cc3)c3c(N)ncnc32)C1,XYFPWWZEPKGCCK-GOSISDBHSA-N,True,IBRUTINIB,agonist,False,5.07,,3.0,1,True,False,False,False,False,False,4.0
-C=CCC1=CC(C)C[C@H](C)C[C@H](OC)[C@H]2O[C@@](O)(C(=O)C(=O)N3CCCCC3C(=O)O[C@H](/C(C)=C/[C@@H]3CC[C@@H](O)[C@H](OC)C3)[C@H](C)[C@@H](O)CC1=O)[C@H](C)C[C@@H]2OC,SLUYGGAVUSVJOT-VZCWQGFJSA-N,True,TACROLIMUS ANHYDROUS,agonist,False,5.3,,3.0,1,True,False,False,False,False,False,4.0
-COc1cccc2c(O)c3c(c(O)c12)C(=O)C1=C(C[C@@](O)(C(C)=O)C[C@@H]1O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1)C3=O,YSTRWQVEZGVBLR-VGBVRHCVSA-N,True,DAUNORUBICIN,agonist,False,5.03,,3.0,1,True,False,False,False,False,False,4.0
+COC(=O)C1=C(C)N=C(C)C(C(=O)OC(C)(C)CN(C)CCC(c2ccccc2)c2ccccc2)C1c1cccc([N+](=O)[O-])c1,PHOGQKDIVUJGMJ-UHFFFAOYSA-N,True,LERCANIDIPINE,agonist,False,6.295,0.3464823227814084,3.0,1,True,False,False,False,False,False,4.0
+CCCCC[C@H](O)/C=C/[C@@H]1C(C/C=C\CCCC(=O)O)C(=O)C[C@H]1O,XEYBRNLFEZDVAW-CASDQVHDSA-N,True,DINOPROSTONE,agonist,False,6.109999999999999,0.0424264068711922,3.0,1,True,False,False,False,False,False,4.0
+CCOC(=O)C1=C(C)N=C(C)C(C(=O)OC)C1c1cccc(Cl)c1Cl,HAQDEJPEAKWAAM-UHFFFAOYSA-N,True,FELODIPINE,agonist,False,5.426666666666667,0.2853652630109927,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3ccc(O)c(C(C)(C)C)c3)c2C)c1,RUHPAZDZYHFFLO-UHFFFAOYSA-N,True,,agonist,False,6.046666666666667,0.6453164598345011,3.0,1,True,False,False,False,False,False,4.0
+CCCCN(CCCC)c1cc(NC(=O)c2nnn(-c3cc(OC)ccc3OC)c2C)cc(C(C)(C)C)c1,RWUAIBBERCZABS-UHFFFAOYSA-N,True,,agonist,False,6.4433333333333325,0.3292921701670621,3.0,1,True,False,False,False,False,False,4.0
+COc1cc(Cl)c(C)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,SYYMUHFQKVKZDV-UHFFFAOYSA-N,True,,agonist,False,5.986666666666667,0.2500666577801468,3.0,1,True,False,False,False,False,False,4.0
+COC(=O)c1cc(OC)c(-n2nnc(S(=O)(=O)c3ccc(C(C)(C)C)cc3)c2C)cc1C,CAAQQLAZKZBPMH-UHFFFAOYSA-N,True,,agonist,False,5.613333333333333,0.3407834111768553,3.0,1,True,False,False,False,False,False,4.0
+COc1cc(-n2nnc(S(=O)(=O)c3ccc(C(C)(C)C)cc3)c2C)c(OC)cc1F,FADZTFWMZOQMAW-UHFFFAOYSA-N,True,,agonist,False,5.7,0.2999999999999998,3.0,1,True,False,False,False,False,False,4.0
+CN1CCN=C(c2ccccc2)c2cc(Cl)ccc21,YLCXGBZIZBEVPZ-UHFFFAOYSA-N,True,MEDAZEPAM,agonist,False,5.51,,3.0,1,True,False,False,False,False,False,4.0
+CC(C)=c1nc(N(C)S(C)(=O)=O)nc(-c2ccc(F)cc2)c1=CC[C@@H](O)C[C@@H](O)CC(=O)O,DRLXVNRHGMULCY-IAGOWNOFSA-N,True,ROSUVASTATIN,agonist,False,5.44,,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(F)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,SCYBRAYPNJDWEW-UHFFFAOYSA-N,True,,agonist,False,6.3933333333333335,0.2300724523564986,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(OC)c(-n2nnc(S(=O)(=O)c3ccc(C(C)(C)C)cc3)c2C#N)c1,YDNGCXVICLTJOO-UHFFFAOYSA-N,True,,agonist,False,6.239999999999999,0.5377731863899496,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C(C)(C)C)ccc3OCCN(C)C)c2C)c1,XIRSIGXLFLHAQR-UHFFFAOYSA-N,True,,agonist,False,6.023333333333333,0.4562163229580166,3.0,1,True,False,False,False,False,False,4.0
+COc1cc(C#N)c(C)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,HSUZXMWZIRSORF-UHFFFAOYSA-N,True,,agonist,False,5.723333333333334,0.2926317367158477,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(Cl)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1N,JKDLCYSLZMUDPS-UHFFFAOYSA-N,True,,agonist,False,6.206666666666667,0.8040729651799847,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(CO)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,ZQZWWLVPMSHJFT-UHFFFAOYSA-N,True,,agonist,False,5.88,0.1967231557290598,3.0,1,True,False,False,False,False,False,4.0
+COc1cc(C#N)c(Cl)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,SJFBLVUEGQWIIO-UHFFFAOYSA-N,True,,agonist,False,5.896666666666666,0.3855299383100269,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(C)cc1-n1cc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)nn1,NOBJPNQIXTZNJE-UHFFFAOYSA-N,True,,agonist,False,5.94,0.5556977595779923,3.0,1,True,False,False,False,False,False,4.0
+COc1cc(C(C)=O)c(C)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,RTPVFHLNGWTLNH-UHFFFAOYSA-N,True,,agonist,False,5.766666666666667,0.6788470618138769,3.0,1,True,False,False,False,False,False,4.0
+COc1ccc(OC)c(-n2cc(S(=O)(=O)c3ccc(C(C)(C)C)cc3)nn2)c1,VWCXVQVIPLQGCY-UHFFFAOYSA-N,True,,agonist,False,5.723333333333333,0.2193931022920573,3.0,1,True,False,False,False,False,False,4.0
 O=S(=O)(c1ccccc1)N(CC(F)(F)F)c1ccc(C(O)C(F)(F)F)cc1,YKHCWWRCGHFHFR-UHFFFAOYSA-N,True,,agonist,False,5.5,0.7071067811865476,2.0,1,True,False,False,False,False,False,3.0
 COc1ccc(OC)c(-n2nnc(S(=O)(=O)c3ccc(N)cc3)c2C)c1,BDHJMTYEOPCPKG-UHFFFAOYSA-N,True,,agonist,False,5.23,0.0989949493661161,2.0,1,True,False,False,False,False,False,3.0
 COc1ccc(OC)c(-c2nc(S(=O)(=O)c3ccc(C(C)(C)C)cc3)c[nH]2)c1,YPLRLUDZZUOMEB-UHFFFAOYSA-N,True,,agonist,False,5.835,0.4596194077712561,2.0,1,True,False,False,False,False,False,3.0
@@ -154,11 +154,11 @@ CCc1cc(OC)c(-n2nnc(S(=O)(=O)c3ccc(C(C)(C)C)cc3)c2C)cc1C,NSZYZBKBHITSPM-UHFFFAOYS
 COc1ccc([C@H](C)O)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,UNSUWAXGWVJBJU-HNNXBMFYSA-N,True,,agonist,False,6.04,0.2121320343559647,2.0,1,True,False,False,False,False,False,3.0
 COc1cc(-n2nnc(S(=O)(=O)c3ccc(C(C)(C)C)cc3)c2C)c(OC)cc1C,UWVFTNIGIINRMA-UHFFFAOYSA-N,True,,agonist,False,6.26,0.0565685424949238,2.0,1,True,False,False,False,False,False,3.0
 COc1ccc(Cl)cc1-c1nc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c[nH]1,YISUIHNSTXREED-UHFFFAOYSA-N,True,,agonist,False,6.165,0.3889087296526016,2.0,1,True,False,False,False,False,False,3.0
-COc1cc(F)c(C)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,NKLGTMLBYACVCR-UHFFFAOYSA-N,True,,antagonist,False,6.19,0.0424264068711922,2.0,1,True,False,False,False,False,False,3.0
+COc1cc(F)c(C)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,NKLGTMLBYACVCR-UHFFFAOYSA-N,True,,agonist,False,6.19,0.0424264068711922,2.0,1,True,False,False,False,False,False,3.0
 COc1ccc(Cl)cc1-c1nc(C)c(S(=O)(=O)c2ccc(C(C)(C)C)cc2)n1C,VGUPCSUIDCCDNR-UHFFFAOYSA-N,True,,agonist,False,6.19,0.3818376618407353,2.0,1,True,False,False,False,False,False,3.0
 COc1ccc(C(N)=O)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,NANZUJJGBSAWIF-UHFFFAOYSA-N,True,,agonist,False,5.785,0.2474873734152913,2.0,1,True,False,False,False,False,False,3.0
 C=C(C)[C@@H]1CCC(C)=C[C@H]1c1c(O)cc(CCCCC)cc1O,QHMBSVQNZZTUGM-ZWKOTPCHSA-N,True,CANNABIDIOL,agonist,False,6.17,,2.0,1,True,False,False,False,False,False,3.0
-CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cccc(OC)c2)c1C,HDUVFYFMIQLUOB-UHFFFAOYSA-N,True,,inhibitor,False,5.855,0.6010407640085661,2.0,1,True,False,False,False,False,False,3.0
+CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cccc(OC)c2)c1C,HDUVFYFMIQLUOB-UHFFFAOYSA-N,True,,agonist,False,5.855,0.6010407640085661,2.0,1,True,False,False,False,False,False,3.0
 COc1cc(C(C)C)c(Cl)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,XIQSNHAMCMTORV-UHFFFAOYSA-N,True,,agonist,False,5.855,0.1484924240491752,2.0,1,True,False,False,False,False,False,3.0
 COc1ccc(C)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C#N,QVQNTTJRHZUHHX-UHFFFAOYSA-N,True,,agonist,False,6.74,0.0848528137423854,2.0,1,True,False,False,False,False,False,3.0
 COc1ccc(C)cc1-c1nc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c[nH]1,GTMOGLDGMYWKBV-UHFFFAOYSA-N,True,,agonist,False,6.005,0.2192031021678301,2.0,1,True,False,False,False,False,False,3.0
@@ -180,12 +180,12 @@ COc1ccc(C)cc1-c1nc(C)c(S(=O)(=O)c2ccc(C(C)(C)C)cc2)n1C,BQNRGXYILVEUPJ-UHFFFAOYSA
 Clc1ccc(C(Cn2ccnc2)OCc2ccsc2Cl)c(Cl)c1,QXHHHPZILQDDPS-UHFFFAOYSA-N,True,TIOCONAZOLE,agonist,False,5.6,,1.0,2,True,False,True,False,False,False,3.0
 CCC(=O)O[C@H]1CC[C@H]2[C@@H]3CC=C4CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,OFMVEGGTEFSSGL-BLQWBTBKSA-N,True,TESTOSTERONE PROPIONATE,agonist,False,5.16,,1.0,2,True,False,True,False,False,False,3.0
 Clc1ccc(CCC(Cn2ccnc2)Sc2c(Cl)cccc2Cl)cc1,SWLMUYACZKCSHZ-UHFFFAOYSA-N,True,BUTOCONAZOLE,agonist,False,6.07,,1.0,2,True,False,True,False,False,False,3.0
-Clc1ccccc1C(c1ccccc1)(c1ccccc1)n1ccnc1,VNFPBHJOKIVQEB-UHFFFAOYSA-N,True,CLOTRIMAZOLE,activator,False,5.57,,1.0,2,True,False,True,False,False,False,3.0
+Clc1ccccc1C(c1ccccc1)(c1ccccc1)n1ccnc1,VNFPBHJOKIVQEB-UHFFFAOYSA-N,True,CLOTRIMAZOLE,agonist,False,5.57,,1.0,2,True,False,True,False,False,False,3.0
 COCCOC(=O)C1=C(C)N=C(C)C(C(=O)OC/C=C/c2ccccc2)C1c1cccc([N+](=O)[O-])c1,BYAAPSQQRDMOAQ-DHZHZOJOSA-N,True,CILNIDIPINE,agonist,False,6.11,,1.0,2,True,False,True,False,False,False,3.0
 C#C[C@]1(O)CC[C@H]2[C@@H]3CCC4=Cc5oncc5C[C@]4(C)[C@H]3CC[C@@]21C,POZRVZJJTULAOH-LHZXLZLDSA-N,True,DANAZOL,agonist,False,5.43,,1.0,2,True,False,True,False,False,False,3.0
-CC(C)(C)c1nc(-c2cccc(NS(=O)(=O)c3c(F)cccc3F)c2F)c(-c2ccnc(N)n2)s1,BFSMGDJOXZAERB-UHFFFAOYSA-N,True,DABRAFENIB,activator,False,7.06,,1.0,2,True,False,False,False,False,True,3.0
+CC(C)(C)c1nc(-c2cccc(NS(=O)(=O)c3c(F)cccc3F)c2F)c(-c2ccnc(N)n2)s1,BFSMGDJOXZAERB-UHFFFAOYSA-N,True,DABRAFENIB,agonist,False,7.06,,1.0,2,True,False,False,False,False,True,3.0
 COC(=O)C1=C(C)N=C(C)C(C(=O)OC(C)C)C1c1cccc2nonc12,CNXVIBRFWKALQW-UHFFFAOYSA-N,True,ISRADIPINE,agonist,False,5.28,,1.0,2,True,False,True,False,False,False,3.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C(C)(C)C)ccc3OCC#N)c2C)c1,AOGQFDQLXPQURS-UHFFFAOYSA-N,True,,inhibitor,False,5.89,0.0,2.0,1,True,False,False,False,False,False,3.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C(C)(C)C)ccc3OCC#N)c2C)c1,AOGQFDQLXPQURS-UHFFFAOYSA-N,True,,agonist,False,5.89,0.0,2.0,1,True,False,False,False,False,False,3.0
 CCC(=O)O[C@]1(C(=O)SCF)[C@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]21C,WMWTYOKRWGGJOA-CENSZEJFSA-N,True,FLUTICASONE PROPIONATE,agonist,False,6.0,,1.0,2,True,False,True,False,False,False,3.0
 COC(=O)Nc1nc2cc(Sc3ccccc3)ccc2[nH]1,HDDSHPAODJUKPD-UHFFFAOYSA-N,True,FENBENDAZOLE,agonist,False,5.0,,1.0,2,True,False,True,False,False,False,3.0
 CNC(=O)c1ccc(N2C(=S)N(c3ccc(C#N)c(C(F)(F)F)c3)C(=O)C2(C)C)cc1F,WXCXUHSOUPDCQV-UHFFFAOYSA-N,True,ENZALUTAMIDE,agonist,False,5.43,,1.0,2,True,False,False,False,False,True,3.0
@@ -194,27 +194,27 @@ C#C[C@]1(OC(C)=O)CC[C@H]2[C@@H]3CCC4=CC(=NO)CC[C@@H]4[C@H]3CC[C@@]21CC,KIQQMECNK
 O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1,CXOFVDLJLONNDW-UHFFFAOYSA-N,True,phenytoin,agonist,True,,,,3,False,True,False,False,True,True,3.0
 NC(=O)N1c2ccccc2C=Cc2ccccc21,FFGPTBGBLSHEPO-UHFFFAOYSA-N,True,carbamazepine,agonist,True,,,,3,False,True,True,False,False,True,3.0
 Cc1cc(N=Nc2ccccc2C)ccc1N,PFRYFZZSECNQOL-UHFFFAOYSA-N,True,,agonist,False,,,,3,False,False,True,True,True,False,3.0
-CCC[C@H](C)Oc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(C)ccc2OC)c1C,UOXKTTLWMUQDFC-SFHVURJKSA-N,True,,inhibitor,False,8.225000000000001,0.247487373415292,2.0,1,True,False,False,False,False,False,3.0
+CCC[C@H](C)Oc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(C)ccc2OC)c1C,UOXKTTLWMUQDFC-SFHVURJKSA-N,True,,agonist,False,8.225000000000001,0.247487373415292,2.0,1,True,False,False,False,False,False,3.0
 CCCCCC(=O)O[C@]1(C(C)=O)CC[C@H]2[C@@H]3CC=C4CC(=O)CC[C@]4(C)[C@H]3CC[C@@]21C,VPEJMHYFGCNXLM-LJHIYBGHSA-N,True,HYDROXYPROGESTERONE CAPROATE,agonist,False,5.77,,1.0,2,True,False,True,False,False,False,3.0
 COc1ccc(OC)c(-c2nc(C)c(S(=O)(=O)c3ccc(C(C)(C)C)cc3)n2C)c1,ITWHJOFOMZLYFK-UHFFFAOYSA-N,True,,agonist,False,5.8,0.1697056274847715,2.0,1,True,False,False,False,False,False,3.0
 COc1cc(-n2nnc(S(=O)(=O)c3ccc(C(C)(C)C)cc3)c2C)c(OC)cc1Cl,CNFBLHDMTWBWDE-UHFFFAOYSA-N,True,,agonist,False,6.135,0.120208152801713,2.0,1,True,False,False,False,False,False,3.0
 COc1ccc(OC)c(-c2nc(C)c(S(=O)(=O)c3ccc(C(C)(C)C)cc3)[nH]2)c1,OWXOLWIOYFIMBU-UHFFFAOYSA-N,True,,agonist,False,5.46,0.3394112549695431,2.0,1,True,False,False,False,False,False,3.0
-COc1ccc(Cl)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,XTWBDQYZPFVIHX-UHFFFAOYSA-N,True,,antagonist,False,6.555,0.0636396103067891,2.0,1,True,False,False,False,False,False,3.0
-COc1ccc(C)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,XQAAHNAFJONDOV-UHFFFAOYSA-N,True,,antagonist,False,5.9,0.2828427124746183,2.0,1,True,False,False,False,False,False,3.0
-CCc1c(S(=O)(=O)c2ccc(C(C)(C)C)cc2)nnn1-c1cc(OC)ccc1OC,XAVGTIZMWFMYNC-UHFFFAOYSA-N,True,,antagonist,False,6.199999999999999,0.1414213562373099,2.0,1,True,False,False,False,False,False,3.0
-COc1ccc(OC)c(-n2nnc(S(=O)(=O)c3ccc(C(C)(C)C)cc3)c2C)c1,OIOPHIFJQXHPAF-UHFFFAOYSA-N,True,,antagonist,False,6.66,0.0848528137423854,2.0,1,True,False,False,False,False,False,3.0
-CCc1c(S(=O)(=O)c2ccc(C(C)(C)C)cc2)nnn1-c1cc(C)ccc1OC,AVDWMAJDWFXPJR-UHFFFAOYSA-N,True,,antagonist,False,6.05,0.0707106781186545,2.0,1,True,False,False,False,False,False,3.0
-CCC[C@@]1(CCc2ccccc2)CC(=O)C([C@H](CC)c2cccc(NS(=O)(=O)c3ccc(C(F)(F)F)cn3)c2)C(=O)O1,MYXACKZCYFKMTE-JETRDCLMSA-N,True,TIPRANAVIR,agonist,False,6.58,,2.0,1,True,False,False,False,False,False,3.0
-CCc1c(S(=O)(=O)c2ccc(C(C)(C)C)cc2)nnn1-c1cc(Cl)ccc1OC,SXKCEFGDIDWEFV-UHFFFAOYSA-N,True,,antagonist,False,6.09,0.098994949366117,2.0,1,True,False,False,False,False,False,3.0
-CN1CCN(CC/C=C2/c3ccccc3Sc3ccc(S(=O)(=O)N(C)C)cc32)CC1,GFBKORZTTCHDGY-UWVJOHFNSA-N,True,THIOTHIXENE HYDROCHLORIDE,agonist,False,5.025,0.1767766952966369,2.0,1,True,False,False,False,False,False,3.0
-O=S(=O)(c1ccccc1)N(CC(F)(F)F)c1ccc(C(O)(C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)F)cc1,XUVYNXAYRAIJTP-UHFFFAOYSA-N,True,,agonist,False,7.85,0.2121320343559638,2.0,1,True,False,False,False,False,False,3.0
-Cn1c(-c2ccc(-c3cccnc3)cc2Cl)nnc1C1(c2ccc(Cl)cc2)CCC1,RAQAZKICFNGDBP-UHFFFAOYSA-N,True,,agonist,False,5.44,0.0,2.0,1,True,False,False,False,False,False,3.0
+COc1ccc(Cl)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,XTWBDQYZPFVIHX-UHFFFAOYSA-N,True,,agonist,False,6.555,0.0636396103067891,2.0,1,True,False,False,False,False,False,3.0
+COc1ccc(C)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,XQAAHNAFJONDOV-UHFFFAOYSA-N,True,,agonist,False,5.9,0.2828427124746183,2.0,1,True,False,False,False,False,False,3.0
+CCc1c(S(=O)(=O)c2ccc(C(C)(C)C)cc2)nnn1-c1cc(OC)ccc1OC,XAVGTIZMWFMYNC-UHFFFAOYSA-N,True,,agonist,False,6.199999999999999,0.1414213562373099,2.0,1,True,False,False,False,False,False,3.0
 CC(=O)c1ccc(N(CC(F)(F)F)S(=O)(=O)c2ccccc2)cc1,SLRAFPZKYWAAMQ-UHFFFAOYSA-N,True,,agonist,False,5.4,0.5656854249492382,2.0,1,True,False,False,False,False,False,3.0
 O=S(=O)(c1ccccc1)N(CC(F)(F)F)c1ccc(C(O)(C#Cc2ccccc2)C(F)(F)F)cc1,SAKKPZOSAFYJBK-UHFFFAOYSA-N,True,,agonist,False,6.1,0.1414213562373093,2.0,1,True,False,False,False,False,False,3.0
-CC(C)(O)CNC(=O)CC1Cc2cc(C(O)(C(F)(F)F)C(F)(F)F)ccc2N(S(=O)(=O)c2ccc(F)cc2)C1,YACNBOWUNVKVEQ-UHFFFAOYSA-N,True,,agonist,False,6.545,0.0353553390593278,2.0,1,True,False,False,False,False,False,3.0
+COC(=O)C1=C(C)N=C(C)C(C(=O)OCCN2CCN(C(c3ccccc3)c3ccccc3)CC2)C1c1cccc([N+](=O)[O-])c1,PIRWHBVBBBZNKG-UHFFFAOYSA-N,True,MANIDIPINE 6300,agonist,False,5.1,,2.0,1,True,False,False,False,False,False,3.0
 CCOC(=O)c1c(CSc2ccccc2)n(C)c2cc(Br)c(O)c(CN(C)C)c12,KCFYEAOKVJSACF-UHFFFAOYSA-N,True,UMIFENOVIR,agonist,False,5.895,0.2050609665440991,2.0,1,True,False,False,False,False,False,3.0
-O=S(=O)(c1ccccc1)N(CC(F)(F)F)c1ccc(C(O)(c2ccccc2)C(F)(F)F)cc1,IWYOSSYNDBCVIR-UHFFFAOYSA-N,True,,agonist,False,7.5,0.4242640687119283,2.0,1,True,False,False,False,False,False,3.0
-COc1ccc(C#N)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,JIHAWQFIOGHOPE-UHFFFAOYSA-N,True,,antagonist,False,6.375,0.0353553390593278,2.0,1,True,False,False,False,False,False,3.0
+CC(O)(c1ccc(N(CC(F)(F)F)S(=O)(=O)c2ccccc2)cc1)C(F)(F)F,DKJFEFWRUFUJLQ-UHFFFAOYSA-N,True,,agonist,False,5.85,0.6363961030678921,2.0,1,True,False,False,False,False,False,3.0
+CC(O)c1ccc(N(CC(F)(F)F)S(=O)(=O)c2ccccc2)cc1,WTZWWGVPJSFBKK-UHFFFAOYSA-N,True,,agonist,False,5.3,0.4242640687119283,2.0,1,True,False,False,False,False,False,3.0
+CCCC(O)(c1ccc(N(CC(F)(F)F)S(=O)(=O)c2ccccc2)cc1)C(F)(F)F,REGGUSMKWKQUJO-UHFFFAOYSA-N,True,,agonist,False,6.65,0.2121320343559644,2.0,1,True,False,False,False,False,False,3.0
+O=S(=O)(c1ccccc1)N(CC(F)(F)F)c1ccc(CO)cc1,GNQJQTSRHDQFTL-UHFFFAOYSA-N,True,,agonist,False,5.05,0.0707106781186545,2.0,1,True,False,False,False,False,False,3.0
+O=S(=O)(c1ccccc1)N(CC(F)(F)F)c1ccc(C(O)(C2CCCCC2)C(F)(F)F)cc1,GPCPQPXWVJMHEX-UHFFFAOYSA-N,True,,agonist,False,8.05,0.6363961030678936,2.0,1,True,False,False,False,False,False,3.0
+CS(=O)(=O)C1CCC(C(=O)N2CC[C@](c3ccc(C(F)(C(F)(F)F)C(F)(F)F)cc3)(S(=O)(=O)c3ccc(F)cc3)C2)CC1,ROJWRLPLLGYYCX-PZYUZEHPSA-N,True,,agonist,False,5.75,,2.0,1,True,False,False,False,False,False,3.0
+O=S(=O)(c1ccccc1)N(CC(F)(F)F)c1ccc(C(O)(CC(F)(F)F)C(F)(F)F)cc1,WGEBFTQNSAJNQB-UHFFFAOYSA-N,True,,agonist,False,6.75,0.2121320343559647,2.0,1,True,False,False,False,False,False,3.0
+O=C(C1CCS(=O)(=O)C1)N1CC[C@](c2ccc(C(F)(C(F)(F)F)C(F)(F)F)cc2)(S(=O)(=O)c2ccc(F)cc2)C1,QABINSUJKJJFAK-FXMQYSIJSA-N,True,,agonist,False,5.14,,2.0,1,True,False,False,False,False,False,3.0
+CC(C)(O)CNC(=O)CC1Cc2cc(C(O)(C(F)(F)F)C(F)(F)F)ccc2N(S(=O)(=O)c2ccc(F)cc2)C1,YACNBOWUNVKVEQ-UHFFFAOYSA-N,True,,agonist,False,6.545,0.0353553390593278,2.0,1,True,False,False,False,False,False,3.0
 COC1C(=O)C(C)C[C@H](C)/C=C/C=C/C=C(\C)[C@@H](OC)C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCCC2C(=O)O[C@H]([C@H](C)C[C@@H]2CC[C@@H](O)[C@H](OC)C2)CC(=O)C(C)=CC(C)[C@H]1O,DVSZTYJRXBBIFA-FBAQEZMUSA-N,True,SIROLIMUS,agonist,False,5.525,0.7424621202458744,2.0,1,True,False,False,False,False,False,3.0
 CC(C)N(CCCCOCC(=O)NS(C)(=O)=O)c1cnc(-c2ccccc2)c(-c2ccccc2)n1,QXWZQTURMXZVHJ-UHFFFAOYSA-N,True,SELEXIPAG,agonist,False,5.949999999999999,0.5656854249492376,2.0,1,True,False,False,False,False,False,3.0
 COc1cc(OC)c(-n2nnc(S(=O)(=O)c3ccc(C(C)(C)C)cc3)c2C)cc1Cl,ASLADTXOLVSOER-UHFFFAOYSA-N,True,,agonist,False,6.465,0.1909188309203675,2.0,1,True,False,False,False,False,False,3.0
@@ -223,59 +223,59 @@ COc1cc(OC)c(-n2nnc(S(=O)(=O)c3ccc(C(C)(C)C)cc3)c2C)cc1OC,KUWFOILULGFGAF-UHFFFAOY
 CCc1cc2c(cc1N1CCC(N3CCOCC3)CC1)C(C)(C)c1[nH]c3cc(C#N)ccc3c1C2=O,KDGFLJKFZUIJMX-UHFFFAOYSA-N,True,ALECTINIB,agonist,False,5.47,,2.0,1,True,False,False,False,False,False,3.0
 CCC(=O)OCC(=O)[C@@]1(OC(=O)CC)[C@@H](C)C[C@H]2[C@@H]3CC=C4CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]21C,JDUYIZFMBRCCHQ-XYWKZLDCSA-N,True,BETAMETHASONE DIPROPIONATE,agonist,False,5.29,0.4666904755831215,2.0,1,True,False,False,False,False,False,3.0
 CC(=O)OCC1=C(C(=O)O)N2C(=O)C(NC(=O)CC#N)[C@H]2SC1,RRYMAQUWDLIUPV-FFFFSGIJSA-N,True,CEPHACETRILE,agonist,False,6.41,,2.0,1,True,False,False,False,False,False,3.0
-CC(=O)N1CCC(C(=O)N2C[C@@H](c3ccc(C(O)(C(F)(F)F)C(F)(F)F)cc3)[C@@](C)(c3ccccc3)C2)CC1,YXYVNJXYQMACDG-UKILVPOCSA-N,True,,activator,False,5.785,0.0636396103067891,2.0,1,True,False,False,False,False,False,3.0
-COc1ccc(C(F)(F)F)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,PMCHRCTUMMKSGJ-UHFFFAOYSA-N,True,,antagonist,False,6.195,0.275771644662753,2.0,1,True,False,False,False,False,False,3.0
+CC(=O)N1CCC(C(=O)N2C[C@@H](c3ccc(C(O)(C(F)(F)F)C(F)(F)F)cc3)[C@@](C)(c3ccccc3)C2)CC1,YXYVNJXYQMACDG-UKILVPOCSA-N,True,,agonist,False,5.785,0.0636396103067891,2.0,1,True,False,False,False,False,False,3.0
+O=S(=O)(c1ccccc1)N(CC(F)(F)F)c1ccc(C(O)(c2ccccc2)C(F)(F)F)cc1,IWYOSSYNDBCVIR-UHFFFAOYSA-N,True,,agonist,False,7.5,0.4242640687119283,2.0,1,True,False,False,False,False,False,3.0
 CCCO[C@H]1[C@@H]([C@@H](COCc2ccc(Cl)cc2)OCc2ccc(Cl)cc2)OC(OCC)[C@@H]1O,UOYOWSGCMGEQHC-MSEXXDKFSA-N,True,CLOBENOSIDE,agonist,False,5.01,0.5232590180780453,2.0,1,True,False,False,False,False,False,3.0
-CC(=O)N1CCC(C(=O)N2CC[C@](c3ccc(C(O)(C(F)(F)F)C(F)(F)F)cc3)(S(=O)(=O)c3ccc(F)cc3)C2)CC1,KJQFBTHRWLTPCF-DEOSSOPVSA-N,True,,activator,False,5.11,0.0,2.0,1,True,False,False,False,False,False,3.0
-Cc1ccc(NC(=O)Nc2cc(-c3ccccc3-c3nn[nH]n3)cc3c2OCCCC3c2ccccc2)cc1,MIJWCIIAFVQEQD-UHFFFAOYSA-N,True,,activator,False,5.05,0.0141421356237306,2.0,1,True,False,False,False,False,False,3.0
-Cc1ccc(NC(=O)Nc2cc(-c3ccccc3-c3nc(=O)[nH]o3)cc3c2OCCCC3c2ccccc2)cc1,SQJLSONUOZSTDQ-UHFFFAOYSA-N,True,,activator,False,5.32,0.0848528137423861,2.0,1,True,False,False,False,False,False,3.0
-Cn1c(-c2ccc(-c3ccccc3)cc2Cl)nnc1C1(c2ccc(Cl)cc2)CCC1,DLCWGHYEPISYHV-UHFFFAOYSA-N,True,,activator,False,5.77,0.0,2.0,1,True,False,False,False,False,False,3.0
-CC(=O)N1CCN(C(=O)N2CC[C@](c3ccc(C(O)(C(F)(F)F)C(F)(F)F)cc3)(S(=O)(=O)c3ccc(F)cc3)C2)CC1,LGFLFKROQCMBLV-QHCPKHFHSA-N,True,,activator,False,5.31,0.0,2.0,1,True,False,False,False,False,False,3.0
-CCS(=O)(=O)c1ccccc1-c1ccc(-c2nnc(C3(c4ccc(Cl)cc4)CCC3)n2C)c(Cl)c1,CTTCBVOJARTTMW-UHFFFAOYSA-N,True,,activator,False,6.16,0.0,2.0,1,True,False,False,False,False,False,3.0
-C[C@]1(c2ccc(F)cc2)CN(C(=O)NCc2ccccc2)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,VZZQWPNMECGJBM-UKILVPOCSA-N,True,,activator,False,6.285,0.0494974746830585,2.0,1,True,False,False,False,False,False,3.0
+CC(=O)N1CCC(C(=O)N2CC[C@](c3ccc(C(O)(C(F)(F)F)C(F)(F)F)cc3)(S(=O)(=O)c3ccc(F)cc3)C2)CC1,KJQFBTHRWLTPCF-DEOSSOPVSA-N,True,,agonist,False,5.11,0.0,2.0,1,True,False,False,False,False,False,3.0
+Cc1ccc(NC(=O)Nc2cc(-c3ccccc3-c3nn[nH]n3)cc3c2OCCCC3c2ccccc2)cc1,MIJWCIIAFVQEQD-UHFFFAOYSA-N,True,,agonist,False,5.05,0.0141421356237306,2.0,1,True,False,False,False,False,False,3.0
+Cc1ccc(NC(=O)Nc2cc(-c3ccccc3-c3nc(=O)[nH]o3)cc3c2OCCCC3c2ccccc2)cc1,SQJLSONUOZSTDQ-UHFFFAOYSA-N,True,,agonist,False,5.32,0.0848528137423861,2.0,1,True,False,False,False,False,False,3.0
+Cn1c(-c2ccc(-c3ccccc3)cc2Cl)nnc1C1(c2ccc(Cl)cc2)CCC1,DLCWGHYEPISYHV-UHFFFAOYSA-N,True,,agonist,False,5.77,0.0,2.0,1,True,False,False,False,False,False,3.0
+CC(=O)N1CCN(C(=O)N2CC[C@](c3ccc(C(O)(C(F)(F)F)C(F)(F)F)cc3)(S(=O)(=O)c3ccc(F)cc3)C2)CC1,LGFLFKROQCMBLV-QHCPKHFHSA-N,True,,agonist,False,5.31,0.0,2.0,1,True,False,False,False,False,False,3.0
+CCS(=O)(=O)c1ccccc1-c1ccc(-c2nnc(C3(c4ccc(Cl)cc4)CCC3)n2C)c(Cl)c1,CTTCBVOJARTTMW-UHFFFAOYSA-N,True,,agonist,False,6.16,0.0,2.0,1,True,False,False,False,False,False,3.0
+C[C@]1(c2ccc(F)cc2)CN(C(=O)NCc2ccccc2)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,VZZQWPNMECGJBM-UKILVPOCSA-N,True,,agonist,False,6.285,0.0494974746830585,2.0,1,True,False,False,False,False,False,3.0
 C[C@@H](Oc1cc(-c2cnn(C3CCNCC3)c2)cnc1N)c1c(Cl)ccc(F)c1Cl,KTEIFNKAUNYNJU-GFCCVEGCSA-N,True,CRIZOTINIB,agonist,False,5.16,,2.0,1,True,False,False,False,False,False,3.0
-CCCC(O)(c1ccc(N(CC(F)(F)F)S(=O)(=O)c2ccccc2)cc1)C(F)(F)F,REGGUSMKWKQUJO-UHFFFAOYSA-N,True,,agonist,False,6.65,0.2121320343559644,2.0,1,True,False,False,False,False,False,3.0
-CC(O)c1ccc(N(CC(F)(F)F)S(=O)(=O)c2ccccc2)cc1,WTZWWGVPJSFBKK-UHFFFAOYSA-N,True,,agonist,False,5.3,0.4242640687119283,2.0,1,True,False,False,False,False,False,3.0
-CC(O)(c1ccc(N(CC(F)(F)F)S(=O)(=O)c2ccccc2)cc1)C(F)(F)F,DKJFEFWRUFUJLQ-UHFFFAOYSA-N,True,,agonist,False,5.85,0.6363961030678921,2.0,1,True,False,False,False,False,False,3.0
-O=S(=O)(c1ccccc1)N(CC(F)(F)F)c1ccc(CO)cc1,GNQJQTSRHDQFTL-UHFFFAOYSA-N,True,,agonist,False,5.05,0.0707106781186545,2.0,1,True,False,False,False,False,False,3.0
-O=S(=O)(c1ccccc1)N(CC(F)(F)F)c1ccc(C(O)(C2CCCCC2)C(F)(F)F)cc1,GPCPQPXWVJMHEX-UHFFFAOYSA-N,True,,agonist,False,8.05,0.6363961030678936,2.0,1,True,False,False,False,False,False,3.0
-CS(=O)(=O)C1CCC(C(=O)N2CC[C@](c3ccc(C(F)(C(F)(F)F)C(F)(F)F)cc3)(S(=O)(=O)c3ccc(F)cc3)C2)CC1,ROJWRLPLLGYYCX-PZYUZEHPSA-N,True,,agonist,False,5.75,,2.0,1,True,False,False,False,False,False,3.0
-O=S(=O)(c1ccccc1)N(CC(F)(F)F)c1ccc(C(O)(CC(F)(F)F)C(F)(F)F)cc1,WGEBFTQNSAJNQB-UHFFFAOYSA-N,True,,agonist,False,6.75,0.2121320343559647,2.0,1,True,False,False,False,False,False,3.0
-O=C(C1CCS(=O)(=O)C1)N1CC[C@](c2ccc(C(F)(C(F)(F)F)C(F)(F)F)cc2)(S(=O)(=O)c2ccc(F)cc2)C1,QABINSUJKJJFAK-FXMQYSIJSA-N,True,,agonist,False,5.14,,2.0,1,True,False,False,False,False,False,3.0
-COC(=O)C1=C(C)N=C(C)C(C(=O)OCCN2CCN(C(c3ccccc3)c3ccccc3)CC2)C1c1cccc([N+](=O)[O-])c1,PIRWHBVBBBZNKG-UHFFFAOYSA-N,True,MANIDIPINE 6300,agonist,False,5.1,,2.0,1,True,False,False,False,False,False,3.0
+CCc1c(S(=O)(=O)c2ccc(C(C)(C)C)cc2)nnn1-c1cc(C)ccc1OC,AVDWMAJDWFXPJR-UHFFFAOYSA-N,True,,agonist,False,6.05,0.0707106781186545,2.0,1,True,False,False,False,False,False,3.0
+COc1ccc(OC)c(-n2nnc(S(=O)(=O)c3ccc(C(C)(C)C)cc3)c2C)c1,OIOPHIFJQXHPAF-UHFFFAOYSA-N,True,,agonist,False,6.66,0.0848528137423854,2.0,1,True,False,False,False,False,False,3.0
+CCC[C@@]1(CCc2ccccc2)CC(=O)C([C@H](CC)c2cccc(NS(=O)(=O)c3ccc(C(F)(F)F)cn3)c2)C(=O)O1,MYXACKZCYFKMTE-JETRDCLMSA-N,True,TIPRANAVIR,agonist,False,6.58,,2.0,1,True,False,False,False,False,False,3.0
+COc1ccc(C#N)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,JIHAWQFIOGHOPE-UHFFFAOYSA-N,True,,agonist,False,6.375,0.0353553390593278,2.0,1,True,False,False,False,False,False,3.0
+CCc1c(S(=O)(=O)c2ccc(C(C)(C)C)cc2)nnn1-c1cc(Cl)ccc1OC,SXKCEFGDIDWEFV-UHFFFAOYSA-N,True,,agonist,False,6.09,0.098994949366117,2.0,1,True,False,False,False,False,False,3.0
+COc1ccc(C(F)(F)F)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,PMCHRCTUMMKSGJ-UHFFFAOYSA-N,True,,agonist,False,6.195,0.275771644662753,2.0,1,True,False,False,False,False,False,3.0
+CN1CCN(CC/C=C2/c3ccccc3Sc3ccc(S(=O)(=O)N(C)C)cc32)CC1,GFBKORZTTCHDGY-UWVJOHFNSA-N,True,THIOTHIXENE HYDROCHLORIDE,agonist,False,5.025,0.1767766952966369,2.0,1,True,False,False,False,False,False,3.0
+O=S(=O)(c1ccccc1)N(CC(F)(F)F)c1ccc(C(O)(C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)F)cc1,XUVYNXAYRAIJTP-UHFFFAOYSA-N,True,,agonist,False,7.85,0.2121320343559638,2.0,1,True,False,False,False,False,False,3.0
+Cn1c(-c2ccc(-c3cccnc3)cc2Cl)nnc1C1(c2ccc(Cl)cc2)CCC1,RAQAZKICFNGDBP-UHFFFAOYSA-N,True,,agonist,False,5.44,0.0,2.0,1,True,False,False,False,False,False,3.0
 Cc1ccc(-n2nccn2)c(C(=O)N2CCN(c3nc4cc(Cl)ccc4o3)CC[C@H]2C)c1,JYTNQNCOQXFQPK-MRXNPFEDSA-N,True,SUVOREXANT,agonist,False,5.36,,2.0,1,True,False,False,False,False,False,3.0
 CCCCCCCCCCC[C@@H](C[C@@H]1OC(=O)C1CCCCCC)OC(=O)C(CC(C)C)NC=O,AHLBNYSZXLDEJQ-LDUIBRKMSA-N,True,ORLISTAT,agonist,False,5.175,0.8838834764831844,2.0,1,True,False,False,False,False,False,3.0
 CNc1cc(OC)c(C(=O)NC2CCN(Cc3ccccc3)C2C)cc1Cl,KRVOJOCLBAAKSJ-UHFFFAOYSA-N,True,NEMONAPRIDE,agonist,False,5.15,,2.0,1,True,False,False,False,False,False,3.0
 CCCN1CC(NS(=O)(=O)N(CC)CC)CC2Cc3c(O)cccc3CC21,GDFGTRDCCWFXTG-UHFFFAOYSA-N,True,QUINAGOLIDE,agonist,False,5.355,0.3040559159102162,2.0,1,True,False,False,False,False,False,3.0
 Cc1ccc2c(-c3ccccc3)nc(=O)n(C(C)C)c2c1,JTIGKVIOEQASGT-UHFFFAOYSA-N,True,PROQUAZONE,agonist,False,5.1850000000000005,0.0494974746830575,2.0,1,True,False,False,False,False,False,3.0
 CC(C)(C)c1ccc(C(=O)CCCN2CCC(OC(c3ccccc3)c3ccccc3)CC2)cc1,MJJALKDDGIKVBE-UHFFFAOYSA-N,True,EBASTINE,agonist,False,5.06,,2.0,1,True,False,False,False,False,False,3.0
-CCCCOC(C)(C)c1ccc(S(=O)(=O)c2nnn(-c3cc(OC)ccc3OC)c2C)cc1,FIZYNUOQYNRWJS-UHFFFAOYSA-N,True,,antagonist,False,5.775,0.134350288425444,2.0,1,True,False,False,False,False,False,3.0
-COc1ccc(Br)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,HDHJKOMZAWUIFM-UHFFFAOYSA-N,True,,antagonist,False,6.51,0.1555634918610406,2.0,1,True,False,False,False,False,False,3.0
-COc1cc(Cl)c(Cl)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,YIEWGQHWJYPOCX-UHFFFAOYSA-N,True,,antagonist,False,6.145,0.36062445840514,2.0,1,True,False,False,False,False,False,3.0
-COc1ccc(OC)c(-n2nnc(S(=O)(=O)c3ccc(C(C)(C)OC)cc3)c2C)c1,LJPCPXYDKHSNBM-UHFFFAOYSA-N,True,,antagonist,False,5.535,0.1484924240491746,2.0,1,True,False,False,False,False,False,3.0
+CCCCOC(C)(C)c1ccc(S(=O)(=O)c2nnn(-c3cc(OC)ccc3OC)c2C)cc1,FIZYNUOQYNRWJS-UHFFFAOYSA-N,True,,agonist,False,5.775,0.134350288425444,2.0,1,True,False,False,False,False,False,3.0
+COc1ccc(Br)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,HDHJKOMZAWUIFM-UHFFFAOYSA-N,True,,agonist,False,6.51,0.1555634918610406,2.0,1,True,False,False,False,False,False,3.0
+COc1cc(Cl)c(Cl)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,YIEWGQHWJYPOCX-UHFFFAOYSA-N,True,,agonist,False,6.145,0.36062445840514,2.0,1,True,False,False,False,False,False,3.0
+COc1ccc(OC)c(-n2nnc(S(=O)(=O)c3ccc(C(C)(C)OC)cc3)c2C)c1,LJPCPXYDKHSNBM-UHFFFAOYSA-N,True,,agonist,False,5.535,0.1484924240491746,2.0,1,True,False,False,False,False,False,3.0
 CCCCCCC(C)(C)c1cc(O)c2c(c1)OC(C)(C)C1CCC(=O)CC21,GECBBEABIDMGGL-UHFFFAOYSA-N,True,NABILONE,agonist,False,5.54,0.0848528137423851,2.0,1,True,False,False,False,False,False,3.0
-CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(C)ccc2OC)c1C,KDGPZTGJUQTTCZ-UHFFFAOYSA-N,True,,inhibitor,False,7.49,0.5091168824543144,2.0,1,True,False,False,False,False,False,3.0
-CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2C)c1C,DEIQMHQKNKSDSU-UHFFFAOYSA-N,True,,inhibitor,False,6.35,0.8061017305526643,2.0,1,True,False,False,False,False,False,3.0
-CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cccnc2)c1C,SWHPJXQYRIMRHY-UHFFFAOYSA-N,True,,inhibitor,False,5.245,0.1767766952966369,2.0,1,True,False,False,False,False,False,3.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C(C)(C)C)ccc3OC)c2C)c1,BMLMWNDJFBLNOJ-UHFFFAOYSA-N,True,,inhibitor,False,5.855,0.1484924240491752,2.0,1,True,False,False,False,False,False,3.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C(C)(C)C)ccc3NC(C)=O)c2C)c1,XPJKGNXBYQYNHY-UHFFFAOYSA-N,True,,inhibitor,False,5.75,0.3535533905932738,2.0,1,True,False,False,False,False,False,3.0
-CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC(F)(F)F)ccc2OC)c1C,ZSZJABABZZLXKC-UHFFFAOYSA-N,True,,inhibitor,False,6.75,0.5798275605729691,2.0,1,True,False,False,False,False,False,3.0
-CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2F)c1C,HXCQRBYBMJDEAM-UHFFFAOYSA-N,True,,inhibitor,False,6.555,1.0253048327204937,2.0,1,True,False,False,False,False,False,3.0
-CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2ccc(OC)cc2OC)c1C,GPLSAXQRPXHNOC-UHFFFAOYSA-N,True,,inhibitor,False,5.875,0.6858935777509516,2.0,1,True,False,False,False,False,False,3.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3cccc(C)c3)c2C)c1,ZWJFGYPFDPOOPW-UHFFFAOYSA-N,True,,inhibitor,False,5.21,0.3535533905932738,2.0,1,True,False,False,False,False,False,3.0
-CCCCNc1ccc(NC(=O)c2nnn(-c3cc(OC)ccc3OC)c2C)cc1C(C)(C)C,ALFPWDIULHLHJE-UHFFFAOYSA-N,True,,inhibitor,False,5.775,0.516187950266179,2.0,1,True,False,False,False,False,False,3.0
-CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(C(F)(F)F)ccc2OC)c1C,JRRVFRXXGUNNAM-UHFFFAOYSA-N,True,,inhibitor,False,6.695,0.7566042558696061,2.0,1,True,False,False,False,False,False,3.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3ccc(N)c(C(C)(C)C)c3)c2C)c1,YTYIWKKYCBZPPC-UHFFFAOYSA-N,True,,inhibitor,False,5.97,0.8202438661763952,2.0,1,True,False,False,False,False,False,3.0
-CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(F)ccc2OC)c1C,DUQSQQQOHDQMDL-UHFFFAOYSA-N,True,,inhibitor,False,7.09,0.8061017305526645,2.0,1,True,False,False,False,False,False,3.0
-CCC[C@@H](C)Oc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(Cl)ccc2OC)c1C,MRQQSKXIGCYVBN-MRXNPFEDSA-N,True,,inhibitor,False,7.37,0.636396103067893,2.0,1,True,False,False,False,False,False,3.0
-CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cccnc2OC)c1C,RCMTXBSJEBABBB-UHFFFAOYSA-N,True,,inhibitor,False,6.16,0.2828427124746193,2.0,1,True,False,False,False,False,False,3.0
-CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(Cl)ccc2OC)c1C,MKYQMMDVLDQGTD-UHFFFAOYSA-N,True,,inhibitor,False,7.359999999999999,0.6222539674441614,2.0,1,True,False,False,False,False,False,3.0
-CCCC(C)Oc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(C)ccc2OC)c1C,UOXKTTLWMUQDFC-UHFFFAOYSA-N,True,,inhibitor,False,7.955,0.2899137802864845,2.0,1,True,False,False,False,False,False,3.0
-CCCC(C)Oc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(Cl)ccc2OC)c1C,MRQQSKXIGCYVBN-UHFFFAOYSA-N,True,,inhibitor,False,7.76,0.0848528137423861,2.0,1,True,False,False,False,False,False,3.0
-CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2ccccc2)c1C,GHSZLYYVZBYLMZ-UHFFFAOYSA-N,True,,inhibitor,False,6.27,0.9192388155425112,2.0,1,True,False,False,False,False,False,3.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3ccc(C(C)(C)C)cc3)c2C)c1,KRIYUNKTWVXQOC-UHFFFAOYSA-N,True,,inhibitor,False,5.195,1.0253048327204943,2.0,1,True,False,False,False,False,False,3.0
+CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(C)ccc2OC)c1C,KDGPZTGJUQTTCZ-UHFFFAOYSA-N,True,,agonist,False,7.49,0.5091168824543144,2.0,1,True,False,False,False,False,False,3.0
+CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2C)c1C,DEIQMHQKNKSDSU-UHFFFAOYSA-N,True,,agonist,False,6.35,0.8061017305526643,2.0,1,True,False,False,False,False,False,3.0
+CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cccnc2)c1C,SWHPJXQYRIMRHY-UHFFFAOYSA-N,True,,agonist,False,5.245,0.1767766952966369,2.0,1,True,False,False,False,False,False,3.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C(C)(C)C)ccc3OC)c2C)c1,BMLMWNDJFBLNOJ-UHFFFAOYSA-N,True,,agonist,False,5.855,0.1484924240491752,2.0,1,True,False,False,False,False,False,3.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C(C)(C)C)ccc3NC(C)=O)c2C)c1,XPJKGNXBYQYNHY-UHFFFAOYSA-N,True,,agonist,False,5.75,0.3535533905932738,2.0,1,True,False,False,False,False,False,3.0
+CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC(F)(F)F)ccc2OC)c1C,ZSZJABABZZLXKC-UHFFFAOYSA-N,True,,agonist,False,6.75,0.5798275605729691,2.0,1,True,False,False,False,False,False,3.0
+CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2F)c1C,HXCQRBYBMJDEAM-UHFFFAOYSA-N,True,,agonist,False,6.555,1.0253048327204937,2.0,1,True,False,False,False,False,False,3.0
+CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2ccc(OC)cc2OC)c1C,GPLSAXQRPXHNOC-UHFFFAOYSA-N,True,,agonist,False,5.875,0.6858935777509516,2.0,1,True,False,False,False,False,False,3.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3cccc(C)c3)c2C)c1,ZWJFGYPFDPOOPW-UHFFFAOYSA-N,True,,agonist,False,5.21,0.3535533905932738,2.0,1,True,False,False,False,False,False,3.0
+CCCCNc1ccc(NC(=O)c2nnn(-c3cc(OC)ccc3OC)c2C)cc1C(C)(C)C,ALFPWDIULHLHJE-UHFFFAOYSA-N,True,,agonist,False,5.775,0.516187950266179,2.0,1,True,False,False,False,False,False,3.0
+CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(C(F)(F)F)ccc2OC)c1C,JRRVFRXXGUNNAM-UHFFFAOYSA-N,True,,agonist,False,6.695,0.7566042558696061,2.0,1,True,False,False,False,False,False,3.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3ccc(N)c(C(C)(C)C)c3)c2C)c1,YTYIWKKYCBZPPC-UHFFFAOYSA-N,True,,agonist,False,5.97,0.8202438661763952,2.0,1,True,False,False,False,False,False,3.0
+CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(F)ccc2OC)c1C,DUQSQQQOHDQMDL-UHFFFAOYSA-N,True,,agonist,False,7.09,0.8061017305526645,2.0,1,True,False,False,False,False,False,3.0
+CCC[C@@H](C)Oc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(Cl)ccc2OC)c1C,MRQQSKXIGCYVBN-MRXNPFEDSA-N,True,,agonist,False,7.37,0.636396103067893,2.0,1,True,False,False,False,False,False,3.0
+CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cccnc2OC)c1C,RCMTXBSJEBABBB-UHFFFAOYSA-N,True,,agonist,False,6.16,0.2828427124746193,2.0,1,True,False,False,False,False,False,3.0
+CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(Cl)ccc2OC)c1C,MKYQMMDVLDQGTD-UHFFFAOYSA-N,True,,agonist,False,7.359999999999999,0.6222539674441614,2.0,1,True,False,False,False,False,False,3.0
+CCCC(C)Oc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(C)ccc2OC)c1C,UOXKTTLWMUQDFC-UHFFFAOYSA-N,True,,agonist,False,7.955,0.2899137802864845,2.0,1,True,False,False,False,False,False,3.0
+CCCC(C)Oc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(Cl)ccc2OC)c1C,MRQQSKXIGCYVBN-UHFFFAOYSA-N,True,,agonist,False,7.76,0.0848528137423861,2.0,1,True,False,False,False,False,False,3.0
+CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2ccccc2)c1C,GHSZLYYVZBYLMZ-UHFFFAOYSA-N,True,,agonist,False,6.27,0.9192388155425112,2.0,1,True,False,False,False,False,False,3.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3ccc(C(C)(C)C)cc3)c2C)c1,KRIYUNKTWVXQOC-UHFFFAOYSA-N,True,,agonist,False,5.195,1.0253048327204943,2.0,1,True,False,False,False,False,False,3.0
 COc1ccc(OC)c(-n2nnc(S(=O)(=O)c3ccc(Cl)cc3)c2C)c1,BQHAWTCAMGGGMD-UHFFFAOYSA-N,True,,agonist,False,5.68,0.0565685424949238,2.0,1,True,False,False,False,False,False,3.0
-COC(c1ccc(C2(S(=O)(=O)c3ccc(F)cc3)CCCC2)cc1)(C(F)(F)F)C(F)(F)F,WRXRCDCZKADEPR-UHFFFAOYSA-N,True,,activator,False,6.04,0.0,2.0,1,True,False,False,False,False,False,3.0
+COC(c1ccc(C2(S(=O)(=O)c3ccc(F)cc3)CCCC2)cc1)(C(F)(F)F)C(F)(F)F,WRXRCDCZKADEPR-UHFFFAOYSA-N,True,,agonist,False,6.04,0.0,2.0,1,True,False,False,False,False,False,3.0
 COc1ccc(OC)c(-n2nnc(S(=O)(=O)c3ccc(C)cc3)c2C)c1,DXYRRGYZBRAKFU-UHFFFAOYSA-N,True,,agonist,False,5.55,0.1838477631085022,2.0,1,True,False,False,False,False,False,3.0
 COc1cc(C(C)C)c(C)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,DBSRTQWUAJYMBG-UHFFFAOYSA-N,True,,agonist,False,5.890000000000001,0.2687005768508883,2.0,1,True,False,False,False,False,False,3.0
 COc1cc(-n2nnc(S(=O)(=O)c3ccc(C(C)(C)C)cc3)c2C)c(OC)cc1Br,ACHYQRJTXWSXNR-UHFFFAOYSA-N,True,,agonist,False,6.19,0.0424264068711922,2.0,1,True,False,False,False,False,False,3.0
@@ -286,13 +286,13 @@ COc1ccc(S(=O)(=O)c2nnn(-c3cc(OC)ccc3OC)c2C)cc1,KNSCGQXSALZQIG-UHFFFAOYSA-N,True,
 CCc1cc(OC)c(-n2nnc(S(=O)(=O)c3ccc(C(C)(C)C)cc3)c2C)cc1Cl,WVHMJUCJBUJMLH-UHFFFAOYSA-N,True,,agonist,False,5.99,0.240416305603426,2.0,1,True,False,False,False,False,False,3.0
 COc1ccc(OC)c(-c2ncc(S(=O)(=O)c3ccc(C(C)(C)C)cc3)n2C)c1,YMBFKDRMKPVFMS-UHFFFAOYSA-N,True,,agonist,False,5.5,0.141421356237309,2.0,1,True,False,False,False,False,False,3.0
 COc1cc(Br)c(Cl)cc1-n1nnc(S(=O)(=O)c2ccc(C(C)(C)C)cc2)c1C,ZUVWYBHOMFFIDT-UHFFFAOYSA-N,True,,agonist,False,6.24,0.0282842712474616,2.0,1,True,False,False,False,False,False,3.0
-CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cccc(OC)c2OC)c1C,JYGKDQDWJBURDR-UHFFFAOYSA-N,True,,inhibitor,False,6.24,0.3394112549695431,2.0,1,True,False,False,False,False,False,3.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3ccc(NC(C)=O)c(C(C)(C)C)c3)c2C)c1,WXTYBYNTGUMSBE-UHFFFAOYSA-N,True,,inhibitor,False,5.725,0.0353553390593269,2.0,1,True,False,False,False,False,False,3.0
-CCCCOc1ccc(NC(=O)c2nnn(-c3cc(OC)ccc3OC)c2C)cc1C(C)(C)C,JVRUTKCYTQLVGL-UHFFFAOYSA-N,True,,inverse agonist,False,5.32,0.254558441227157,2.0,1,True,False,False,False,False,False,3.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(-c4nn[nH]n4)cc(C(C)(C)C)c3)c2C)c1,VBILCLPNWQINDE-UHFFFAOYSA-N,True,,inverse agonist,False,5.145,0.6717514421272199,2.0,1,True,False,False,False,False,False,3.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(-c4ccccc4)cc(C(C)(C)C)c3)c2C)c1,TUVYLWKGZSXOJQ-UHFFFAOYSA-N,True,,inverse agonist,False,7.385,0.657609306503489,2.0,1,True,False,False,False,False,False,3.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C(C)(C)C)ccc3OCCN3CCN(C)CC3)c2C)c1,JIOFJKXCQWDCIX-UHFFFAOYSA-N,True,,inverse agonist,False,5.08,0.1131370849898477,2.0,1,True,False,False,False,False,False,3.0
-CCC[C@H](C)Oc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(Cl)ccc2OC)c1C,MRQQSKXIGCYVBN-INIZCTEOSA-N,True,,inhibitor,False,7.95,0.2828427124746193,2.0,1,True,False,False,False,False,False,3.0
+CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cccc(OC)c2OC)c1C,JYGKDQDWJBURDR-UHFFFAOYSA-N,True,,agonist,False,6.24,0.3394112549695431,2.0,1,True,False,False,False,False,False,3.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3ccc(NC(C)=O)c(C(C)(C)C)c3)c2C)c1,WXTYBYNTGUMSBE-UHFFFAOYSA-N,True,,agonist,False,5.725,0.0353553390593269,2.0,1,True,False,False,False,False,False,3.0
+CCCCOc1ccc(NC(=O)c2nnn(-c3cc(OC)ccc3OC)c2C)cc1C(C)(C)C,JVRUTKCYTQLVGL-UHFFFAOYSA-N,True,,agonist,False,5.32,0.254558441227157,2.0,1,True,False,False,False,False,False,3.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(-c4nn[nH]n4)cc(C(C)(C)C)c3)c2C)c1,VBILCLPNWQINDE-UHFFFAOYSA-N,True,,agonist,False,5.145,0.6717514421272199,2.0,1,True,False,False,False,False,False,3.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(-c4ccccc4)cc(C(C)(C)C)c3)c2C)c1,TUVYLWKGZSXOJQ-UHFFFAOYSA-N,True,,agonist,False,7.385,0.657609306503489,2.0,1,True,False,False,False,False,False,3.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C(C)(C)C)ccc3OCCN3CCN(C)CC3)c2C)c1,JIOFJKXCQWDCIX-UHFFFAOYSA-N,True,,agonist,False,5.08,0.1131370849898477,2.0,1,True,False,False,False,False,False,3.0
+CCC[C@H](C)Oc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(Cl)ccc2OC)c1C,MRQQSKXIGCYVBN-INIZCTEOSA-N,True,,agonist,False,7.95,0.2828427124746193,2.0,1,True,False,False,False,False,False,3.0
 CCCOCC(=Nc1ccc(Cl)cc1C(F)(F)F)n1ccnc1,HSMVPDGQOIQYSR-UHFFFAOYSA-N,True,,agonist,False,,,,2,False,False,True,False,True,False,2.0
 COC(=O)C1[C@H]2C[C@@H]3c4[nH]c5cc(OC)ccc5c4CCN3C[C@H]2C[C@@H](OC(=O)c2cc(OC)c(OC)c(OC)c2)[C@@H]1OC,QEVHRUUCFGRFIF-QVNODVLKSA-N,True,,agonist,False,,,,2,False,False,True,False,True,False,2.0
 CC(C)(c1ccc(O)cc1)c1ccc(O)cc1,IISBACLAFKSPIT-UHFFFAOYSA-N,True,,agonist,False,,,,2,False,False,True,False,True,False,2.0
@@ -355,13 +355,13 @@ COc1ccc2c(c1)C1CC1(C(=O)N1C3CC1CN(Cc1ccccc1)C3)Cn1c-2c(C2CCCCC2)c2ccc(C(=O)NS(=O
 O=S(=O)(Nc1cscn1)c1cc(Cl)c(NCc2c(F)cccc2CN2CCC2)cc1F,ZKBINYGXHLBBGG-UHFFFAOYSA-N,True,,agonist,False,5.51,,1.0,1,True,False,False,False,False,False,2.0
 Cn1c(-c2ccc(NC(=O)c3cccs3)cc2)nnc1C1(c2ccc(Cl)cc2)CCC1,VHQQNMOPJCVPFS-UHFFFAOYSA-N,True,,agonist,False,5.06,,1.0,1,True,False,False,False,False,False,2.0
 CCCCCCn1cnc2cc(NS(=O)(=O)c3c(C)c(C)c(C)c(C)c3C)ccc21,WXMHVSIFCXNEJX-UHFFFAOYSA-N,True,,agonist,False,7.89,,1.0,1,True,False,False,False,False,False,2.0
-Nc1nnc(-c2ccccc2O)cc1N1CCCCC1,RJVQZTLPHCJXNB-UHFFFAOYSA-N,True,,binding agent,False,5.51,,1.0,1,True,False,False,False,False,False,2.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3cccc(-n4cccc4)c3)c2C)c1,QMKDEGSHTKKGIE-UHFFFAOYSA-N,True,,inhibitor,False,5.85,,1.0,1,True,False,False,False,False,False,2.0
-CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2Br)c1C,HITDREPMBJSMJQ-UHFFFAOYSA-N,True,,inhibitor,False,5.88,,1.0,1,True,False,False,False,False,False,2.0
-CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2Cl)c1C,ITSKYSTYKNYPGO-UHFFFAOYSA-N,True,,inhibitor,False,7.8,,1.0,1,True,False,False,False,False,False,2.0
-COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C(C)(C)C)ccc3O)c2C)c1,DPEOIYHRUJFIKL-UHFFFAOYSA-N,True,,inhibitor,False,5.64,,1.0,1,True,False,False,False,False,False,2.0
-Nc1nnc(-c2ccccc2O)cc1N1CCC[C@@H]1C1CC1,YRLBOSSSZSLHJB-CQSZACIVSA-N,True,,binding agent,False,6.7,,1.0,1,True,False,False,False,False,False,2.0
-Nc1nnc(-c2ccccc2O)cc1N1CCCC1,TWJZDPRYXHWSDF-UHFFFAOYSA-N,True,,binding agent,False,5.58,,1.0,1,True,False,False,False,False,False,2.0
+Nc1nnc(-c2ccccc2O)cc1N1CCCCC1,RJVQZTLPHCJXNB-UHFFFAOYSA-N,True,,agonist,False,5.51,,1.0,1,True,False,False,False,False,False,2.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3cccc(-n4cccc4)c3)c2C)c1,QMKDEGSHTKKGIE-UHFFFAOYSA-N,True,,agonist,False,5.85,,1.0,1,True,False,False,False,False,False,2.0
+CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2Br)c1C,HITDREPMBJSMJQ-UHFFFAOYSA-N,True,,agonist,False,5.88,,1.0,1,True,False,False,False,False,False,2.0
+CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)ccc2Cl)c1C,ITSKYSTYKNYPGO-UHFFFAOYSA-N,True,,agonist,False,7.8,,1.0,1,True,False,False,False,False,False,2.0
+COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C(C)(C)C)ccc3O)c2C)c1,DPEOIYHRUJFIKL-UHFFFAOYSA-N,True,,agonist,False,5.64,,1.0,1,True,False,False,False,False,False,2.0
+Nc1nnc(-c2ccccc2O)cc1N1CCC[C@@H]1C1CC1,YRLBOSSSZSLHJB-CQSZACIVSA-N,True,,agonist,False,6.7,,1.0,1,True,False,False,False,False,False,2.0
+Nc1nnc(-c2ccccc2O)cc1N1CCCC1,TWJZDPRYXHWSDF-UHFFFAOYSA-N,True,,agonist,False,5.58,,1.0,1,True,False,False,False,False,False,2.0
 O=S(=O)(Cc1ccccc1Cl)Nc1ccc2ncn(Cc3ccccc3)c2c1,IEYYYCQWCPBAIK-UHFFFAOYSA-N,True,,agonist,False,6.42,,1.0,1,True,False,False,False,False,False,2.0
 C=CCC1=C(C)C(OC(=O)C2C(C=C(C)C)C2(C)C)CC1=O,ZCVAOQKBXKSDMS-UHFFFAOYSA-N,True,,agonist,False,,,,2,False,False,True,False,True,False,2.0
 O=C(Cc1cccc2ccccc12)Nc1ccc2c(c1)ncn2Cc1ccccc1,AVESMQNGPHPYDW-UHFFFAOYSA-N,True,,agonist,False,6.66,,1.0,1,True,False,False,False,False,False,2.0
@@ -528,25 +528,25 @@ CC(C)Oc1cccc(NC(=O)c2ccccc2C(F)(F)F)c1,PTCGDEVVHUXTMP-UHFFFAOYSA-N,True,,agonist
 CCOP(=O)(NC(C)C)Oc1ccc(SC)c(C)c1,ZCJPOPBZHLUFHF-UHFFFAOYSA-N,True,,agonist,False,,,,2,False,False,True,False,True,False,2.0
 Cl[Si](Cl)(c1ccccc1)c1ccccc1,OSXYHAQZDCICNX-UHFFFAOYSA-N,True,,agonist,False,,,,2,False,False,True,False,True,False,2.0
 COc1ccc(C(=O)c2ccccc2)c(O)c1,DXGLGDHPHMLXJC-UHFFFAOYSA-N,True,,agonist,False,,,,2,False,False,True,False,True,False,2.0
-O=C(O)C1CCC(C(=O)N2CC[C@](c3ccc(C(OCc4c(F)cccc4Cl)(C(F)(F)F)C(F)(F)F)cc3)(S(=O)(=O)c3ccc(F)cc3)C2)CC1,XUEIXEHKBGZSHD-RNNXAFDXSA-N,True,,activator,False,6.2,,1.0,1,True,False,False,False,False,False,2.0
-O=S(=O)(c1ccc(F)cc1)C1(c2ccc(C(Oc3ccccc3)(C(F)(F)F)C(F)(F)F)cc2)CCCC1,ISZZQXCPQRACKU-UHFFFAOYSA-N,True,,activator,False,6.69,,1.0,1,True,False,False,False,False,False,2.0
-CC(=O)N1CCN(C(=O)N2CC[C@](c3ccc(C(OCc4c(F)cccc4C#N)(C(F)(F)F)C(F)(F)F)cc3)(S(=O)(=O)c3ccc(F)cc3)C2)CC1,QJQIXZIPDHUXKU-HKBQPEDESA-N,True,,activator,False,5.91,,1.0,1,True,False,False,False,False,False,2.0
-COc1ccc(C(C)C)cc1-c1ccc(C(F)(F)F)cc1CN1C(=O)O[C@H](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)[C@@H]1C,ZLMDMGVNLQHTAU-QMTYFTJSSA-N,True,,activator,False,5.58,,1.0,1,True,False,False,False,False,False,2.0
-Nc1nccc(-c2sc(C3CCCCN3)nc2-c2cccc(NS(=O)(=O)c3cc(F)ccc3F)c2F)n1,WMXXTMFNQQZVTB-UHFFFAOYSA-N,True,,activator,False,5.29,,1.0,1,True,False,False,False,False,False,2.0
-COCC(=O)N1CCC(C(=O)N2C[C@@H](c3ccc(C(O)(C(F)(F)F)C(F)(F)F)cc3)[C@@](C)(c3ccc(F)cc3)C2)CC1,WVOHMJUIXOIMSP-JYFHCDHNSA-N,True,,activator,False,5.81,,1.0,1,True,False,False,False,False,False,2.0
-C[C@]1(c2ccccc2)CN(CC(N)=O)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,NANKRNOZMVMNLJ-PKOBYXMFSA-N,True,,activator,False,6.56,,1.0,1,True,False,False,False,False,False,2.0
-CCCC(CCC)Oc1ccc(-c2ccccc2-c2nn[nH]n2)cc1NC(=O)Nc1ccc(C)cc1,GWYRYMVYQSUKAK-UHFFFAOYSA-N,True,,activator,False,6.0,,1.0,1,True,False,False,False,False,False,2.0
-O=C(N1CCOCC1)N1CC[C@](c2ccc(C(OCc3c(F)cccc3F)(C(F)(F)F)C(F)(F)F)cc2)(S(=O)(=O)c2ccc(F)cc2)C1,AVTXZSGXHMLEBX-NDEPHWFRSA-N,True,,activator,False,5.9,,1.0,1,True,False,False,False,False,False,2.0
-CC(=O)N1CCC(C)(C(=O)N2CC[C@](c3ccc(C(OCc4c(F)cccc4F)(C(F)(F)F)C(F)(F)F)cc3)(S(=O)(=O)c3ccc(F)cc3)C2)CC1,LOEKGZIWKVJYER-YTTGMZPUSA-N,True,,activator,False,6.2,,1.0,1,True,False,False,False,False,False,2.0
-COc1ccc(C2CNC(=O)OC2(C)C)cc1-c1ccc(C(F)(F)F)cc1[C@@H]1CC[C@H]2[C@@H](c3cc(C(F)(F)F)cc(C(F)(F)F)c3)OC(=O)N12,FQINKRRHMSXCFE-LKBSSSLOSA-N,True,,activator,False,5.7,,1.0,1,True,False,False,False,False,False,2.0
-COc1ccc([C@H]2CCC(=O)N[C@@H]2C)cc1-c1ccc(C(F)(F)F)cc1[C@@H]1CC[C@H]2[C@@H](c3cc(C(F)(F)F)cc(C(F)(F)F)c3)OC(=O)N12,RJAXAOZBMJAVJN-WLCDSKTPSA-N,True,,activator,False,6.52,,1.0,1,True,False,False,False,False,False,2.0
+O=C(O)C1CCC(C(=O)N2CC[C@](c3ccc(C(OCc4c(F)cccc4Cl)(C(F)(F)F)C(F)(F)F)cc3)(S(=O)(=O)c3ccc(F)cc3)C2)CC1,XUEIXEHKBGZSHD-RNNXAFDXSA-N,True,,agonist,False,6.2,,1.0,1,True,False,False,False,False,False,2.0
+O=S(=O)(c1ccc(F)cc1)C1(c2ccc(C(Oc3ccccc3)(C(F)(F)F)C(F)(F)F)cc2)CCCC1,ISZZQXCPQRACKU-UHFFFAOYSA-N,True,,agonist,False,6.69,,1.0,1,True,False,False,False,False,False,2.0
+CC(=O)N1CCN(C(=O)N2CC[C@](c3ccc(C(OCc4c(F)cccc4C#N)(C(F)(F)F)C(F)(F)F)cc3)(S(=O)(=O)c3ccc(F)cc3)C2)CC1,QJQIXZIPDHUXKU-HKBQPEDESA-N,True,,agonist,False,5.91,,1.0,1,True,False,False,False,False,False,2.0
+COc1ccc(C(C)C)cc1-c1ccc(C(F)(F)F)cc1CN1C(=O)O[C@H](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)[C@@H]1C,ZLMDMGVNLQHTAU-QMTYFTJSSA-N,True,,agonist,False,5.58,,1.0,1,True,False,False,False,False,False,2.0
+Nc1nccc(-c2sc(C3CCCCN3)nc2-c2cccc(NS(=O)(=O)c3cc(F)ccc3F)c2F)n1,WMXXTMFNQQZVTB-UHFFFAOYSA-N,True,,agonist,False,5.29,,1.0,1,True,False,False,False,False,False,2.0
+COCC(=O)N1CCC(C(=O)N2C[C@@H](c3ccc(C(O)(C(F)(F)F)C(F)(F)F)cc3)[C@@](C)(c3ccc(F)cc3)C2)CC1,WVOHMJUIXOIMSP-JYFHCDHNSA-N,True,,agonist,False,5.81,,1.0,1,True,False,False,False,False,False,2.0
+C[C@]1(c2ccccc2)CN(CC(N)=O)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,NANKRNOZMVMNLJ-PKOBYXMFSA-N,True,,agonist,False,6.56,,1.0,1,True,False,False,False,False,False,2.0
+CCCC(CCC)Oc1ccc(-c2ccccc2-c2nn[nH]n2)cc1NC(=O)Nc1ccc(C)cc1,GWYRYMVYQSUKAK-UHFFFAOYSA-N,True,,agonist,False,6.0,,1.0,1,True,False,False,False,False,False,2.0
+O=C(N1CCOCC1)N1CC[C@](c2ccc(C(OCc3c(F)cccc3F)(C(F)(F)F)C(F)(F)F)cc2)(S(=O)(=O)c2ccc(F)cc2)C1,AVTXZSGXHMLEBX-NDEPHWFRSA-N,True,,agonist,False,5.9,,1.0,1,True,False,False,False,False,False,2.0
+CC(=O)N1CCC(C)(C(=O)N2CC[C@](c3ccc(C(OCc4c(F)cccc4F)(C(F)(F)F)C(F)(F)F)cc3)(S(=O)(=O)c3ccc(F)cc3)C2)CC1,LOEKGZIWKVJYER-YTTGMZPUSA-N,True,,agonist,False,6.2,,1.0,1,True,False,False,False,False,False,2.0
+COc1ccc(C2CNC(=O)OC2(C)C)cc1-c1ccc(C(F)(F)F)cc1[C@@H]1CC[C@H]2[C@@H](c3cc(C(F)(F)F)cc(C(F)(F)F)c3)OC(=O)N12,FQINKRRHMSXCFE-LKBSSSLOSA-N,True,,agonist,False,5.7,,1.0,1,True,False,False,False,False,False,2.0
+COc1ccc([C@H]2CCC(=O)N[C@@H]2C)cc1-c1ccc(C(F)(F)F)cc1[C@@H]1CC[C@H]2[C@@H](c3cc(C(F)(F)F)cc(C(F)(F)F)c3)OC(=O)N12,RJAXAOZBMJAVJN-WLCDSKTPSA-N,True,,agonist,False,6.52,,1.0,1,True,False,False,False,False,False,2.0
 COc1cc(C)c(/C=C/C(C)=C/C=C/C(C)=C/C(=O)O)c(C)c1C,IHUNBGSDBOWDMA-AQFIFDHZSA-N,True,ACITRETIN,agonist,False,5.01,,1.0,1,True,False,False,False,False,False,2.0
 CC1CC(OC(=O)C(O)c2ccccc2)CC(C)(C)C1,WZHCOOQXZCIUNC-UHFFFAOYSA-N,True,CYCLANDELATE,agonist,False,5.28,,1.0,1,True,False,False,False,False,False,2.0
 COC(=O)C1=C(C)N=C(C)C(C(=O)OC2CCCN(Cc3ccccc3)C2)C1c1cccc([N+](=O)[O-])c1,JEEWYTNVHFSNBZ-UHFFFAOYSA-N,True,BENIDIPINE,agonist,False,6.3,,1.0,1,True,False,False,False,False,False,2.0
 C=C1/C(=C\C=C2/CCC[C@]3(C)[C@@H]([C@H](C)/C=C/[C@@H](O)C4CC4)CC[C@@H]23)C[C@@H](O)C[C@@H]1O,LWQQLNNNIPYSNX-UROSTWAQSA-N,True,CALCIPOTRIENE,agonist,False,5.17,,1.0,1,True,False,False,False,False,False,2.0
-Nc1nnc(-c2ccccc2O)cc1-c1ccccc1,SDAWPVIWTVUTCC-UHFFFAOYSA-N,True,,binding agent,False,5.36,,1.0,1,True,False,False,False,False,False,2.0
-C[C@@H]1CCCN1c1cc(-c2ccccc2O)nnc1N,CMJYPZQQLQOFCI-SNVBAGLBSA-N,True,,binding agent,False,5.37,,1.0,1,True,False,False,False,False,False,2.0
-C[C@@H]1CCCCN1c1cc(-c2ccccc2O)nnc1N,KXXHZDPNIIOTSH-LLVKDONJSA-N,True,,binding agent,False,5.7,,1.0,1,True,False,False,False,False,False,2.0
+Nc1nnc(-c2ccccc2O)cc1-c1ccccc1,SDAWPVIWTVUTCC-UHFFFAOYSA-N,True,,agonist,False,5.36,,1.0,1,True,False,False,False,False,False,2.0
+C[C@@H]1CCCN1c1cc(-c2ccccc2O)nnc1N,CMJYPZQQLQOFCI-SNVBAGLBSA-N,True,,agonist,False,5.37,,1.0,1,True,False,False,False,False,False,2.0
+C[C@@H]1CCCCN1c1cc(-c2ccccc2O)nnc1N,KXXHZDPNIIOTSH-LLVKDONJSA-N,True,,agonist,False,5.7,,1.0,1,True,False,False,False,False,False,2.0
 CC1CC=C(c2cc(C(N)=O)nc3cc(Cn4c(O)ccc4O)ccc23)CC1,ZVCKONNBMCFAOM-UHFFFAOYSA-N,True,,agonist,False,6.22,,1.0,1,True,False,False,False,False,False,2.0
 NC(=O)c1cc(-c2ccc(F)cc2)c2ccc(CN3CCOC3=O)cc2n1,DXXJDGIZZRMJON-UHFFFAOYSA-N,True,,agonist,False,5.01,,1.0,1,True,False,False,False,False,False,2.0
 O=C(C1CC(F)(F)C1)N(CC12CCC(c3nc(C4CC4)no3)(CC1)CC2)c1cccc(-c2nc(C3CC3)no2)c1,VPTBPTRJTATCBB-UHFFFAOYSA-N,True,,agonist,False,6.0,,1.0,1,True,False,False,False,False,False,2.0
@@ -556,11 +556,11 @@ O=C(C1CCC(F)(F)CC1)N(CC12CCC(c3nc(C4CC4)no3)(CC1)CC2)c1cccc(-c2nc(C3CC3)no2)c1,S
 CC(C)(C(=O)N1CCOCC1)c1ccc2c(-c3ccc(F)cc3)cc(C(N)=O)nc2c1,YWXCRRUERVFVAY-UHFFFAOYSA-N,True,,agonist,False,6.52,,1.0,1,True,False,False,False,False,False,2.0
 CC(=O)CC(c1ccc([N+](=O)[O-])cc1)c1c(O)c2ccccc2oc1=O,VABCILAOYCMVPS-UHFFFAOYSA-N,True,ACENOCOUMAROL,agonist,False,5.1,,1.0,1,True,False,False,False,False,False,2.0
 C[C@H]1CCCN1c1cc(-c2ccccc2O)nnc1N,CMJYPZQQLQOFCI-JTQLQIEISA-N,True,,agonist,False,6.22,,1.0,1,True,False,False,False,False,False,2.0
-COc1cc(F)c(C(C)C)cc1-c1ccc(C(F)(F)F)cc1CN1C(=O)O[C@H](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)[C@@H]1C,MZZLGJHLQGUVPN-HAWMADMCSA-N,True,ANACETRAPIB,activator,False,5.41,,1.0,1,True,False,False,False,False,False,2.0
+COc1cc(F)c(C(C)C)cc1-c1ccc(C(F)(F)F)cc1CN1C(=O)O[C@H](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)[C@@H]1C,MZZLGJHLQGUVPN-HAWMADMCSA-N,True,ANACETRAPIB,agonist,False,5.41,,1.0,1,True,False,False,False,False,False,2.0
 CN(C)C1C(=O)C(C(N)=O)C(=O)[C@@]2(O)C(=O)C3C(=O)c4c(O)ccc(Cl)c4[C@@H](O)[C@H]3C[C@@H]12,JHOHXJYRVSLQCB-AXDJKGOZSA-N,True,DEMECLOCYCLINE,agonist,False,5.29,,1.0,1,True,False,False,False,False,False,2.0
 C#C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CCCC[C@@H]4[C@H]3C(=C)C[C@@]21CC,RPLCPCMSCLEKRS-BPIQYHPVSA-N,True,DESOGESTREL,agonist,False,5.62,,1.0,1,True,False,False,False,False,False,2.0
-C[C@@]1(c2ccc(C(O)(C(F)(F)F)C(F)(F)F)cc2)CN(C(=O)NCc2ccccc2)C[C@@H]1c1ccccc1,XBTSCCZZJWSYDU-NOZRDPDXSA-N,True,,activator,False,7.22,,1.0,1,True,False,False,False,False,False,2.0
-O=S(=O)(c1ccc(F)cc1)C1(c2ccc(C(OCc3ccccc3-c3ccccc3)(C(F)(F)F)C(F)(F)F)cc2)CCCC1,LFDKDSDZUDCKSM-UHFFFAOYSA-N,True,,activator,False,5.84,,1.0,1,True,False,False,False,False,False,2.0
+C[C@@]1(c2ccc(C(O)(C(F)(F)F)C(F)(F)F)cc2)CN(C(=O)NCc2ccccc2)C[C@@H]1c1ccccc1,XBTSCCZZJWSYDU-NOZRDPDXSA-N,True,,agonist,False,7.22,,1.0,1,True,False,False,False,False,False,2.0
+O=S(=O)(c1ccc(F)cc1)C1(c2ccc(C(OCc3ccccc3-c3ccccc3)(C(F)(F)F)C(F)(F)F)cc2)CCCC1,LFDKDSDZUDCKSM-UHFFFAOYSA-N,True,,agonist,False,5.84,,1.0,1,True,False,False,False,False,False,2.0
 C=C1/C(=C\C=C2/CCC[C@]3(C)[C@@H]([C@H](C)CCCC(C)(C)O)CC[C@@H]23)C[C@@H](O)C[C@@H]1O,GMRQFYUYWCNGIN-NKMMMXOESA-N,True,CALCITRIOL,agonist,False,5.25,,1.0,1,True,False,False,False,False,False,2.0
 O=C(Cc1cccs1)NC1C(=O)N2C(C(=O)[O-])=C(C[n+]3ccccc3)CS[C@H]12,CZTQZXZIADLWOZ-KPMSDPLLSA-N,True,CEPHALORIDINE,agonist,False,5.5,,1.0,1,True,False,False,False,False,False,2.0
 N=C(N=C(N)NCCCCCCN=C(N)N=C(N)Nc1ccc(Cl)cc1)Nc1ccc(Cl)cc1,GHXZTYHSJHQHIJ-UHFFFAOYSA-N,True,CHLORHEXIDINE,agonist,False,5.43,,1.0,1,True,False,False,False,False,False,2.0
@@ -571,11 +571,11 @@ CN(C)C(=O)C(C)(C)c1ccc2c(-c3ccc(F)cc3)cc(C(N)=O)nc2c1,LHDAQCXAFSYLBX-UHFFFAOYSA-
 CC1CCN(c2cc(C(N)=O)nc3cc(Cn4c(O)ccc4O)ccc23)CC1,NWSXVYGSLBMXOW-UHFFFAOYSA-N,True,,agonist,False,6.0,,1.0,1,True,False,False,False,False,False,2.0
 CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(OC)cc(OC)c2)c1C,YDTNPHOPUDFLPG-UHFFFAOYSA-N,True,,agonist,False,5.55,,1.0,1,True,False,False,False,False,False,2.0
 O=C(N(CC12CCC(c3nc(C4CC4)no3)(CC1)CC2)c1cccc(-c2nc(C3CC3)no2)c1)C12CC(F)(C1)C2,KBCDUZMEWHIYNA-UHFFFAOYSA-N,True,,agonist,False,6.0,,1.0,1,True,False,False,False,False,False,2.0
-CCOc1ccccc1C(=O)Nc1cccc2c1C(=O)N(CC1CC1)C2,YEMYWLCJYMQDOO-UHFFFAOYSA-N,True,,activator,False,5.37,,1.0,1,True,False,False,False,False,False,2.0
+CCOc1ccccc1C(=O)Nc1cccc2c1C(=O)N(CC1CC1)C2,YEMYWLCJYMQDOO-UHFFFAOYSA-N,True,,agonist,False,5.37,,1.0,1,True,False,False,False,False,False,2.0
 O=C(O)CC[C@H]1CN(S(=O)(=O)c2cccc(C(F)(F)F)c2)c2cc(/C=C/c3c(Cl)cccc3C(F)(F)F)ccc2O1,HNQAJIBKSKZNTO-HKMNZKMDSA-N,True,,agonist,False,5.7,,1.0,1,True,False,False,False,False,False,2.0
 CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2ccc3c(c2)OCO3)c1C,MWEQXZQIWDSMRM-UHFFFAOYSA-N,True,,agonist,False,5.34,,1.0,1,True,False,False,False,False,False,2.0
 Cn1cc(-c2cc(C(N)=O)nc3cc(CN4CCOC(C5CC5)C4)ccc23)cn1,VBWOWLBZUMVGMN-UHFFFAOYSA-N,True,,agonist,False,5.77,,1.0,1,True,False,False,False,False,False,2.0
-O=S(=O)(c1ccc(F)cc1)C1(c2ccc(C(OCc3ccccc3F)(C(F)(F)F)C(F)(F)F)cc2)CCCC1,NQUHJTKYAOJHDD-UHFFFAOYSA-N,True,,activator,False,6.2,,1.0,1,True,False,False,False,False,False,2.0
+O=S(=O)(c1ccc(F)cc1)C1(c2ccc(C(OCc3ccccc3F)(C(F)(F)F)C(F)(F)F)cc2)CCCC1,NQUHJTKYAOJHDD-UHFFFAOYSA-N,True,,agonist,False,6.2,,1.0,1,True,False,False,False,False,False,2.0
 NC(=O)c1cc(-c2ccc(F)cc2)c2ccc(CN3CCNC(C(F)(F)F)C3)cc2n1,ZUPFJKSJZHRSRX-UHFFFAOYSA-N,True,,agonist,False,5.15,,1.0,1,True,False,False,False,False,False,2.0
 NC(=O)c1cc(N2CCOCC2)c2ccc(Cn3c(O)ccc3O)cc2n1,JLDGBWMIDVZPSF-UHFFFAOYSA-N,True,,agonist,False,5.55,,1.0,1,True,False,False,False,False,False,2.0
 C[C@H]1CCCCN1c1cc(-c2ccco2)nnc1N,MUWVADGBLNVINA-JTQLQIEISA-N,True,,agonist,False,5.22,,1.0,1,True,False,False,False,False,False,2.0
@@ -583,9 +583,9 @@ NC(=O)c1cc(-c2ccc(F)cc2)c2ccc(C(N3CCOCC3)C(F)(F)F)cc2n1,CUWWHLOAEJYJHX-UHFFFAOYS
 C/C(=C\c1ccc2c(c1)N(S(=O)(=O)c1ccc(F)c(C3CC3)c1)C[C@H](CCC(=O)O)O2)c1c(F)cccc1Cl,GWWYZVGKIYDKCQ-NXNYUAIASA-N,True,,agonist,False,5.17,,1.0,1,True,False,False,False,False,False,2.0
 CC(C)(C)c1nc(C23CCC(CN(C(=O)C45CC(F)(C4)C5)c4cccc(-c5nnc(C6CC6)o5)c4)(CC2)CC3)no1,XUWUKXRBHHAXLU-UHFFFAOYSA-N,True,,agonist,False,5.22,,1.0,1,True,False,False,False,False,False,2.0
 C/C(=C\c1ccc2c(c1)N(S(=O)(=O)c1cccc(OC(F)F)c1)C[C@H](CCC(=O)O)O2)c1c(F)cccc1Cl,XAXBTANDFXVVTI-BAILOTOSSA-N,True,,agonist,False,5.04,,1.0,1,True,False,False,False,False,False,2.0
-CC(=O)N1CCC(C(=O)N2C[C@@H](c3ccc(C(O)(C(F)(F)F)C(F)(F)F)cc3)[C@@](C)(c3ccc(F)cc3)C2)CC1,PLEBLNIHUKCNPF-UKILVPOCSA-N,True,,activator,False,5.97,,1.0,1,True,False,False,False,False,False,2.0
-C[C@]1(c2ccccc2)CN(C(=O)NCc2ccccc2)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,MUPBMBQMORRYNG-UKILVPOCSA-N,True,,activator,False,6.36,,1.0,1,True,False,False,False,False,False,2.0
-Cc1nnc(-c2ccc(-c3c(F)c(F)cc4c3C(=O)N([C@H](C3CC3)C(C)(C)O)C4)cc2)o1,HLDSVIVRBPWSEZ-OAQYLSRUSA-N,True,,activator,False,5.21,,1.0,1,True,False,False,False,False,False,2.0
+CC(=O)N1CCC(C(=O)N2C[C@@H](c3ccc(C(O)(C(F)(F)F)C(F)(F)F)cc3)[C@@](C)(c3ccc(F)cc3)C2)CC1,PLEBLNIHUKCNPF-UKILVPOCSA-N,True,,agonist,False,5.97,,1.0,1,True,False,False,False,False,False,2.0
+C[C@]1(c2ccccc2)CN(C(=O)NCc2ccccc2)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,MUPBMBQMORRYNG-UKILVPOCSA-N,True,,agonist,False,6.36,,1.0,1,True,False,False,False,False,False,2.0
+Cc1nnc(-c2ccc(-c3c(F)c(F)cc4c3C(=O)N([C@H](C3CC3)C(C)(C)O)C4)cc2)o1,HLDSVIVRBPWSEZ-OAQYLSRUSA-N,True,,agonist,False,5.21,,1.0,1,True,False,False,False,False,False,2.0
 CCOc1ncc(-c2cccc(N(CC34CCC(c5noc(C(F)F)n5)(CC3)CC4)C(=O)C34CC(F)(C3)C4)c2)cn1,PYINNISTIKTCGH-UHFFFAOYSA-N,True,,agonist,False,5.7,,1.0,1,True,False,False,False,False,False,2.0
 COC(=O)CC1CN(S(=O)(=O)c2ccc(F)cc2)c2ccc(C(O)(C(F)(F)F)C(F)(F)F)cc2S1,XSVGKHXBWUUWFX-UHFFFAOYSA-N,True,,agonist,False,7.26,,1.0,1,True,False,False,False,False,False,2.0
 [2H]C([2H])([2H])N(C(=O)c1c(F)cccc1Cl)c1ccc(-c2cc(NC(C)=O)nn2CC2CC2)cc1N1CC2CC2C1,OLKVAPHBBJHGSH-BMSJAHLVSA-N,True,,agonist,False,5.06,,1.0,1,True,False,False,False,False,False,2.0
@@ -663,7 +663,7 @@ CC(C)(C)NC(=O)Cn1c(-c2ccccc2)cc2cc(C(C)(C)C(=O)NC(C)(C)C)ccc21,PFOCNQRWWASAAD-UH
 CC(C)(O)CNC(=O)C[C@H]1CN(S(=O)(=O)c2ccc(F)cc2)c2ccc(C(O)(C(F)(F)F)C(F)(F)F)cc2S1,XUCORPNQMQOUMD-HNNXBMFYSA-N,True,,agonist,False,6.84,,1.0,1,True,False,False,False,False,False,2.0
 CS(=O)(=O)c1ccc(C(=O)N2CCC(N(C3CC3)S(=O)(=O)c3cccc(C(F)(F)F)c3)CC2)c(OC(F)(F)F)c1,XCYNNWRVYVTSDT-UHFFFAOYSA-N,True,,agonist,False,5.77,,1.0,1,True,False,False,False,False,False,2.0
 Cc1c(C)c(C)c(S(=O)(=O)Nc2ccc3c(c2)ncn3Cc2ccccc2)c(C)c1C,IRGZMWLWLHSDHZ-UHFFFAOYSA-N,True,,agonist,False,9.15,,1.0,1,True,False,False,False,False,False,2.0
-CCCOCCN(C(=O)CCl)c1c(CC)cccc1CC,YLPGTOIOYRQOHV-UHFFFAOYSA-N,True,PRETILACHLOR,activator,False,6.31,,1.0,1,True,False,False,False,False,False,2.0
+CCCOCCN(C(=O)CCl)c1c(CC)cccc1CC,YLPGTOIOYRQOHV-UHFFFAOYSA-N,True,PRETILACHLOR,agonist,False,6.31,,1.0,1,True,False,False,False,False,False,2.0
 CC(C)[C@@H](C)/C=C/[C@@H](C)[C@H]1CC[C@H]2/C(=C/C=C3\C[C@@H](O)CC[C@@H]3C)CCC[C@]12C,ILYCWAKSDCYMBB-OPCMSESCSA-N,True,DIHYDROTACHYSTEROL,agonist,False,5.21,,1.0,1,True,False,False,False,False,False,2.0
 Cc1cnc(Nc2ccc(OCCN3CCCC3)cc2)nc1Nc1cccc(S(=O)(=O)NC(C)(C)C)c1,JOOXLOJCABQBSG-UHFFFAOYSA-N,True,FEDRATINIB,agonist,False,5.05,,1.0,1,True,False,False,False,False,False,2.0
 COc1cc(-c2cccnc2)ccc1-c1nnc(C2(c3ccc(Cl)cc3)CCC2)n1C,RBGKTPBXYABVOH-UHFFFAOYSA-N,True,,agonist,False,5.34,,1.0,1,True,False,False,False,False,False,2.0
@@ -706,35 +706,35 @@ CS(=O)(=O)c1cc(C#N)ccc1C(=O)N1CCC(N(C2CC2)S(=O)(=O)c2cccc(C(F)(F)F)c2)CC1,AVZOEQ
 Cn1c(-c2ccc(-c3ccccc3)cc2)nnc1C1(c2ccc(Cl)cc2)CCC1,UXOKGMBZBAXMDM-UHFFFAOYSA-N,True,,agonist,False,5.77,,1.0,1,True,False,False,False,False,False,2.0
 COc1ccc2c(c1)C1CC1(C(=O)N1C3CCC1CN(C)C3)Cn1c-2c(C2CCCCC2)c2ccc(C(=O)NS(=O)(=O)N(C)C)cc21,ZTTKEBYSXUCBSE-UHFFFAOYSA-N,True,,agonist,False,6.0,,1.0,1,True,False,False,False,False,False,2.0
 COCCN(c1ccc([Si](C)(C)O)cc1)S(=O)(=O)c1ccccc1,QLFYITAUDVXXCJ-UHFFFAOYSA-N,True,,agonist,False,5.38,,1.0,1,True,False,False,False,False,False,2.0
-C[C@]1(c2ccc(F)cc2)CN(C(=O)C2CCN(C(=O)C(N)=O)CC2)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,CHCJZXNIBIVOCD-SQJMNOBHSA-N,True,,activator,False,6.0,,1.0,1,True,False,False,False,False,False,2.0
-Cc1nnc(-c2ccc(-c3c(F)ccc4c3C(=O)N([C@H](C3CC3)C(C)(C)O)C4)cc2)o1,FYLTWYACRCCBDC-OAQYLSRUSA-N,True,,activator,False,5.28,,1.0,1,True,False,False,False,False,False,2.0
-Nc1nccc(-c2sc(C3CCN(C4CC4)CC3)nc2-c2cccc(NS(=O)(=O)c3cc(F)ccc3F)c2F)n1,GQNWRWISEOKRCC-UHFFFAOYSA-N,True,,activator,False,5.21,,1.0,1,True,False,False,False,False,False,2.0
-Cc1ccccc1COC(c1ccc(C2(S(=O)(=O)c3ccc(F)cc3)CCCC2)cc1)(C(F)(F)F)C(F)(F)F,JQRLHKYSZJBRMY-UHFFFAOYSA-N,True,,activator,False,5.63,,1.0,1,True,False,False,False,False,False,2.0
-O=S(=O)(c1ccc(F)cc1)C1(c2ccc(C(OCc3ccccc3Cl)(C(F)(F)F)C(F)(F)F)cc2)CCCC1,DOYKDSRUMLFCCJ-UHFFFAOYSA-N,True,,activator,False,6.33,,1.0,1,True,False,False,False,False,False,2.0
-O=S(=O)(c1ccc(F)cc1)C1(c2ccc(C(OCc3ccccc3)(C(F)(F)F)C(F)(F)F)cc2)CCCC1,QGTKIIILYWEZDX-UHFFFAOYSA-N,True,,activator,False,6.11,,1.0,1,True,False,False,False,False,False,2.0
-CC(C)c1cc(-c2ccc(C(F)(F)F)cc2CN2C(=O)O[C@H](c3cc(C(F)(F)F)cc(C(F)(F)F)c3)[C@@H]2C)c(Cl)cc1F,RIYNILFKRCWZEO-SXBQZSJRSA-N,True,,activator,False,5.12,,1.0,1,True,False,False,False,False,False,2.0
+C[C@]1(c2ccc(F)cc2)CN(C(=O)C2CCN(C(=O)C(N)=O)CC2)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,CHCJZXNIBIVOCD-SQJMNOBHSA-N,True,,agonist,False,6.0,,1.0,1,True,False,False,False,False,False,2.0
+Cc1nnc(-c2ccc(-c3c(F)ccc4c3C(=O)N([C@H](C3CC3)C(C)(C)O)C4)cc2)o1,FYLTWYACRCCBDC-OAQYLSRUSA-N,True,,agonist,False,5.28,,1.0,1,True,False,False,False,False,False,2.0
+Nc1nccc(-c2sc(C3CCN(C4CC4)CC3)nc2-c2cccc(NS(=O)(=O)c3cc(F)ccc3F)c2F)n1,GQNWRWISEOKRCC-UHFFFAOYSA-N,True,,agonist,False,5.21,,1.0,1,True,False,False,False,False,False,2.0
+Cc1ccccc1COC(c1ccc(C2(S(=O)(=O)c3ccc(F)cc3)CCCC2)cc1)(C(F)(F)F)C(F)(F)F,JQRLHKYSZJBRMY-UHFFFAOYSA-N,True,,agonist,False,5.63,,1.0,1,True,False,False,False,False,False,2.0
+O=S(=O)(c1ccc(F)cc1)C1(c2ccc(C(OCc3ccccc3Cl)(C(F)(F)F)C(F)(F)F)cc2)CCCC1,DOYKDSRUMLFCCJ-UHFFFAOYSA-N,True,,agonist,False,6.33,,1.0,1,True,False,False,False,False,False,2.0
+O=S(=O)(c1ccc(F)cc1)C1(c2ccc(C(OCc3ccccc3)(C(F)(F)F)C(F)(F)F)cc2)CCCC1,QGTKIIILYWEZDX-UHFFFAOYSA-N,True,,agonist,False,6.11,,1.0,1,True,False,False,False,False,False,2.0
+CC(C)c1cc(-c2ccc(C(F)(F)F)cc2CN2C(=O)O[C@H](c3cc(C(F)(F)F)cc(C(F)(F)F)c3)[C@@H]2C)c(Cl)cc1F,RIYNILFKRCWZEO-SXBQZSJRSA-N,True,,agonist,False,5.12,,1.0,1,True,False,False,False,False,False,2.0
 Clc1cc(Cl)c(OCC#CI)cc1Cl,CTETYYAZBPJBHE-UHFFFAOYSA-N,True,HALOPROGIN,agonist,False,5.0,,1.0,1,True,False,False,False,False,False,2.0
 CC1(C)S[C@@H]2C(N3C(=O)C(c4ccccc4)NC3(C)C)C(=O)N2C1C(=O)O,DXVUYOAEDJXBPY-WHUXOIGISA-N,True,HETACILLIN POTASSIUM,agonist,False,5.2,,1.0,1,True,False,False,False,False,False,2.0
-Cc1nnc(-c2ccc(-c3c(F)cc(F)c4c3C(=O)N([C@H](C3CC3)C(C)(C)O)C4)cc2)o1,CJTHFXREMNVLPK-OAQYLSRUSA-N,True,,activator,False,5.34,,1.0,1,True,False,False,False,False,False,2.0
-Cc1nnc(-c2ccc(-c3ccc(F)c4c3C(=O)N([C@H](C3CC3)C(C)(C)O)C4)cc2)o1,DKSHULYLMFGNSX-OAQYLSRUSA-N,True,,activator,False,5.05,,1.0,1,True,False,False,False,False,False,2.0
-C=CC1(C=C)Oc2c(NC(=O)Nc3ccc(C)cc3)cc(-c3ccccc3-c3nn[nH]n3)cc2[C@@H]1c1ccccc1,ZHVHMEOMIDRYBQ-LJAQVGFWSA-N,True,,activator,False,5.15,,1.0,1,True,False,False,False,False,False,2.0
-CC(C)(C)c1nc(-c2cc(Cl)cc(NS(=O)(=O)c3cc(F)ccc3F)c2F)c(-c2ccnc(N)n2)s1,XSCPRDRGAAQQDB-UHFFFAOYSA-N,True,,activator,False,7.09,,1.0,1,True,False,False,False,False,False,2.0
-COc1ccc(CNC(=O)N2C[C@@H](c3ccc(C(O)(C(F)(F)F)C(F)(F)F)cc3)[C@@](C)(c3ccc(F)cc3)C2)cc1,ZJWOHCMGUADUFY-AZGAKELHSA-N,True,,activator,False,6.72,,1.0,1,True,False,False,False,False,False,2.0
-C[C@]1(c2ccc(F)cc2)CN(C(=O)NCc2ccncc2)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,SJVMHDPAJABFAS-LADGPHEKSA-N,True,,activator,False,6.22,,1.0,1,True,False,False,False,False,False,2.0
-Nc1nccc(-c2sc(C3CCCN3)nc2-c2cccc(NS(=O)(=O)c3cc(F)ccc3F)c2F)n1,YFTCMSQTEOCRBN-UHFFFAOYSA-N,True,,activator,False,5.01,,1.0,1,True,False,False,False,False,False,2.0
-Nc1nccc(-c2sc(C3COCCN3)nc2-c2cc(Cl)cc(NS(=O)(=O)c3cc(F)ccc3F)c2F)n1,OZNNKHBCZMWGHG-UHFFFAOYSA-N,True,,activator,False,5.64,,1.0,1,True,False,False,False,False,False,2.0
-C[C@]1(c2ccc(F)cc2)CN(C(=O)C2CCN(S(C)(=O)=O)CC2)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,ALFCHQITUJBNBS-LADGPHEKSA-N,True,,activator,False,6.82,,1.0,1,True,False,False,False,False,False,2.0
-C[C@]1(c2ccccc2)CN(S(C)(=O)=O)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,QEFHNUQIMHPUHY-ZWKOTPCHSA-N,True,,activator,False,6.59,,1.0,1,True,False,False,False,False,False,2.0
-Cc1cccc(F)c1COC(c1ccc([C@]2(S(=O)(=O)c3ccc(F)cc3)CCN(C(=O)C3CCC(C(=O)O)CC3)C2)cc1)(C(F)(F)F)C(F)(F)F,AEIAAWBDOUMTLX-KHZVSIKASA-N,True,,activator,False,5.32,,1.0,1,True,False,False,False,False,False,2.0
-C=CCOC(c1ccc(C2(S(=O)(=O)c3ccc(F)cc3)CCCC2)cc1)(C(F)(F)F)C(F)(F)F,MBRBOTNFDXVHHT-UHFFFAOYSA-N,True,,activator,False,6.43,,1.0,1,True,False,False,False,False,False,2.0
-Cc1ccc(NC(=O)Nc2cc(-c3ccccc3-c3nn[nH]n3)ccc2OC(C(C)C)C(C)C)cc1,CAKPSXBSEIXTPN-UHFFFAOYSA-N,True,,activator,False,5.92,,1.0,1,True,False,False,False,False,False,2.0
-C[C@]1(c2ccc(F)cc2)CN(C(=O)NCc2ccc(C#N)cc2)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,IXYVFFSLTDHRCY-AZGAKELHSA-N,True,,activator,False,6.64,,1.0,1,True,False,False,False,False,False,2.0
-N#Cc1ccccc1COC(c1ccc(C2(S(=O)(=O)c3ccc(F)cc3)CCCC2)cc1)(C(F)(F)F)C(F)(F)F,SXDNMIOVAAUQPF-UHFFFAOYSA-N,True,,activator,False,6.52,,1.0,1,True,False,False,False,False,False,2.0
-O=C1OC[C@@H]2[C@H](CO1)[C@@]1(Cl)C(Cl)=C(Cl)[C@]2(Cl)C1(Cl)Cl,PCQPCWBRPMEHIT-MYHJAMFRSA-N,True,,activator,False,5.15,,1.0,1,True,False,False,False,False,False,2.0
-C[C@@]1(c2ccc(F)cc2)CN(C(=O)NCc2ccccc2)C[C@@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,VZZQWPNMECGJBM-NOZRDPDXSA-N,True,,activator,False,6.33,,1.0,1,True,False,False,False,False,False,2.0
-C[C@]1(c2ccccc2)CN(Cc2ccccc2)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,AKLFLVCBPUPSAL-BJKOFHAPSA-N,True,,activator,False,6.49,,1.0,1,True,False,False,False,False,False,2.0
-CCNC(=O)N1C[C@@H](c2ccc(C(O)(C(F)(F)F)C(F)(F)F)cc2)[C@@](C)(c2ccccc2)C1,LBTVYXPRSQYQBA-AZUAARDMSA-N,True,,activator,False,5.75,,1.0,1,True,False,False,False,False,False,2.0
-C[C@]1(c2ccccc2)CN(C(=O)c2ccccc2)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,QGXLQHDKLPYLDY-LADGPHEKSA-N,True,,activator,False,6.13,,1.0,1,True,False,False,False,False,False,2.0
+Cc1nnc(-c2ccc(-c3c(F)cc(F)c4c3C(=O)N([C@H](C3CC3)C(C)(C)O)C4)cc2)o1,CJTHFXREMNVLPK-OAQYLSRUSA-N,True,,agonist,False,5.34,,1.0,1,True,False,False,False,False,False,2.0
+Cc1nnc(-c2ccc(-c3ccc(F)c4c3C(=O)N([C@H](C3CC3)C(C)(C)O)C4)cc2)o1,DKSHULYLMFGNSX-OAQYLSRUSA-N,True,,agonist,False,5.05,,1.0,1,True,False,False,False,False,False,2.0
+C=CC1(C=C)Oc2c(NC(=O)Nc3ccc(C)cc3)cc(-c3ccccc3-c3nn[nH]n3)cc2[C@@H]1c1ccccc1,ZHVHMEOMIDRYBQ-LJAQVGFWSA-N,True,,agonist,False,5.15,,1.0,1,True,False,False,False,False,False,2.0
+CC(C)(C)c1nc(-c2cc(Cl)cc(NS(=O)(=O)c3cc(F)ccc3F)c2F)c(-c2ccnc(N)n2)s1,XSCPRDRGAAQQDB-UHFFFAOYSA-N,True,,agonist,False,7.09,,1.0,1,True,False,False,False,False,False,2.0
+COc1ccc(CNC(=O)N2C[C@@H](c3ccc(C(O)(C(F)(F)F)C(F)(F)F)cc3)[C@@](C)(c3ccc(F)cc3)C2)cc1,ZJWOHCMGUADUFY-AZGAKELHSA-N,True,,agonist,False,6.72,,1.0,1,True,False,False,False,False,False,2.0
+C[C@]1(c2ccc(F)cc2)CN(C(=O)NCc2ccncc2)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,SJVMHDPAJABFAS-LADGPHEKSA-N,True,,agonist,False,6.22,,1.0,1,True,False,False,False,False,False,2.0
+Nc1nccc(-c2sc(C3CCCN3)nc2-c2cccc(NS(=O)(=O)c3cc(F)ccc3F)c2F)n1,YFTCMSQTEOCRBN-UHFFFAOYSA-N,True,,agonist,False,5.01,,1.0,1,True,False,False,False,False,False,2.0
+Nc1nccc(-c2sc(C3COCCN3)nc2-c2cc(Cl)cc(NS(=O)(=O)c3cc(F)ccc3F)c2F)n1,OZNNKHBCZMWGHG-UHFFFAOYSA-N,True,,agonist,False,5.64,,1.0,1,True,False,False,False,False,False,2.0
+C[C@]1(c2ccc(F)cc2)CN(C(=O)C2CCN(S(C)(=O)=O)CC2)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,ALFCHQITUJBNBS-LADGPHEKSA-N,True,,agonist,False,6.82,,1.0,1,True,False,False,False,False,False,2.0
+C[C@]1(c2ccccc2)CN(S(C)(=O)=O)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,QEFHNUQIMHPUHY-ZWKOTPCHSA-N,True,,agonist,False,6.59,,1.0,1,True,False,False,False,False,False,2.0
+Cc1cccc(F)c1COC(c1ccc([C@]2(S(=O)(=O)c3ccc(F)cc3)CCN(C(=O)C3CCC(C(=O)O)CC3)C2)cc1)(C(F)(F)F)C(F)(F)F,AEIAAWBDOUMTLX-KHZVSIKASA-N,True,,agonist,False,5.32,,1.0,1,True,False,False,False,False,False,2.0
+C=CCOC(c1ccc(C2(S(=O)(=O)c3ccc(F)cc3)CCCC2)cc1)(C(F)(F)F)C(F)(F)F,MBRBOTNFDXVHHT-UHFFFAOYSA-N,True,,agonist,False,6.43,,1.0,1,True,False,False,False,False,False,2.0
+Cc1ccc(NC(=O)Nc2cc(-c3ccccc3-c3nn[nH]n3)ccc2OC(C(C)C)C(C)C)cc1,CAKPSXBSEIXTPN-UHFFFAOYSA-N,True,,agonist,False,5.92,,1.0,1,True,False,False,False,False,False,2.0
+C[C@]1(c2ccc(F)cc2)CN(C(=O)NCc2ccc(C#N)cc2)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,IXYVFFSLTDHRCY-AZGAKELHSA-N,True,,agonist,False,6.64,,1.0,1,True,False,False,False,False,False,2.0
+N#Cc1ccccc1COC(c1ccc(C2(S(=O)(=O)c3ccc(F)cc3)CCCC2)cc1)(C(F)(F)F)C(F)(F)F,SXDNMIOVAAUQPF-UHFFFAOYSA-N,True,,agonist,False,6.52,,1.0,1,True,False,False,False,False,False,2.0
+O=C1OC[C@@H]2[C@H](CO1)[C@@]1(Cl)C(Cl)=C(Cl)[C@]2(Cl)C1(Cl)Cl,PCQPCWBRPMEHIT-MYHJAMFRSA-N,True,,agonist,False,5.15,,1.0,1,True,False,False,False,False,False,2.0
+C[C@@]1(c2ccc(F)cc2)CN(C(=O)NCc2ccccc2)C[C@@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,VZZQWPNMECGJBM-NOZRDPDXSA-N,True,,agonist,False,6.33,,1.0,1,True,False,False,False,False,False,2.0
+C[C@]1(c2ccccc2)CN(Cc2ccccc2)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,AKLFLVCBPUPSAL-BJKOFHAPSA-N,True,,agonist,False,6.49,,1.0,1,True,False,False,False,False,False,2.0
+CCNC(=O)N1C[C@@H](c2ccc(C(O)(C(F)(F)F)C(F)(F)F)cc2)[C@@](C)(c2ccccc2)C1,LBTVYXPRSQYQBA-AZUAARDMSA-N,True,,agonist,False,5.75,,1.0,1,True,False,False,False,False,False,2.0
+C[C@]1(c2ccccc2)CN(C(=O)c2ccccc2)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,QGXLQHDKLPYLDY-LADGPHEKSA-N,True,,agonist,False,6.13,,1.0,1,True,False,False,False,False,False,2.0
 CC(O)(c1ccc(C2(S(=O)(=O)c3ccc(F)cc3)CCCC2)cc1)C(F)(F)F,RWBSXNHLRLVENO-UHFFFAOYSA-N,True,,agonist,False,6.62,,1.0,1,True,False,False,False,False,False,2.0
 CS(=O)(=O)c1cc(C(F)(F)F)ccc1C(=O)N1CCC(N(C2CC2)S(=O)(=O)c2cccc(C(F)(F)F)c2)CC1,AVADRYZARZLOBJ-UHFFFAOYSA-N,True,,agonist,False,5.37,,1.0,1,True,False,False,False,False,False,2.0
 Cn1c(-c2ccc(-n3ccnc3C(F)(F)F)cc2Cl)nnc1C1(c2ccc(Cl)cc2)CCC1,IUBGICNCLXPBGO-UHFFFAOYSA-N,True,,agonist,False,5.5,,1.0,1,True,False,False,False,False,False,2.0
@@ -748,23 +748,23 @@ Cn1c(-c2ccc(-c3ccncc3)cc2Cl)nnc1C1(c2ccc(Cl)cc2)CCC1,LXGZRMOAZHRDOH-UHFFFAOYSA-N
 CC1(C)CCN(S(=O)(=O)c2ccc(F)cc2)c2ccc(C(O)(C(F)(F)F)C(F)(F)F)cc21,IFPBFPWEKKDYCO-UHFFFAOYSA-N,True,,agonist,False,7.44,,1.0,1,True,False,False,False,False,False,2.0
 CC(C)c1ccc(S(=O)(=O)N2Cc3ccc(C(F)(F)F)nc3Nc3cccc(-c4noc(C(C)(C)O)n4)c32)cc1,HIXSHJGNHTVZHI-UHFFFAOYSA-N,True,,agonist,False,5.62,,1.0,1,True,False,False,False,False,False,2.0
 CCCc1ccc(S(=O)(=O)Nc2ccc3c(c2)ncn3Cc2ccccc2)cc1,OGYXCETZULPTMO-UHFFFAOYSA-N,True,,agonist,False,7.28,,1.0,1,True,False,False,False,False,False,2.0
-C[C@]1(c2ccc(F)cc2)CN(C(=O)C2CCN(C(=O)CC#N)CC2)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,JACZDQDBHYAEIU-JYFHCDHNSA-N,True,,activator,False,6.3,,1.0,1,True,False,False,False,False,False,2.0
-CC[C@]1(c2ccccc2)CN(C(=O)NCc2ccccc2)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,FIBSAWBZGJQYNR-AZGAKELHSA-N,True,,activator,False,6.69,,1.0,1,True,False,False,False,False,False,2.0
-CCS(=O)(=O)c1ccc(CNC(=O)N2C[C@@H](c3ccc(C(O)(C(F)(F)F)C(F)(F)F)cc3)[C@@](C)(c3ccc(F)cc3)C2)cc1,IBNDCXHHUIUCTG-AHKZPQOWSA-N,True,,activator,False,8.3,,1.0,1,True,False,False,False,False,False,2.0
+C[C@]1(c2ccc(F)cc2)CN(C(=O)C2CCN(C(=O)CC#N)CC2)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,JACZDQDBHYAEIU-JYFHCDHNSA-N,True,,agonist,False,6.3,,1.0,1,True,False,False,False,False,False,2.0
+CC[C@]1(c2ccccc2)CN(C(=O)NCc2ccccc2)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,FIBSAWBZGJQYNR-AZGAKELHSA-N,True,,agonist,False,6.69,,1.0,1,True,False,False,False,False,False,2.0
+CCS(=O)(=O)c1ccc(CNC(=O)N2C[C@@H](c3ccc(C(O)(C(F)(F)F)C(F)(F)F)cc3)[C@@](C)(c3ccc(F)cc3)C2)cc1,IBNDCXHHUIUCTG-AHKZPQOWSA-N,True,,agonist,False,8.3,,1.0,1,True,False,False,False,False,False,2.0
 [2H]C([2H])([2H])N(C(=O)c1c(F)cccc1Cl)c1ncc(-c2cc(NC(C)=O)nn2C(C)C)cc1N1CC2CC2C1,BVSYOQKSSURMLP-GKOSEXJESA-N,True,,agonist,False,5.89,,1.0,1,True,False,False,False,False,False,2.0
-C[C@]1(c2ccc(F)cc2)CN(C(=O)C2CCN(C(=O)CO)CC2)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,ZSAIHERMGKDZLS-WIOPSUGQSA-N,True,,activator,False,5.71,,1.0,1,True,False,False,False,False,False,2.0
-CCOC(=O)N1C[C@@H](c2ccc(C(O)(C(F)(F)F)C(F)(F)F)cc2)[C@@](C)(c2ccccc2)C1,XYHMSZPCIZCSPX-AZUAARDMSA-N,True,,activator,False,6.22,,1.0,1,True,False,False,False,False,False,2.0
-C[C@]1(c2ccccc2)CNC[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,VNOGAVMRKFTOCP-DLBZAZTESA-N,True,,activator,False,5.9,,1.0,1,True,False,False,False,False,False,2.0
-C[C@]1(c2ccc(F)cc2)CN(C(=O)NCc2ccc3c(c2)OCO3)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,IVYCDZRSZPXSIU-BKMJKUGQSA-N,True,,activator,False,6.75,,1.0,1,True,False,False,False,False,False,2.0
-O=S(=O)(c1ccc(F)cc1)C1(c2ccc(C(OCc3c(F)cccc3F)(C(F)(F)F)C(F)(F)F)cc2)CCCC1,VCGZXUITPFWUPQ-UHFFFAOYSA-N,True,,activator,False,6.33,,1.0,1,True,False,False,False,False,False,2.0
-CC(C)CN(CC(C)C)c1ccc(-c2ccccc2C(=O)O)cc1NC(=O)Nc1ccccc1F,IKFPLKUIOWUYKE-UHFFFAOYSA-N,True,,activator,False,5.68,,1.0,1,True,False,False,False,False,False,2.0
-O=S(=O)(c1ccc(F)cc1)C1(c2ccc(C(OCc3ccccc3OC(F)(F)F)(C(F)(F)F)C(F)(F)F)cc2)CCCC1,LKEFVRSHLPQXBX-UHFFFAOYSA-N,True,,activator,False,5.89,,1.0,1,True,False,False,False,False,False,2.0
-C[C@]1(c2ccc(F)cc2)CN(C(=O)C2CCN(C(N)=O)CC2)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,UQQGWBXOULNAGK-XUZZJYLKSA-N,True,,activator,False,5.97,,1.0,1,True,False,False,False,False,False,2.0
-CC(=O)N1CC(C(=O)N2CC[C@](c3ccc(C(OCc4c(F)cccc4F)(C(F)(F)F)C(F)(F)F)cc3)(S(=O)(=O)c3ccc(F)cc3)C2)C1,PEHYFVRCRZKMOD-LJAQVGFWSA-N,True,,activator,False,5.94,,1.0,1,True,False,False,False,False,False,2.0
-COc1ccc(-c2ccc(Oc3ccccc3C(C)(C)C)c(NC(=O)Nc3ccccc3F)c2)cc1C(=O)O,XAJOXNWLUKPUDW-UHFFFAOYSA-N,True,,activator,False,5.25,,1.0,1,True,False,False,False,False,False,2.0
-Cc1ccc(NC(=O)Nc2cc(-c3ccccc3-c3nn[nH]n3)ccc2N(CC(C)C)CC(C)C)cc1,CJNMMPAEIYFQIJ-UHFFFAOYSA-N,True,,activator,False,5.85,,1.0,1,True,False,False,False,False,False,2.0
-CC(=O)N1CCC(C(=O)N2C[C@H](c3ccc(C(O)(C(F)(F)F)C(F)(F)F)cc3)[C@](C)(c3ccccc3)C2)CC1,YXYVNJXYQMACDG-NOZRDPDXSA-N,True,,activator,False,5.9,,1.0,1,True,False,False,False,False,False,2.0
-CC(=O)N1C[C@@H](c2ccc(C(O)(C(F)(F)F)C(F)(F)F)cc2)[C@@](C)(c2ccccc2)C1,AUXZEIGUWQDCNZ-RBUKOAKNSA-N,True,,activator,False,6.44,,1.0,1,True,False,False,False,False,False,2.0
+C[C@]1(c2ccc(F)cc2)CN(C(=O)C2CCN(C(=O)CO)CC2)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,ZSAIHERMGKDZLS-WIOPSUGQSA-N,True,,agonist,False,5.71,,1.0,1,True,False,False,False,False,False,2.0
+CCOC(=O)N1C[C@@H](c2ccc(C(O)(C(F)(F)F)C(F)(F)F)cc2)[C@@](C)(c2ccccc2)C1,XYHMSZPCIZCSPX-AZUAARDMSA-N,True,,agonist,False,6.22,,1.0,1,True,False,False,False,False,False,2.0
+C[C@]1(c2ccccc2)CNC[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,VNOGAVMRKFTOCP-DLBZAZTESA-N,True,,agonist,False,5.9,,1.0,1,True,False,False,False,False,False,2.0
+C[C@]1(c2ccc(F)cc2)CN(C(=O)NCc2ccc3c(c2)OCO3)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,IVYCDZRSZPXSIU-BKMJKUGQSA-N,True,,agonist,False,6.75,,1.0,1,True,False,False,False,False,False,2.0
+O=S(=O)(c1ccc(F)cc1)C1(c2ccc(C(OCc3c(F)cccc3F)(C(F)(F)F)C(F)(F)F)cc2)CCCC1,VCGZXUITPFWUPQ-UHFFFAOYSA-N,True,,agonist,False,6.33,,1.0,1,True,False,False,False,False,False,2.0
+CC(C)CN(CC(C)C)c1ccc(-c2ccccc2C(=O)O)cc1NC(=O)Nc1ccccc1F,IKFPLKUIOWUYKE-UHFFFAOYSA-N,True,,agonist,False,5.68,,1.0,1,True,False,False,False,False,False,2.0
+O=S(=O)(c1ccc(F)cc1)C1(c2ccc(C(OCc3ccccc3OC(F)(F)F)(C(F)(F)F)C(F)(F)F)cc2)CCCC1,LKEFVRSHLPQXBX-UHFFFAOYSA-N,True,,agonist,False,5.89,,1.0,1,True,False,False,False,False,False,2.0
+C[C@]1(c2ccc(F)cc2)CN(C(=O)C2CCN(C(N)=O)CC2)C[C@H]1c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1,UQQGWBXOULNAGK-XUZZJYLKSA-N,True,,agonist,False,5.97,,1.0,1,True,False,False,False,False,False,2.0
+CC(=O)N1CC(C(=O)N2CC[C@](c3ccc(C(OCc4c(F)cccc4F)(C(F)(F)F)C(F)(F)F)cc3)(S(=O)(=O)c3ccc(F)cc3)C2)C1,PEHYFVRCRZKMOD-LJAQVGFWSA-N,True,,agonist,False,5.94,,1.0,1,True,False,False,False,False,False,2.0
+COc1ccc(-c2ccc(Oc3ccccc3C(C)(C)C)c(NC(=O)Nc3ccccc3F)c2)cc1C(=O)O,XAJOXNWLUKPUDW-UHFFFAOYSA-N,True,,agonist,False,5.25,,1.0,1,True,False,False,False,False,False,2.0
+Cc1ccc(NC(=O)Nc2cc(-c3ccccc3-c3nn[nH]n3)ccc2N(CC(C)C)CC(C)C)cc1,CJNMMPAEIYFQIJ-UHFFFAOYSA-N,True,,agonist,False,5.85,,1.0,1,True,False,False,False,False,False,2.0
+CC(=O)N1CCC(C(=O)N2C[C@H](c3ccc(C(O)(C(F)(F)F)C(F)(F)F)cc3)[C@](C)(c3ccccc3)C2)CC1,YXYVNJXYQMACDG-NOZRDPDXSA-N,True,,agonist,False,5.9,,1.0,1,True,False,False,False,False,False,2.0
+CC(=O)N1C[C@@H](c2ccc(C(O)(C(F)(F)F)C(F)(F)F)cc2)[C@@](C)(c2ccccc2)C1,AUXZEIGUWQDCNZ-RBUKOAKNSA-N,True,,agonist,False,6.44,,1.0,1,True,False,False,False,False,False,2.0
 O=C1c2ccccc2-n2c1nc1ccccc1c2=O,VQQVWGVXDIPORV-UHFFFAOYSA-N,True,,agonist,False,,,,1,False,False,False,True,False,False,1.0
 O=C(C[n+]1cc(Br)cc2ccccc21)c1ccc(Br)cc1,QUNWMIHMMFBLIL-UHFFFAOYSA-N,True,,agonist,False,,,,1,False,False,False,True,False,False,1.0
 c1ccc2[nH]c(-c3ccnc4ccccc34)nc2c1,WQWLWMHHMQYNIE-UHFFFAOYSA-N,True,,agonist,False,,,,1,False,False,False,True,False,False,1.0
