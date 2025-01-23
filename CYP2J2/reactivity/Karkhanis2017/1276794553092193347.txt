@@ -1,0 +1,12 @@
+common_name	SMILES
+astemizole	COC1=CC=C(C=C1)CCN2CCC(CC2)NC3=NC4=CC=CC=C4N3CC5=CC=C(C=C5)F
+terfenadine	CC(C)(C)C1=CC=C(C=C1)C(CCCN2CCC(CC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O)O
+tamoxifen	CC/C(=C(\C1=CC=CC=C1)/C2=CC=C(C=C2)OCCN(C)C)/C3=CC=CC=C3
+nabumetone	CC(=O)CCC1=CC2=C(C=C1)C=C(C=C2)OC
+mesoridazine	CN1CCCCC1CCN2C3=CC=CC=C3SC4=C2C=C(C=C4)S(=O)C
+thioridazine	CN1CCCCC1CCN2C3=CC=CC=C3SC4=C2C=C(C=C4)SC
+apixaban	COC1=CC=C(C=C1)N2C3=C(CCN(C3=O)C4=CC=C(C=C4)N5CCCCC5=O)C(=N2)C(=O)N
+Rivaroxaban	C1COCC(=O)N1C2=CC=C(C=C2)N3C[C@@H](OC3=O)CNC(=O)C4=CC=C(S4)Cl
+Vorapaxar	CCOC(=O)N[C@@H]1CC[C@@H]2[C@@H](C1)C[C@@H]3[C@H]([C@H]2/C=C/C4=NC=C(C=C4)C5=CC(=CC=C5)F)[C@H](OC3=O)C
+isosorbide dinitrate	C1[C@H]([C@@H]2[C@H](O1)[C@H](CO2)O[N+](=O)[O-])O[N+](=O)[O-]
+nitroglycerin	C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]

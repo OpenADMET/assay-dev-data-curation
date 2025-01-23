@@ -1,0 +1,7 @@
+common_name,SMILES,CANONICAL_SMILES,INCHIKEY,dataset,action_type,active
+Terfenadine,CC(C)(C)C1=CC=C(C=C1)C(CCCN2CCC(CC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O)O,CC(C)(C)c1ccc(C(O)CCCN2CCC(C(O)(c3ccccc3)c3ccccc3)CC2)cc1,GUGOEEXESWIERI-UHFFFAOYSA-N,drugbank,inhibitor,True
+Dronedarone,CCCCC1=C(C2=C(O1)C=CC(=C2)NS(=O)(=O)C)C(=O)C3=CC=C(C=C3)OCCCN(CCCC)CCCC,CCCCc1oc2ccc(NS(C)(=O)=O)cc2c1C(=O)c1ccc(OCCCN(CCCC)CCCC)cc1,ZQTNQVWKHCQYLQ-UHFFFAOYSA-N,drugbank,inhibitor,True
+Amiodarone,CCCCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC(=C(C(=C3)I)OCCN(CC)CC)I,CCCCc1oc2ccccc2c1C(=O)c1cc(I)c(OCCN(CC)CC)c(I)c1,IYIKLHRQXLHMJQ-UHFFFAOYSA-N,drugbank,inhibitor,True
+Dronabinol,CCCCCC1=CC(=C2[C@@H]3C=C(CC[C@H]3C(OC2=C1)(C)C)C)O,CCCCCc1cc(O)c2c(c1)OC(C)(C)[C@@H]1CCC(C)=C[C@@H]21,CYQFCXCEBYINGO-IAGOWNOFSA-N,drugbank,inhibitor,True
+Cannabidiol,CCCCCC1=CC(=C(C(=C1)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O,C=C(C)[C@@H]1CCC(C)=C[C@H]1c1c(O)cc(CCCCC)cc1O,QHMBSVQNZZTUGM-ZWKOTPCHSA-N,drugbank,inhibitor,True
+Cannabinol,CCCCCC1=CC(=C2C(=C1)OC(C3=C2C=C(C=C3)C)(C)C)O,CCCCCc1cc(O)c2c(c1)OC(C)(C)c1ccc(C)cc1-2,VBGLYOIFKLUMQG-UHFFFAOYSA-N,drugbank,inhibitor,True
