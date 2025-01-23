@@ -1,0 +1,12 @@
+common_name,SMILES,CANONICAL_SMILES,INCHIKEY,dataset,action_type,active
+astemizole,COC1=CC=C(C=C1)CCN2CCC(CC2)NC3=NC4=CC=CC=C4N3CC5=CC=C(C=C5)F,COc1ccc(CCN2CCC(Nc3nc4ccccc4n3Cc3ccc(F)cc3)CC2)cc1,GXDALQBWZGODGZ-UHFFFAOYSA-N,karkhanis2017,substrate,True
+terfenadine,CC(C)(C)C1=CC=C(C=C1)C(CCCN2CCC(CC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O)O,CC(C)(C)c1ccc(C(O)CCCN2CCC(C(O)(c3ccccc3)c3ccccc3)CC2)cc1,GUGOEEXESWIERI-UHFFFAOYSA-N,karkhanis2017,substrate,True
+tamoxifen,CC/C(=C(\C1=CC=CC=C1)/C2=CC=C(C=C2)OCCN(C)C)/C3=CC=CC=C3,CC/C(=C(\c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1,NKANXQFJJICGDU-QPLCGJKRSA-N,karkhanis2017,substrate,True
+nabumetone,CC(=O)CCC1=CC2=C(C=C1)C=C(C=C2)OC,COc1ccc2cc(CCC(C)=O)ccc2c1,BLXXJMDCKKHMKV-UHFFFAOYSA-N,karkhanis2017,substrate,True
+mesoridazine,CN1CCCCC1CCN2C3=CC=CC=C3SC4=C2C=C(C=C4)S(=O)C,CN1CCCCC1CCN1c2ccccc2Sc2ccc([S+](C)[O-])cc21,SLVMESMUVMCQIY-UHFFFAOYSA-N,karkhanis2017,substrate,True
+thioridazine,CN1CCCCC1CCN2C3=CC=CC=C3SC4=C2C=C(C=C4)SC,CSc1ccc2c(c1)N(CCC1CCCCN1C)c1ccccc1S2,KLBQZWRITKRQQV-UHFFFAOYSA-N,karkhanis2017,substrate,True
+apixaban,COC1=CC=C(C=C1)N2C3=C(CCN(C3=O)C4=CC=C(C=C4)N5CCCCC5=O)C(=N2)C(=O)N,COc1ccc(-n2nc(C(N)=O)c3c2C(=O)N(c2ccc(N4CCCCC4=O)cc2)CC3)cc1,QNZCBYKSOIHPEH-UHFFFAOYSA-N,karkhanis2017,substrate,True
+Rivaroxaban,C1COCC(=O)N1C2=CC=C(C=C2)N3C[C@@H](OC3=O)CNC(=O)C4=CC=C(S4)Cl,O=C(NC[C@H]1CN(c2ccc(N3CCOCC3=O)cc2)C(=O)O1)c1ccc(Cl)s1,KGFYHTZWPPHNLQ-AWEZNQCLSA-N,karkhanis2017,substrate,True
+Vorapaxar,CCOC(=O)N[C@@H]1CC[C@@H]2[C@@H](C1)C[C@@H]3[C@H]([C@H]2/C=C/C4=NC=C(C=C4)C5=CC(=CC=C5)F)[C@H](OC3=O)C,CCOC(=O)N[C@@H]1CC[C@@H]2[C@H](CC3C(=O)O[C@H](C)[C@H]3[C@H]2/C=C/c2ccc(-c3cccc(F)c3)cn2)C1,ZBGXUVOIWDMMJE-MTJZJIGHSA-N,karkhanis2017,substrate,True
+isosorbide dinitrate,C1[C@H]([C@@H]2[C@H](O1)[C@H](CO2)O[N+](=O)[O-])O[N+](=O)[O-],O=[N+]([O-])O[C@H]1CO[C@H]2[C@@H]1OC[C@H]2O[N+](=O)[O-],MOYKHGMNXAOIAT-JGWLITMVSA-N,karkhanis2017,substrate,True
+nitroglycerin,C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-],O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-],SNIOPGDIGTZGOP-UHFFFAOYSA-N,karkhanis2017,substrate,True
