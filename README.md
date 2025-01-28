@@ -8,6 +8,6 @@ Aggregation of compounds known to be active against below targets for assay deve
 * CYP2C9
 * CYP2D6
 * CYP3A4
+* CYP2J2
 * PXR
 * AHR
-
