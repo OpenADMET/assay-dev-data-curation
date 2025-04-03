@@ -2,7 +2,7 @@ SMILES,active,common_name,action_type
 CC(=O)CC(c1ccc([N+](=O)[O-])cc1)c1c(O)c2ccccc2oc1=O, True,Acenocoumarol,substrate
 Cn1c(=O)c2[nH]cnc2n(C)c1=O.Cn1c(=O)c2[nH]cnc2n(C)c1=O.NCCN,True,Aminophylline,substrate
 CC(C)NCC(O)COc1ccc(CCOCC2CC2)cc1,True,Betaxolol,substrate
-Cn1c(=O)c2c(ncn2C)n(C)c1=O,Caffeine,True,substrate
+Cn1c(=O)c2c(ncn2C)n(C)c1=O,True,Caffeine,substrate
 CN(C)CCCN1c2ccccc2CCc2ccc(Cl)cc21,True,Clomipramine,substrate
 CN1CCN(C2=Nc3cc(Cl)ccc3Nc3ccccc32)CC1,True,Clozapine,substrate
 CN(C)CCC=C1c2ccccc2C=Cc2ccccc21,True,Cyclobenzaprine,substrate
